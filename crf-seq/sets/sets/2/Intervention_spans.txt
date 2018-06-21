@@ -1,0 +1,2918 @@
+23549581
+
+gold spans: [[2, 4], [137, 139], [140, 142], [142, 144], [145, 148]]
+
+duloxetine on 
+duloxetine followed 
+placebo or 
+placebo followed 
+duloxetine . Eligibility 
+
+
+crf spans: [[137, 147], [213, 217], [228, 233]]
+
+duloxetine followed by placebo or placebo followed by duloxetine . 
+duloxetine or placebo for 
+duloxetine or placebo daily for 
+
+
+11401641
+
+gold spans: [[112, 115], [132, 135], [137, 139], [139, 142], [151, 153], [155, 158]]
+
+timolol , 5 
+timolol , one 
+timolol to 
+latanoprost , 50 
+latanoprost in 
+timolol . The 
+
+
+crf spans: [[27, 38]]
+
+switching from timolol to latanoprost or adding latanoprost to timolol in 
+
+
+22744141
+
+gold spans: [[3, 7], [27, 34], [80, 91], [143, 145]]
+
+enhanced milieu teaching with 
+enhanced milieu teaching ( EMT ) implemented 
+parent + therapist EMT or therapist - only EMT ) and 
+EMT strategies 
+
+
+crf spans: []
+
+
+
+20739054
+
+gold spans: [[0, 2], [22, 24], [44, 46], [46, 48], [117, 119], [120, 122]]
+
+Eltrombopag for 
+Eltrombopag is 
+eltrombopag versus 
+placebo in 
+eltrombopag or 
+placebo once 
+
+
+crf spans: [[113, 122]]
+
+care plus 50 mg eltrombopag or matching placebo once 
+
+
+16427787
+
+gold spans: [[5, 7], [12, 15], [58, 60], [73, 76], [158, 160], [195, 197]]
+
+melatonin in 
+Melatonin , the 
+placebo controlled 
+placebo , reduced 
+melatonin on 
+melatonin in 
+
+
+crf spans: []
+
+
+
+24350813
+
+gold spans: [[12, 14], [39, 41]]
+
+risperidone in 
+risperidone in 
+
+
+crf spans: []
+
+
+
+21211686
+
+gold spans: [[15, 17], [62, 64], [79, 81], [104, 106], [106, 108], [159, 162], [240, 243], [407, 409]]
+
+pioglitazone on 
+pioglitazone on 
+Pioglitazone slowed 
+pioglitazone or 
+glimepiride for 
+Pioglitazone - treated 
+pioglitazone , and 
+pioglitazone on 
+
+
+crf spans: [[104, 108]]
+
+pioglitazone or glimepiride for 
+
+
+24960665
+
+gold spans: []
+
+
+
+crf spans: []
+
+
+
+7844976
+
+gold spans: [[6, 9], [75, 79], [79, 82]]
+
+teacher training on 
+live workshop training or 
+video training condition 
+
+
+crf spans: [[75, 84]]
+
+live workshop training or video training condition . The 
+
+
+2188766
+
+gold spans: [[1, 4], [4, 6], [61, 63], [68, 70]]
+
+vasodilator therapy with 
+flosequinan in 
+flosequinan ( 
+placebo ( 
+
+
+crf spans: []
+
+
+
+24726342
+
+gold spans: [[99, 122]]
+
+dyspnea evaluation ( VAS score ) and pulmonary function testing at baseline and one hour after placebo or 300g indacaterol administration . 
+ 
+
+
+crf spans: []
+
+
+
+23103798
+
+gold spans: [[68, 73], [80, 82]]
+
+posterior tibial nerve stimulation for 
+placebo group 
+
+
+crf spans: []
+
+
+
+25931290
+
+gold spans: [[0, 5], [32, 37], [100, 107], [110, 113]]
+
+Sensory Adapted Dental Environments to 
+sensory adapted dental environment ( 
+regular dental environment ( RDE ) and 
+SADE , administered 
+
+
+crf spans: []
+
+
+
+18503531
+
+gold spans: [[4, 8], [46, 53], [245, 250]]
+
+social skills intervention for 
+The Junior Detective Training Program . This 
+Junior Detective Training Program appeared 
+
+
+crf spans: []
+
+
+
+8989009
+
+gold spans: [[16, 25], [34, 39], [124, 127], [146, 149]]
+
+crystalloids , colloids , and no prehydration . 
+
+ 
+crystalloid or colloid solution ( 
+crystalloid solution ( 
+no prehydration ( 
+
+
+crf spans: []
+
+
+
+15133359
+
+gold spans: [[53, 66], [71, 88], [97, 100], [110, 114], [125, 127], [131, 133], [136, 139], [155, 157], [164, 166], [179, 181], [188, 190], [210, 212], [219, 221]]
+
+dedicated guiding catheters ( guiding catheter alone positioning strategy , GCA ) or 
+electrophysiology catheter advanced inside the guiding catheter ( electrophysiology catheter aided positioning strategy , EPA ) . 
+EPA technique is 
+GCA technique . 
+ 
+GCA ( 
+EPA ( 
+CS cannulation strategy 
+EPA group 
+GCA group 
+EPA group 
+GCA group 
+EPA group 
+GCA group 
+
+
+crf spans: []
+
+
+
+23838728
+
+gold spans: [[58, 61]]
+
+COMPASS intervention ( 
+
+
+crf spans: []
+
+
+
+11454878
+
+gold spans: [[11, 15], [15, 18], [26, 33], [33, 35], [72, 74], [84, 86], [123, 125], [126, 129], [191, 194], [206, 208], [222, 224], [227, 230], [233, 235], [238, 240], [268, 270], [281, 283], [318, 320]]
+
+pegylated liposomal doxorubicin versus 
+topotecan . 
+
+ 
+pegylated liposomal doxorubicin ( PLD ) and 
+topotecan in 
+PLD 50 
+topotecan 1.5 
+PLD and 
+topotecan ) . 
+topotecan . Data 
+PLD for 
+PLD versus 
+topotecan . For 
+PLD was 
+topotecan ( 
+topotecan ( 
+topotecan and 
+PLD as 
+
+
+crf spans: [[26, 32]]
+
+pegylated liposomal doxorubicin ( PLD ) 
+
+
+18077611
+
+gold spans: [[21, 24], [26, 28], [66, 71], [76, 81]]
+
+Zostavax . 
+
+ 
+Zostavax has 
+( Zostavax refrigerated ) with 
+( Zostavax frozen ) in 
+
+
+crf spans: []
+
+
+
+25950425
+
+gold spans: [[4, 7], [7, 12], [29, 33], [33, 38], [95, 98], [98, 103], [109, 112], [112, 114], [132, 139], [145, 150], [270, 273], [273, 278], [283, 286], [313, 315]]
+
+oral pregabalin and 
+perioperative intravenous lidocaine infusion on 
+preoperative oral pregabalin and 
+perioperative intravenous lidocaine infusion on 
+placebo capsules and 
+normal saline infusion perioperatively ( 
+placebo capsules and 
+lidocaine 1 
+oral pregabalin and normal saline infusion perioperatively 
+oral pregabalin and lidocaine 2 
+oral pregabalin and 
+perioperative intravenous lidocaine infusion decreased 
+oral pregabalin decreased 
+pregabalin with 
+
+
+crf spans: [[3, 15], [29, 41], [90, 156], [270, 278]]
+
+preoperative oral pregabalin and perioperative intravenous lidocaine infusion on postoperative morphine requirement 
+preoperative oral pregabalin and perioperative intravenous lidocaine infusion on postoperative morphine requirement 
+) : group C , placebo capsules and normal saline infusion perioperatively ( control ) ; group L , placebo capsules and lidocaine 1 mgkg intravenous bolus dose followed by 2 mgkgh infusion until skin closure ; group P , 150 mg oral pregabalin and normal saline infusion perioperatively ; and group PL , 150&nbsp;mg oral pregabalin and lidocaine 2 mgkgh infusion until skin closure . 
+oral pregabalin and perioperative intravenous lidocaine infusion decreased 
+
+
+21491990
+
+gold spans: [[36, 42], [95, 116], [119, 135], [138, 151]]
+
+chlorhexidine ( CHX ) chips used 
+CHX chips ( test ) or placebo chips ( control ) were placed in pockets with PD 5 mm . Ten 
+SRP was performed in all teeth with PD 4 mm in a single appointment . Immediately 
+new chips were inserted in all pockets with PD 5 mm . Parameters 
+
+
+crf spans: []
+
+
+
+14739125
+
+gold spans: [[20, 23], [37, 39], [81, 83], [86, 88], [110, 112]]
+
+torcetrapib . 
+
+ 
+torcetrapib ( 
+placebo ( 
+torcetrapib ( 
+Torcetrapib was 
+
+
+crf spans: []
+
+
+
+3067745
+
+gold spans: [[0, 2], [3, 6], [39, 42], [43, 46], [48, 51], [100, 102]]
+
+Levobunolol compared 
+timolol : a 
+levobunolol , 1 
+levobunolol , or 
+timolol . The 
+levobunolol to 
+
+
+crf spans: [[0, 6]]
+
+Levobunolol compared with timolol : a 
+
+
+21982657
+
+gold spans: [[82, 86]]
+
+placebo or myoblasts ( 
+
+
+crf spans: []
+
+
+
+14763035
+
+gold spans: [[1, 9], [27, 36], [101, 104], [108, 112]]
+
+selective angiotensin receptor antagonist , Valsartan , produced 
+selective angiotensin II receptor blocker ( ARB ) would 
+ARB valsartan ( 
+or a placebo ( 
+
+
+crf spans: []
+
+
+
+8726604
+
+gold spans: [[42, 76]]
+
+receive either sevoflurane or isoflurane in 60 % nitrous oxide - oxygen . Induction with thiopental 3 - 6 mg/kg was followed by vecuronium 0.1 mg/kg and fentanyl 0 - 200 micrograms . Duration 
+
+
+crf spans: [[3, 7], [23, 29], [44, 48]]
+
+sevoflurane and isoflurane on 
+inhalational anesthetic sevoflurane with isoflurane in 
+sevoflurane or isoflurane in 
+
+
+20226474
+
+gold spans: [[137, 143]]
+
+forceps biopsy and cryobiopsy , were 
+
+
+crf spans: []
+
+
+
+11737955
+
+gold spans: [[26, 29], [65, 67], [73, 81], [82, 86], [88, 95]]
+
+antioxidant supplementation on 
+supplementation ( 
+dl - alpha - tocopheryl acetate , 200 
+ascorbic acid , and 
+beta - carotene , and placebo ( 
+
+
+crf spans: [[75, 95]]
+
+alpha - tocopheryl acetate , 200 mg ascorbic acid , and 2 mg beta - carotene , and placebo ( 
+
+
+10934569
+
+gold spans: [[3, 7], [24, 27], [27, 31], [31, 34], [56, 59], [74, 77], [95, 99], [115, 118], [120, 123]]
+
+intensive early intervention for 
+intensive treatment or 
+parent training . The 
+intensive treatment group 
+individual treatment for 
+parent training group 
+parent training . The 
+intensive treatment group 
+parent training group 
+
+
+crf spans: []
+
+
+
+21924760
+
+gold spans: [[31, 39], [39, 46], [102, 104], [154, 156], [160, 162], [172, 174], [175, 177], [201, 203], [235, 237], [254, 256], [275, 278]]
+
+Time in therapeutic range ( TTR ) for 
+international normalized ratio ( INR ) is 
+anticoagulation quality 
+stroke analysis 
+bleeding analysis 
+TTR of 
+stroke cases 
+stroke and 
+bleeding cases 
+TTR was 
+TTR , with 
+
+
+crf spans: []
+
+
+
+10475150
+
+gold spans: [[3, 8], [24, 26], [52, 54], [113, 117], [117, 120], [287, 290], [322, 324]]
+
+somatostatin ( octreotide ) in 
+Somatostatin has 
+somatostatin has 
+saline or octreotide ( 
+Sandostatin ; each 
+somatostatin -- in 
+somatostatin may 
+
+
+crf spans: [[1, 7], [112, 119], [209, 216]]
+
+role of somatostatin ( octreotide ) 
+either saline or octreotide ( Sandostatin ; 
+secretion during octreotide and saline . Urinary 
+
+
+20147856
+
+gold spans: [[9, 11], [12, 14], [45, 50], [86, 89], [102, 104], [253, 257]]
+
+gemcitabine and 
+S-1 in 
+gemcitabine combined with S-1 in 
+oral S-1 ( 
+gemcitabine ( 
+gemcitabine and S-1 was 
+
+
+crf spans: [[9, 14]]
+
+gemcitabine and oral S-1 in 
+
+
+10589810
+
+gold spans: [[185, 188], [189, 195], [216, 219]]
+
+control group and 
+treated with conventional steel curettes during 
+plastic curettes during 
+
+
+crf spans: []
+
+
+
+2088233
+
+gold spans: [[4, 7], [33, 35], [202, 204]]
+
+adjunctive doxycycline in 
+doxycycline ( 
+doxycycline in 
+
+
+crf spans: []
+
+
+
+10940525
+
+gold spans: [[4, 6], [41, 43], [74, 76], [93, 95], [137, 145], [153, 158], [171, 173], [341, 343], [394, 396], [421, 423], [478, 480], [517, 519]]
+
+selamectin against 
+selamectin in 
+selamectin treatment 
+selamectin was 
+three months of topical treatment with selamectin ( 
+positive - control product ( 
+Selamectin was 
+Selamectin also 
+Selamectin achieved 
+Selamectin was 
+selamectin was 
+Selamectin also 
+
+
+crf spans: [[382, 393]]
+
+treatment with selamectin ( n=298 ) or ivermectin ( n=99 ) 
+
+
+18337284
+
+gold spans: [[104, 110], [122, 129]]
+
+oral amoxicillin 1500 mg QD ( 
+oral penicillin V 500 mg BID ( 
+
+
+crf spans: [[0, 10]]
+
+Once - daily amoxicillin versus twice - daily penicillin V 
+
+
+19727232
+
+gold spans: [[3, 7], [77, 81], [81, 84]]
+
+auditory integrative training on 
+auditory integrative training and 
+no training based 
+
+
+crf spans: []
+
+
+
+20804366
+
+gold spans: [[4, 6], [6, 9], [58, 61], [72, 82]]
+
+acupuncture versus 
+sham acupuncture in 
+tongue acupuncture ( 
+sham tongue acupuncture to nonacupoints in the tongue ) . 
+
+
+crf spans: [[4, 9], [22, 27]]
+
+acupuncture versus sham acupuncture in 
+acupuncture versus sham acupuncture in 
+
+
+23114870
+
+gold spans: [[29, 33], [89, 101], [125, 129], [136, 145], [152, 158]]
+
+total knee arthroplasty ( 
+custom - fit magnetic resonance imaging ( MRI)-based pin guides . 
+ 
+intramedullary alignment jigs were 
+custom - fit MRI - based pin guides were 
+cemented posterior - stabilized implant through 
+
+
+crf spans: []
+
+
+
+19802506
+
+gold spans: [[3, 6], [36, 40], [223, 225], [228, 231], [235, 237], [244, 247]]
+
+weight training on 
+weight training exercises enhanced 
+calcium and 
+vitamin D daily 
+risedronate weekly 
+ST exercises twice 
+
+
+crf spans: [[223, 232]]
+
+calcium and 400 IU of vitamin D daily and 
+
+
+25886492
+
+gold spans: [[147, 152], [155, 160], [164, 166]]
+
+Tailored Personalised Decision Support ( 
+Non - Tailored PDS ( 
+Control ( 
+
+
+crf spans: []
+
+
+
+19376304
+
+gold spans: [[17, 20], [21, 24], [49, 52], [64, 67], [81, 83], [100, 102]]
+
+warfarin , compared 
+dabigatran . 
+
+ 
+Dabigatran etexilate is 
+dabigatran . It 
+warfarin ( 
+dabigatran ( 
+
+
+crf spans: []
+
+
+
+21914768
+
+gold spans: [[73, 85]]
+
+TC or TC +TSE information group or a no information control group 
+
+
+crf spans: []
+
+
+
+15358868
+
+gold spans: [[23, 27]]
+
+visual search tasks and 
+
+
+crf spans: []
+
+
+
+21393467
+
+gold spans: [[125, 130], [134, 138]]
+
+perturbations to treadmill walking to 
+step frequency . We 
+
+
+crf spans: []
+
+
+
+20509069
+
+gold spans: [[62, 69]]
+
+virtual reality hypnosis ( VRH)-hypnotic induction and 
+
+
+crf spans: []
+
+
+
+11229858
+
+gold spans: [[2, 5], [24, 27], [29, 31]]
+
+antipyretic drugs in 
+naproxen , but 
+metamizol , 
+
+
+crf spans: []
+
+
+
+16505427
+
+gold spans: [[9, 11], [31, 33], [58, 61], [72, 75], [82, 85]]
+
+erythropoietin in 
+epoetin alfa 
+epoetin alfa 40,000 
+epoetin alfa ( 
+epoetin alfa ( 
+
+
+crf spans: [[58, 85]]
+
+epoetin alfa 40,000 U subcutaneously ( SC ) , followed by either standard weekly epoetin alfa ( 40K arm ) or 120,000 U of epoetin alfa ( 
+
+
+4919024
+
+gold spans: [[13, 16], [24, 26], [100, 102]]
+
+amantadine : a 
+amantadine in 
+placebo group 
+
+
+crf spans: []
+
+
+
+22865017
+
+gold spans: [[68, 76], [119, 127], [184, 188], [190, 192], [193, 198], [200, 206]]
+
+Three Component Model ( 3CM ) , with 
+usual care or usual care plus 3CM. Blinded 
+usual care . Participants 
+3CM also 
+telephone care management . Care 
+supervision from a psychiatrist . 
+ 
+
+
+crf spans: [[119, 126]]
+
+usual care or usual care plus 3CM. 
+
+
+10763172
+
+gold spans: [[11, 13], [13, 16], [40, 47], [47, 51], [150, 154], [157, 159], [251, 255]]
+
+xylometazoline and 
+dexpanthenol ] . 
+Xylometazoline with Dexpanthenol ( Nasic ) versus 
+Xylometazoline alone . 
+ 
+Xylometazoline - Dexpanthenol nasal 
+Xylometazoline nasal 
+Xylometazoline - Dexpanthenol is 
+
+
+crf spans: [[40, 50], [150, 159]]
+
+Xylometazoline with Dexpanthenol ( Nasic ) versus Xylometazoline alone . 
+Xylometazoline - Dexpanthenol nasal - spray versus Xylometazoline nasal 
+
+
+18783504
+
+gold spans: [[3, 5], [26, 28], [70, 72], [144, 149]]
+
+bupropion sustained 
+bupropion sustained 
+bupropion SR 
+bupropion SR or placebo pill 
+
+
+crf spans: [[144, 161]]
+
+bupropion SR or placebo pill and to receive eight brief individual counseling sessions or no counseling . 
+
+
+25898782
+
+gold spans: [[66, 69], [69, 74]]
+
+propofol , nurse 
+anesthetist - controlled sedation ( 
+
+
+crf spans: []
+
+
+
+11495215
+
+gold spans: [[142, 152]]
+
+12-hr nicotine deprivation or administration of nicotine gum . One 
+
+
+crf spans: [[142, 151], [196, 202]]
+
+12-hr nicotine deprivation or administration of nicotine gum . 
+smoking status or nicotine administration on 
+
+
+18773733
+
+gold spans: [[69, 72], [72, 96]]
+
+auditory stimulation ( 
+no tone , tone at detection threshold , tone at 5 dB above threshold , and tone at 10 dB above threshold ) . 
+
+
+crf spans: []
+
+
+
+23985254
+
+gold spans: [[116, 121], [132, 138]]
+
+concurrent capecitabine and radiotherapy ( 
+capecitabine and oxaliplatin plus radiotherapy ( 
+
+
+crf spans: [[83, 89], [116, 125], [132, 144], [467, 475]]
+
+capecitabine with or without oxaliplatin were 
+concurrent capecitabine and radiotherapy ( Cap - CRT ) 
+capecitabine and oxaliplatin plus radiotherapy ( Cap - Oxa - CRT ) 
+adjuvant concurrent chemoradiotherapy of capecitabine and oxaliplatin . 
+
+
+7808649
+
+gold spans: [[104, 107]]
+
+ketorolac tromethamine 10 
+
+
+crf spans: []
+
+
+
+24989854
+
+gold spans: [[6, 10], [28, 35], [59, 61], [114, 116], [134, 136], [187, 202], [202, 209], [224, 228], [332, 334]]
+
+social skills training for 
+Social skills training ( SST ) is 
+SSTs are 
+SST and 
+SST to 
+SST , SST - PTI ( SST with Parent & Teacher Involvement ) , or 
+care - as - usual . The 
+SST - PTI condition 
+SST in 
+
+
+crf spans: []
+
+
+
+22154769
+
+gold spans: [[12, 15], [60, 66], [109, 112], [117, 120], [243, 245]]
+
+zoster vaccine in 
+zoster vaccine ( ZV ) has 
+ZV , separated 
+placebo . Immunogenicity 
+placebo group 
+
+
+crf spans: []
+
+
+
+7853069
+
+gold spans: [[145, 151], [160, 198]]
+
+waiting room screening questionnaire . 
+ 
+1 ) providing an educational demonstration of anxiety in the primary care setting and 2 ) providing a reporting system for summarizing the anxiety symptom levels and functioning status of the patients enrolled in the study . 
+ 
+
+
+crf spans: []
+
+
+
+1968178
+
+gold spans: [[2, 5], [41, 44]]
+
+cuff inflation on 
+inflated cuff were 
+
+
+crf spans: []
+
+
+
+12709693
+
+gold spans: [[3, 7], [11, 18], [35, 37], [37, 39], [49, 57], [91, 93], [99, 101], [111, 125], [318, 322]]
+
+remifentanil and propofol versus 
+fentanyl , midazolam , and propofol for 
+remifentanil and 
+propofol might 
+midazolam , fentanyl , and propofol . 
+ 
+remifentanil ( 
+propofol in 
+fentanyl ( 2 microg/kg ) , midazolam ( 0.05 mg/kg ) and propofol ( 
+remifentanil and propofol for 
+
+
+crf spans: [[0, 15], [44, 53]]
+
+Conscious analgesia/sedation with remifentanil and propofol versus total intravenous anesthesia with fentanyl , midazolam , 
+anesthesia by intravenous administration of midazolam , fentanyl , 
+
+
+23849147
+
+gold spans: [[0, 3], [22, 25], [28, 31], [60, 65]]
+
+Bayesian adaptive trials 
+Bayesian adaptive comparative 
+three treatments for 
+Bayesian adaptive design . 
+ 
+
+
+crf spans: []
+
+
+
+23021296
+
+gold spans: [[140, 143], [146, 150]]
+
+physical activity level 
+sun exposure , while 
+
+
+crf spans: []
+
+
+
+22881991
+
+gold spans: [[137, 169]]
+
+watched a DVD designed to teach emotion recognition skills to children with autism ( the Transporters ) , whereas the control group watched a DVD of Thomas the Tank Engine . Participants 
+
+
+crf spans: []
+
+
+
+25479285
+
+gold spans: [[85, 101]]
+
+being sent text messages ( Text group , 151 ) or not being sent them ( 
+
+
+crf spans: []
+
+
+
+9394106
+
+gold spans: [[4, 6], [102, 113]]
+
+paromomycin on 
+paromomycin sulfate ( 3 x 1 g/day ) or placebo in 
+
+
+crf spans: [[102, 105], [159, 163]]
+
+paromomycin sulfate ( 
+paromomycin or placebo were 
+
+
+23356250
+
+gold spans: [[2, 5], [44, 47], [94, 97]]
+
+lime juice on 
+lime juice was 
+lime juice on 
+
+
+crf spans: []
+
+
+
+1669598
+
+gold spans: [[45, 56], [92, 95], [101, 103], [103, 107], [120, 126]]
+
+powder extract of house dust mite ( HDM ) , in 
+placebo , 5 
+PI and 
+inhalation of lactose for 
+disodium cromoglycate ( DSCG ) ( 
+
+
+crf spans: []
+
+
+
+10578479
+
+gold spans: [[2, 4], [109, 112]]
+
+soy intake 
+soy beverage containing 
+
+
+crf spans: [[139, 161]]
+
+estrone , estradiol , sex hormone - binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations with soy feeding in 
+
+
+15014018
+
+gold spans: [[13, 18], [144, 152], [155, 157], [323, 325]]
+
+high - dose interferon for 
+high - dose IFN - alpha 2b ( 
+Obs in 
+HDI is 
+
+
+crf spans: []
+
+
+
+16295154
+
+gold spans: [[118, 121], [150, 222]]
+
+nursing intervention on 
+usual care plus 3 hours contact with a pediatric nurse practitioner ( PNP ) for counseling , instruction , and assistance with implementation of the recommended treatment plan . The control group received only the usual care post - diagnosis , which consisted of a 1-hour consultation session to receive the results of diagnostic tests and a written copy of the recommended treatment plan provided by a developmental pediatrician and/or PNP. Between 
+
+
+crf spans: []
+
+
+
+3074300
+
+gold spans: [[2, 8], [34, 37], [69, 71]]
+
+angiotensin - converting enzyme inhibitors in 
+placebo - controlled 
+Captopril significantly 
+
+
+crf spans: [[23, 26]]
+
+captopril monotherapy on 
+
+
+9816035
+
+gold spans: [[0, 3], [136, 141], [146, 150], [246, 248]]
+
+Amonafide : An 
+cyclophosphamide - doxorubicin-5-fluorouracil , or 
+cyclophosphamide - doxorubicin-5-fluorouracil . 
+Amonafide was 
+
+
+crf spans: [[135, 150]]
+
+standard cyclophosphamide - doxorubicin-5-fluorouracil , or to immediate treatment with standard cyclophosphamide - doxorubicin-5-fluorouracil . 
+
+
+18845996
+
+gold spans: [[15, 17], [17, 22], [48, 53], [54, 58]]
+
+doxorubicin or 
+pegylated liposomal doxorubicin : the 
+doxorubicin ( DOX ) or 
+pegylated liposomal formulation ( 
+
+
+crf spans: [[15, 21], [46, 60]]
+
+doxorubicin or pegylated liposomal doxorubicin : 
+chemotherapy with doxorubicin ( DOX ) or a pegylated liposomal formulation ( PLD ) 
+
+
+19159999
+
+gold spans: [[7, 9], [11, 15], [43, 51], [52, 56], [77, 81], [86, 91]]
+
+nifedipine sustained 
+Ginkgo biloba extract to 
+nifedipine sustained release ( nifedipine SR ) compared 
+Ginkgo biloba extract as 
+nifedipine SR group ( 
+Ginkgo biloba extract group ( 
+
+
+crf spans: [[43, 50], [77, 84]]
+
+nifedipine sustained release ( nifedipine SR ) 
+nifedipine SR group ( Group N ) 
+
+
+8519720
+
+gold spans: [[112, 122], [128, 136]]
+
+SM preoperatively and INB with bupivacaine ( INB+ ) prior 
+SM with INB using saline ( INB- ) 
+
+
+crf spans: [[115, 134]]
+
+INB with bupivacaine ( INB+ ) prior to wound closure or 0.5 mg SM with INB using saline ( 
+
+
+1286547
+
+gold spans: [[53, 55], [58, 60], [75, 79]]
+
+placebo or 
+Nitrendipine was 
+platelet thromboxane formation at 
+
+
+crf spans: [[53, 60]]
+
+placebo or nitrendipine treatment . Nitrendipine was 
+
+
+26210844
+
+gold spans: [[61, 66]]
+
+Rapid Interactive Screening Test for 
+
+
+crf spans: []
+
+
+
+8913901
+
+gold spans: [[98, 103], [103, 109]]
+
+coronary artery bypass grafting or 
+percutaneous transluminal coronary angioplasty . The 
+
+
+crf spans: []
+
+
+
+6421395
+
+gold spans: [[2, 6], [45, 49]]
+
+mild physical exercise on 
+regular physical exercise for 
+
+
+crf spans: []
+
+
+
+9695300
+
+gold spans: [[0, 2], [82, 84], [105, 107], [124, 126], [134, 136]]
+
+Salbutamol or 
+salbutamol was 
+saline was 
+mist in 
+oxygen during 
+
+
+crf spans: [[98, 107]]
+
+2 mL saline ; ( ii ) saline was 
+
+
+16167234
+
+gold spans: [[61, 113]]
+
+either BCAA enriched ( study group , n=20 ) or routine amino acid ( control group , n=20 ) for seven consecutive days . Nitrogen balance , serum total protein , albumin , prealbumin , transferrin , retinol binding protein and postoperative fatigue score were monitored during the postoperative period . 
+ 
+
+
+crf spans: [[3, 10], [27, 32], [71, 75]]
+
+branch chain amino acid enriched formula on 
+branch chain amino acid ( 
+routine amino acid ( 
+
+
+1963383
+
+gold spans: [[3, 14], [41, 48], [48, 61], [61, 65]]
+
+liu wei di huang or jin gui shen qi decoction as 
+traditional Chinese Kidney - tonifying decoction ( 
+Liu Wei Di Huang or Jin Gui Shen Qi medicinal decoction ) in 
+chemotherapy or radiotherapy courses 
+
+
+crf spans: []
+
+
+
+2908133
+
+gold spans: [[3, 5], [33, 35], [40, 44], [79, 81], [86, 88], [144, 146], [238, 240], [306, 309]]
+
+ketazolam in 
+ketazolam ( 
+with placebo , each 
+ketazolam 15 
+placebo for 
+ketazolam were 
+ketazolam continued 
+placebo , who 
+
+
+crf spans: []
+
+
+
+12595499
+
+gold spans: [[72, 78]]
+
+ramipril 's effects to placebo in 
+
+
+crf spans: []
+
+
+
+22956006
+
+gold spans: [[5, 8], [21, 23], [86, 88], [88, 90], [127, 129], [140, 142], [154, 156], [156, 161], [162, 164], [212, 214], [216, 219], [275, 278], [345, 347], [347, 349]]
+
+placebo - controlled 
+dexamethasone beyond 
+dexamethasone or 
+placebo for 
+dexamethasone ( 
+placebo for 
+granisetron and 
+dexamethasone pre - chemotherapy and 
+granisetron on 
+fluorouracil/epirubicin/cyclophosphamide and 
+doxorubicin/cyclophosphamide . Thirteen 
+dexamethasone ; 12 
+dexamethasone or 
+placebo was 
+
+
+crf spans: [[86, 92], [153, 164], [345, 349]]
+
+dexamethasone or placebo for prophylaxis against 
+intravenous granisetron and dexamethasone pre - chemotherapy and oral granisetron on 
+dexamethasone or placebo was 
+
+
+9481998
+
+gold spans: [[2, 5], [19, 22], [36, 39], [85, 88], [114, 117], [123, 125]]
+
+indomethacin phonophoresis on 
+indomethacin phonophoresis on 
+placebo - controlled 
+ultrasound massage ( 
+indomethacin cream was 
+placebo cream 
+
+
+crf spans: []
+
+
+
+21718094
+
+gold spans: [[0, 4], [54, 58], [61, 70], [81, 84], [84, 89], [273, 277]]
+
+Insulin pump therapy started 
+insulin pump therapy at 
+multiple daily insulin injections ( MDIs ) . 
+ 
+MDI therapy with 
+continuous subcutaneous insulin therapy ( 
+insulin pump therapy at 
+
+
+crf spans: [[81, 92]]
+
+MDI therapy with continuous subcutaneous insulin therapy ( pump therapy ) 
+
+
+11891832
+
+gold spans: [[11, 13], [13, 16], [24, 27], [44, 47], [83, 85], [88, 90], [138, 140], [145, 147]]
+
+methotrexate or 
+placebo . 
+
+ 
+oral methotrexate could 
+placebo - controlled 
+methotrexate and 
+placebo ( 
+methotrexate group 
+methotrexate did 
+
+
+crf spans: []
+
+
+
+12960652
+
+gold spans: [[9, 13], [48, 50], [82, 86], [259, 262]]
+
+epigastric impedance . 
+
+ 
+electrogastrography using 
+epigastric impedance , has 
+epigastric impedance we 
+
+
+crf spans: []
+
+
+
+2066441
+
+gold spans: [[6, 15], [59, 72], [85, 91], [96, 106], [108, 111]]
+
+tetracycline - immobilized collagen film and root planing in 
+tetracycline - immobilized cross - linked collagen film ( TC film ) at 
+root planing treatment ( RP group 
+combination treatment ( TC + RP group ) ; ( 
+no treatment ( 
+
+
+crf spans: []
+
+
+
+17897478
+
+gold spans: [[0, 5], [5, 11], [76, 89], [89, 96], [121, 125], [207, 209], [220, 223], [232, 234], [267, 269]]
+
+Salmeterol plus fluticasone propionate versus 
+fluticasone propionate plus montelukast : a 
+salmeterol plus fluticasone propionate ( FP ) ( Seretide ; SFC ) and 
+FP plus montelukast ( FP/M ) on 
+SFC or FP/M for 
+SFC generally 
+FP/M. FP/M led 
+SFC ( 
+SFC. STUDY 
+
+
+crf spans: [[0, 11], [76, 95]]
+
+Salmeterol plus fluticasone propionate versus fluticasone propionate plus montelukast : a 
+salmeterol plus fluticasone propionate ( FP ) ( Seretide ; SFC ) and FP plus montelukast ( FP/M ) 
+
+
+22341427
+
+gold spans: [[5, 8], [37, 40], [43, 46]]
+
+cardiac transplantation in 
+cardiac transplantation in 
+Norwood procedure and 
+
+
+crf spans: []
+
+
+
+18544974
+
+gold spans: [[8, 12], [12, 15], [36, 49], [49, 51], [104, 110], [111, 113], [121, 123], [126, 128]]
+
+galacto - oligosaccharides and 
+Lactobacillus GG increases 
+Lactobacillus GG ( LGG ) and galacto - oligosaccharides ( GOS ) with 
+LGG on 
+milk - based fruit juice containing 
+LGG alone 
+LGG plus 
+GOS. Symptom 
+
+
+crf spans: [[36, 41], [104, 114], [118, 129], [169, 177]]
+
+Lactobacillus GG ( LGG ) 
+milk - based fruit juice containing either LGG alone ( 
+CFU ) or LGG plus 2 g of GOS. Symptom diaries 
+LGG + GOS compared with LGG alone ( 
+
+
+384815
+
+gold spans: [[24, 26], [26, 28], [86, 94], [125, 127], [130, 132]]
+
+levamisole or 
+placebo treatment 
+levamisole than for placebo - treated controls ( 
+levamisole than 
+placebo ( 
+
+
+crf spans: [[24, 29]]
+
+levamisole or placebo treatment given 
+
+
+20943715
+
+gold spans: [[0, 7], [27, 34], [87, 116]]
+
+Visual and kinesthetic locomotor imagery training integrated 
+visual and kinesthetic locomotor imagery training on 
+visual locomotor imagery training , kinesthetic locomotor imagery training , visual locomotor imagery training with auditory step rhythm and kinesthetic locomotor imagery training with auditory step rhythm . 
+ 
+
+
+crf spans: [[80, 114]]
+
+locomotor imagery trainings on walking performance : visual locomotor imagery training , kinesthetic locomotor imagery training , visual locomotor imagery training with auditory step rhythm and kinesthetic locomotor imagery training with auditory step rhythm 
+
+
+24080592
+
+gold spans: [[2, 4], [76, 78], [83, 86]]
+
+simvastatin on 
+simvastatin ( 
+placebo . Plasma 
+
+
+crf spans: [[75, 86]]
+
+either simvastatin ( 40 mg daily ) or placebo . Plasma 
+
+
+14679127
+
+gold spans: [[12, 14], [14, 16], [42, 44], [44, 46], [74, 76], [83, 85], [291, 293]]
+
+topotecan versus 
+paclitaxel in 
+topotecan versus 
+paclitaxel in 
+topotecan ( 
+paclitaxel ( 
+Topotecan continues 
+
+
+crf spans: []
+
+
+
+25784723
+
+gold spans: [[0, 7], [36, 39], [49, 52], [56, 62], [75, 79], [119, 126], [142, 147], [165, 167], [171, 173], [181, 183], [197, 199], [200, 202], [260, 265]]
+
+Regional ventricular performance and exercise training in 
+exercise . Studies 
+physical exercise capacity 
+training on regional ventricular performance has 
+exercise training program would 
+standardized aerobic dynamic exercise training program ( 
+cardiopulmonary exercise tests , MRI 
+exercise group 
+control group 
+exercise group 
+exercise group 
+control group 
+aerobic dynamic exercise training in 
+
+
+crf spans: [[119, 126]]
+
+standardized aerobic dynamic exercise training program ( 
+
+
+25068497
+
+gold spans: [[5, 10], [24, 31], [122, 124], [130, 132], [166, 168]]
+
+Cuban pneumococcal conjugate vaccine candidate 
+heptavalent conjugate vaccine ( PCV7-TT ) is 
+PCV7-TT was 
+Synflorix used 
+PCV7-TT in 
+
+
+crf spans: []
+
+
+
+17321989
+
+gold spans: [[4, 6], [7, 9], [47, 49], [54, 56]]
+
+itraconazole capsules 
+fluconazole capsules 
+fluconazole ( 
+itraconazole ( 
+
+
+crf spans: [[4, 10]]
+
+itraconazole capsules and fluconazole capsules for 
+
+
+21975269
+
+gold spans: [[2, 5], [17, 20], [38, 41], [90, 93], [185, 188], [261, 264], [275, 281], [328, 332], [343, 345], [349, 360]]
+
+hormonal contraceptives and 
+Hormonal contraceptives are 
+hormonal contraceptive use 
+hormonal contraceptive users 
+hormonal contraception and 
+hormonal contraception and 
+did not use hormonal contraception ( 
+hormonal contraception , especially 
+condoms to 
+Non - hormonal or low - dose hormonal contraceptive methods should 
+
+
+crf spans: []
+
+
+
+25885649
+
+gold spans: [[105, 107], [112, 118]]
+
+GT3X for 
+IPAQ and VO2max test . The 
+
+
+crf spans: []
+
+
+
+24803369
+
+gold spans: [[6, 14], [24, 28], [40, 43], [124, 128]]
+
+lexicalized and novel primary conceptual metaphors . 
+
+ 
+comprehending metaphors . However 
+conceptual metaphors ( 
+metaphor types , although 
+
+
+crf spans: []
+
+
+
+15193668
+
+gold spans: [[53, 78]]
+
+two videotapes of a boy engaging in typical and autistic behaviors receiving either descriptive ( AUT - D ) or descriptive and explanatory information ( 
+
+
+crf spans: [[66, 84]]
+
+descriptive ( AUT - D ) or descriptive and explanatory information ( AUT - D + E ) 
+
+
+20560622
+
+gold spans: [[5, 9], [29, 36], [67, 80], [85, 88], [250, 252]]
+
+Maillard reaction products on 
+Maillard reaction products ( MRP ) on 
+white diet ( WD ) and brown diet ( BD ) , which 
+MRP , respectively 
+MRP intake 
+
+
+crf spans: []
+
+
+
+8916620
+
+gold spans: [[2, 5], [6, 14], [17, 20], [68, 75], [80, 86], [103, 108], [123, 127]]
+
+prevention program effectiveness 
+clustered data using generalized estimating equations . 
+
+ 
+prevention programs often 
+generalized estimating equations ( GEE ) method 
+GEE - independent method , to 
+GEE - independent method yields 
+prevention program , are 
+
+
+crf spans: []
+
+
+
+19108790
+
+gold spans: [[2, 7], [7, 9], [29, 32], [132, 134], [134, 136], [160, 163], [179, 181], [183, 185], [187, 189], [192, 194], [356, 358], [366, 368], [377, 379], [386, 388], [405, 407], [409, 412], [412, 414], [414, 416], [425, 427], [460, 462], [464, 466], [496, 498], [498, 500], [501, 503], [505, 508]]
+
+propofol , droperidol , and 
+metoclopramide for 
+placebo - controlled 
+droperidol and 
+metoclopramide for 
+placebo - controlled 
+propofol 0.5 
+droperidol 20 
+metoclopramide 0.2 
+placebo ( 
+propofol ( 
+droperidol ( 
+metoclopramide ( 
+placebo ( 
+propofol and 
+droperidol , and 
+propofol and 
+droperidol were 
+metoclopramide ( 
+propofol 0.5 
+droperidol 20 
+propofol and 
+droperidol compared 
+metoclopramide 0.2 
+placebo . 
+
+ 
+
+
+crf spans: [[0, 14], [187, 211]]
+
+Comparison of propofol , droperidol , and metoclopramide for prophylaxis of postoperative nausea and 
+metoclopramide 0.2 mg/kg , or placebo ( isotonic saline ) immediately after skin suture . A standard general anesthetic technique , including sevoflurane and 
+
+
+19708562
+
+gold spans: [[3, 6], [37, 40], [42, 45], [76, 83]]
+
+transcranial electrostimulation on 
+traditional treatment was 
+transcranial electrotherapy using 
+( traditional therapy plus electrostimulation ) resulted 
+
+
+crf spans: []
+
+
+
+22271197
+
+gold spans: [[12, 15], [34, 37]]
+
+psychosocial interventions in 
+psychosocial interventions in 
+
+
+crf spans: []
+
+
+
+22538329
+
+gold spans: [[106, 111]]
+
+intravascular ultrasound imaging . Patients 
+
+
+crf spans: []
+
+
+
+2678230
+
+gold spans: [[26, 30]]
+
+Amidotrizoate and Iopromide into 
+
+
+crf spans: []
+
+
+
+3534803
+
+gold spans: [[153, 155], [157, 159], [165, 167], [169, 171], [174, 176], [178, 181]]
+
+DHE 0.5 
+heparin 5000 
+heparin 2500 
+heparin 5000 
+DHE 0.5 
+placebo . General 
+
+
+crf spans: [[89, 96], [153, 181]]
+
+dihydroergotamine ( DHE ) and heparin was 
+DHE 0.5 mg plus heparin 5000 U , DHE 0.5 mg plus heparin 2500 U , heparin 5000 U , and DHE 0.5 mg versus placebo . General 
+
+
+21106663
+
+gold spans: [[10, 13], [137, 142]]
+
+smoking cessation treatment 
+smoking cessation treatment . Depressive 
+
+
+crf spans: []
+
+
+
+25369243
+
+gold spans: [[0, 2], [98, 100], [106, 109]]
+
+Atomoxetine in 
+atomoxetine during 
+placebo - controlled 
+
+
+crf spans: []
+
+
+
+17293018
+
+gold spans: [[91, 97], [108, 111], [113, 119], [122, 135]]
+
+anti - CD WPC ) is 
+immunized cows versus 
+non - immunized cows , and 
+anti - CD WPC versus that of regular whey protein concentrate . Additionally 
+
+
+crf spans: [[83, 96]]
+
+anti - C. difficile whey protein concentrate ( anti - CD WPC ) 
+
+
+6938020
+
+gold spans: [[37, 45], [73, 75], [111, 113], [113, 116], [123, 125]]
+
+Stilboestrol versus Cyproterone acetate versus Medroxyprogesterone acetate in 
+Stilboestrol had 
+Adriamycin or 
+Procarbazine . Toxicity 
+Procarbazine treated 
+
+
+crf spans: [[39, 45], [111, 116]]
+
+Cyproterone acetate versus Medroxyprogesterone acetate in 
+Adriamycin or Procarbazine . Toxicity 
+
+
+12576806
+
+gold spans: [[6, 8], [65, 67], [89, 94]]
+
+stenting in 
+stenting after 
+internal endopyelotomy stent placement for 
+
+
+crf spans: []
+
+
+
+11381289
+
+gold spans: [[35, 37], [58, 60], [100, 103]]
+
+ramipril - 
+ramipril significantly 
+vitamin E were 
+
+
+crf spans: []
+
+
+
+12477021
+
+gold spans: [[9, 15], [42, 50], [61, 73], [141, 144], [174, 177]]
+
+non - contact tonometer . 
+
+ 
+non - contact tonometer ( NCT ) the 
+Reichert Xpert Plus , Goldmann applanation tonometer and Perkins tonometer . Thirty 
+applanation tonometry ( 
+Goldmann tonometer ( 
+
+
+crf spans: []
+
+
+
+24515505
+
+gold spans: [[41, 46]]
+
+Medical Expenditure Panel Survey linked 
+
+
+crf spans: []
+
+
+
+9730996
+
+gold spans: [[60, 62], [83, 85], [100, 103]]
+
+fluticasone in 
+fluticasone ( 
+placebo . At 
+
+
+crf spans: []
+
+
+
+21866656
+
+gold spans: [[12, 15], [31, 43], [68, 71], [99, 107], [115, 119], [181, 184], [462, 465]]
+
+laparoscopic surgery in 
+laparoscopic surgery in combination of Quyu Jiedu Recipe ( QYJDR ) on 
+laparoscopic surgery were 
+progesterone treatment after laparoscopic surgery . QYJDR was 
+laparoscopic surgery , lasting 
+laparoscopic surgery was 
+laparoscopic surgery in 
+
+
+crf spans: []
+
+
+
+19301724
+
+gold spans: [[3, 11], [11, 18], [101, 108], [108, 116], [202, 206], [222, 224]]
+
+continuous femoral nerve block ( CFNB ) and 
+continuous epidural infusion ( CEI ) in 
+continuous epidural infusion ( CEI ) with 
+continuous femoral nerve block ( CFNB ) regarding 
+levobupivacaine with morphine 0.0125 
+levobupivacaine ( 
+
+
+crf spans: [[202, 208]]
+
+levobupivacaine with morphine 0.0125 mg/ml ( 
+
+
+7827398
+
+gold spans: [[6, 10], [121, 126]]
+
+preventive pharmacological strategies in 
+isolated systolic hypertension . International 
+
+
+crf spans: []
+
+
+
+8779382
+
+gold spans: [[3, 5], [28, 34], [37, 42], [70, 72], [106, 109], [126, 132]]
+
+tunnelling on 
+tunnelling of an epidural catheter influences 
+Tunnelling of the catheter subcutaneously 
+fixation with 
+tunnelled catheters remained 
+non - tunnelled catheters , although 
+
+
+crf spans: []
+
+
+
+1131298
+
+gold spans: [[4, 10], [18, 22], [48, 53]]
+
+oils of garlic and onion on 
+garlic and onion on 
+garlic or onion , as 
+
+
+crf spans: []
+
+
+
+11750293
+
+gold spans: [[94, 97], [102, 112]]
+
+control group of 
+standard outpatient clinic treatment during follow - up . 
+ 
+
+
+crf spans: []
+
+
+
+2223363
+
+gold spans: [[26, 28], [38, 40]]
+
+propofol for 
+Propofol was 
+
+
+crf spans: []
+
+
+
+9573502
+
+gold spans: [[13, 20], [29, 37], [60, 62], [82, 84], [101, 104], [119, 121], [126, 128], [157, 159], [162, 164], [174, 176], [200, 202], [226, 228], [251, 253], [263, 266], [299, 301], [318, 320], [323, 325]]
+
+infusion of human brain natriuretic peptide in 
+Human brain natriuretic peptide ( hBNP ) is 
+hBNP have 
+hBNP were 
+placebo - controlled 
+placebo [ 
+hBNP 0.025 
+hBNP. Two 
+hBNP group 
+hBNP significantly 
+hBNP also 
+hBNP produced 
+hBNP decreased 
+hBNP ; however 
+hBNP also 
+hBNP infusion 
+hBNP is 
+
+
+crf spans: []
+
+
+
+1780092
+
+gold spans: [[10, 12], [49, 51], [60, 63], [128, 130]]
+
+nimesulide in 
+Nimesulide have 
+flurbiprofen , in 
+Nimesulide evidenced 
+
+
+crf spans: []
+
+
+
+15848261
+
+gold spans: [[26, 31], [33, 39], [55, 58], [62, 66], [97, 102], [105, 117]]
+
+conventional physical therapy alone or 
+specialised balance retraining program . 
+ 
+physical therapy ( 
+therapy and retraining ( 
+early conventional therapy , and 
+combined with standing balance training by biofeedback ( BPM Monitor ) . 
+
+
+crf spans: []
+
+
+
+23417625
+
+gold spans: [[75, 88], [89, 101], [131, 133], [133, 135], [167, 169], [184, 186], [198, 200], [217, 219], [247, 251], [255, 259]]
+
+Social Skills Training Group - based Program ( SST - GP ) and 
+Leisure Activities Group - based Program ( LA - GP ) on 
+SST or 
+LA group 
+SST Group 
+LA Group 
+SST Group 
+SST Group 
+SST - GP had 
+LA - GP. Data 
+
+
+crf spans: []
+
+
+
+17616069
+
+gold spans: [[7, 10], [83, 90]]
+
+trivalent ferrum preparation 
+sacharose ferric oxide ( Venofer ) was 
+
+
+crf spans: []
+
+
+
+18958161
+
+gold spans: [[103, 108]]
+
+event - related fMRI to 
+
+
+crf spans: []
+
+
+
+10764172
+
+gold spans: [[1, 3], [47, 49], [50, 52], [59, 61], [67, 69], [85, 87]]
+
+morphine suppresses 
+intrathecal 0.5 
+morphine ( 
+morphine ( 
+morphine i.v 
+anesthesia alone 
+
+
+crf spans: []
+
+
+
+12139812
+
+gold spans: [[1, 4], [64, 74], [84, 88]]
+
+Limbal epithelial autograft 
+excision of pterygium with limbal epithelial autograft transplantation surgery ( 
+simple pterygium excision ( 
+
+
+crf spans: []
+
+
+
+6989377
+
+gold spans: [[12, 17], [17, 21], [21, 24], [81, 91], [112, 118], [372, 374]]
+
+lipid - lowering treatment with 
+diet , clofibrate and 
+niceritrol . Reduction 
+clofibrate or niceritrol , a nicotinic acid ester , was 
+diet , clofibrate and niceritrol caused 
+clofibrate treatment 
+
+
+crf spans: []
+
+
+
+3081600
+
+gold spans: [[5, 7], [7, 9], [27, 29], [29, 31], [51, 53], [108, 110], [132, 136], [158, 161], [172, 174], [175, 178]]
+
+doxepin versus 
+bupropion in 
+bupropion to 
+doxepin in 
+placebo washout 
+Doxepin differed 
+bupropion . Doxepin produced 
+bupropion . Also 
+doxepin relative 
+bupropion . 
+
+ 
+
+
+crf spans: []
+
+
+
+8771302
+
+gold spans: [[130, 147]]
+
+prostheses oriented in a perpendicular or a parallel position with respect to the ventricular septum . Fluoroscopic 
+
+
+crf spans: []
+
+
+
+2803397
+
+gold spans: [[65, 76], [83, 93], [100, 111], [119, 127]]
+
+halothane anaesthesia and retroauricular infiltration anaesthesia with lidocaine and ornipressin ( 
+fentanyl anaesthesia and retroauricular anaesthesia with lidocaine and ornipressin ( 
+fentanyl anaesthesia and retroauricular infiltration anaesthesia with lidocaine and epinephrine ( 
+retroauricular infiltration anaesthesia with prilocaine and epinephrine ( 
+
+
+crf spans: [[63, 76], [107, 111], [123, 127], [262, 266]]
+
+Group 1 halothane anaesthesia and retroauricular infiltration anaesthesia with lidocaine and ornipressin ( 
+lidocaine and epinephrine ( 
+prilocaine and epinephrine ( 
+epinephrine and norepinephrine demonstrate 
+
+
+26278470
+
+gold spans: [[0, 5], [5, 9], [74, 83], [114, 121], [149, 151]]
+
+Inference - Based Approach versus 
+Cognitive Behavioral Therapy in 
+inference - based approach ( IBA ) , targets 
+cognitive behavior therapy ( CBT ) for 
+CBT sessions 
+
+
+crf spans: [[114, 120]]
+
+cognitive behavior therapy ( CBT ) 
+
+
+19096921
+
+gold spans: [[32, 38], [41, 43]]
+
+risperidone plus structured parent training would 
+risperidone only 
+
+
+crf spans: [[32, 38]]
+
+risperidone plus structured parent training would 
+
+
+7598243
+
+gold spans: [[35, 42], [42, 44], [80, 82], [84, 86], [88, 90], [92, 94], [97, 99]]
+
+ondansetron , droperidol , perphenazine , and 
+metoclopramide was 
+ondansetron 4 
+droperidol 1.25 
+perphenazine 5 
+metoclopramide 10 
+placebo prior 
+
+
+crf spans: [[3, 13], [80, 99]]
+
+prophylactic ondansetron , droperidol , perphenazine , and metoclopramide in 
+ondansetron 4 mg , droperidol 1.25 mg , perphenazine 5 mg , metoclopramide 10 mg , or placebo prior 
+
+
+21896676
+
+gold spans: [[184, 188]]
+
+physiotherapy assessment/intervention . 
+ 
+
+
+crf spans: []
+
+
+
+22897461
+
+gold spans: [[2, 14], [78, 81], [85, 94], [128, 131], [142, 146], [147, 149], [159, 163]]
+
+rosuvastatin monotherapy or in combination with fenofibrate or -3 fatty acids on 
+rosuvastatin monotherapy with 
+fenofibrate or -3 fatty acids on the lipoprotein subfraction 
+rosuvastatin monotherapy 40 
+rosuvastatin 10 mg/day combined 
+fenofibrate 200 
+-3 fatty acids 2 
+
+
+crf spans: [[0, 14], [75, 91]]
+
+Effect of rosuvastatin monotherapy or in combination with fenofibrate or -3 fatty acids on 
+high - dose rosuvastatin monotherapy with moderate dosing combined with fenofibrate or -3 fatty acids on 
+
+
+10752495
+
+gold spans: [[2, 8], [15, 22], [32, 44], [74, 80]]
+
+creatinine clearance from serum creatinine in 
+six formulae and one nomogram . 
+
+ 
+medical treatment of patients with rheumatoid arthritis ( RA ) . However 
+six equations and one nomogram for 
+
+
+crf spans: []
+
+
+
+23392542
+
+gold spans: [[45, 51], [51, 57], [96, 98], [105, 107], [201, 203], [203, 206], [206, 208], [220, 222], [222, 224], [280, 282], [282, 284]]
+
+thiamine ( vitamin B1 ) and 
+pyridoxine ( vitamin B6 ) therapy 
+B6 ( 
+B1+B6 ( 
+B1+B6 or 
+B6 . In 
+B6 treated 
+B1+B6 or 
+B6 treatment 
+B1+B6 or 
+B6 did 
+
+
+crf spans: [[16, 21], [45, 58]]
+
+thiamine and pyridoxine therapy . 
+thiamine ( vitamin B1 ) and pyridoxine ( vitamin B6 ) therapy . 
+
+
+9229602
+
+gold spans: [[53, 59]]
+
+Antazolin/Tetryzolin eye drops and Levocabastine eye 
+
+
+crf spans: []
+
+
+
+15854186
+
+gold spans: [[0, 2], [3, 5], [48, 54], [156, 158]]
+
+Cophenylcaine spray 
+placebo in 
+cophenylcaine or placebo nasal spray before 
+cophenylcaine for 
+
+
+crf spans: [[0, 5], [48, 54]]
+
+Cophenylcaine spray vs. placebo in 
+cophenylcaine or placebo nasal spray before 
+
+
+22435114
+
+gold spans: [[0, 5], [55, 62], [103, 112], [153, 155], [155, 157], [165, 167], [247, 249]]
+
+Group cognitive behavior therapy for 
+Cognitive behavioral therapies ( CBT ) are 
+treatment - as - usual ( TAU ) for 
+CBT or 
+TAU condition 
+CBT group 
+CBT intervention 
+
+
+crf spans: [[101, 111], [153, 158]]
+
+CBT or treatment - as - usual ( TAU ) 
+CBT or TAU condition . 
+
+
+6920252
+
+gold spans: [[11, 15], [21, 25], [46, 48], [73, 76], [286, 290]]
+
+antenatal dexamethasone . 
+
+ 
+antenatal glucocorticoid treatment was 
+dexamethasone ( 
+saline . Infants 
+Antenatal dexamethasone treatment was 
+
+
+crf spans: [[0, 4], [36, 39]]
+
+Experimental hyaline membrane disease 
+hyaline membrane disease 
+
+
+7017018
+
+gold spans: [[75, 77]]
+
+antibiotics at 
+
+
+crf spans: []
+
+
+
+3919804
+
+gold spans: [[52, 62], [62, 66]]
+
+continuous subcutaneous insulin infusion , multiple insulin injections , or 
+conventional insulin treatment ( 
+
+
+crf spans: []
+
+
+
+16055807
+
+gold spans: [[83, 89], [114, 117]]
+
+Comprehensive cognitive - behavioural therapy has 
+neuroleptic amisulpride is 
+
+
+crf spans: []
+
+
+
+10390665
+
+gold spans: [[6, 8], [9, 11], [28, 30], [30, 32], [70, 72], [75, 77], [192, 194]]
+
+granisetron compared 
+perphenazine for 
+granisetron with 
+perphenazine in 
+granisetron 40 
+perphenazine 70 
+granisetron is 
+
+
+crf spans: [[5, 11]]
+
+prophylactic granisetron compared with perphenazine for 
+
+
+10070173
+
+gold spans: [[2, 8], [26, 29], [31, 34], [185, 187], [280, 284]]
+
+budesonide Turbuhaler with budesonide aqua in 
+budesonide Turbuhaler 400 
+budesonide aqua 256 
+Turbuhaler was 
+budesonide powder formulation delivered 
+
+
+crf spans: [[0, 8]]
+
+Comparison of budesonide Turbuhaler with budesonide aqua in 
+
+
+12586799
+
+gold spans: [[5, 7], [45, 50], [50, 52], [117, 119]]
+
+chemoradiotherapy versus 
+chemoradiotherapy ( CCRT ) versus 
+radiotherapy ( 
+cisplatin 20 
+
+
+crf spans: [[4, 10], [114, 123]]
+
+concurrent chemoradiotherapy versus radiotherapy alone for 
+concurrent chemotherapy with cisplatin 20 mg/m(2)/d plus fluorouracil 400 
+
+
+18975051
+
+gold spans: [[107, 111], [118, 123], [132, 137]]
+
+of iopamidol 300 at 
+100 ml of iopamidol 300 
+80 ml of iopamidol 370 
+
+
+crf spans: []
+
+
+
+22416755
+
+gold spans: [[63, 75], [140, 142]]
+
+watched pretense in which a puppet represented a " nerp " ( 
+pretend speech 
+
+
+crf spans: []
+
+
+
+21029638
+
+gold spans: [[3, 5], [31, 33], [59, 61], [68, 70], [543, 545]]
+
+paliperidone extended 
+paliperidone extended 
+paliperidone extended 
+risperidone for 
+Paliperidone extended 
+
+
+crf spans: []
+
+
+
+6951573
+
+gold spans: [[4, 7], [7, 10], [39, 48], [64, 89]]
+
+psychiatric hospital versus 
+community treatment - 
+standard hospital care and follow - up . The 
+back to the community by the project team who provided them and their relatives with comprehensive , assertive and prolonged follow - up treatment backed 
+
+
+crf spans: []
+
+
+
+1459268
+
+gold spans: [[8, 14], [31, 42], [66, 71]]
+
+gonadotropin - releasing hormone agonist in 
+gonadotropin - releasing hormone agonist ( GnRH - a ) in 
+GnRH - a . 
+ 
+
+
+crf spans: []
+
+
+
+11642083
+
+gold spans: [[1, 6], [14, 17], [39, 42], [62, 68], [70, 76], [79, 85]]
+
+Neoton and thrombolytic therapy of 
+neoton therapy effects 
+thrombolytic therapy ( 
+without TLT and neoton , 30 
+TLT with streptokinase preparations , 29 
+streptokinase preparations and neoton . Left 
+
+
+crf spans: []
+
+
+
+24451919
+
+gold spans: [[3, 5], [142, 144], [144, 146]]
+
+Fluoxetine on 
+Fluoxetine or 
+placebo in 
+
+
+crf spans: [[142, 146]]
+
+Fluoxetine or placebo in 
+
+
+7831628
+
+gold spans: [[98, 106], [115, 121], [223, 226]]
+
+Exhalation TLCO ( TLCO , ex ) was 
+10 second breath holding TLCO ( 
+Constant exhalation may 
+
+
+crf spans: []
+
+
+
+24317958
+
+gold spans: [[29, 37], [95, 121], [300, 304]]
+
+sonic , ultrasonic , and hydrodynamic devices in 
+syringe irrigation , ( 1 ) CanalBrush , ( 2 ) passive ultrasonic irrigation , ( 3 ) EndoActivator , and ( 4 ) RinsEndo on 
+Passive Ultrasonic irrigation seems 
+
+
+crf spans: []
+
+
+
+8911222
+
+gold spans: [[77, 80], [85, 88], [98, 103], [108, 113]]
+
+tryptophan depletion in 
+placebo - controlled 
+low - tryptophan diet followed 
+amino acid drink . Behavioral 
+
+
+crf spans: []
+
+
+
+8911223
+
+gold spans: [[99, 106]]
+
+serotonin uptake inhibitor fluvoxamine maleate . Behavioral 
+
+
+crf spans: []
+
+
+
+20618920
+
+gold spans: [[2, 7], [48, 52], [109, 126]]
+
+hygienic - dietary recommendations as 
+Mediterranean diet pattern on 
+four additional hygienic - dietary recommendations about exercise , diet , sunlight exposure and sleep . Outcome 
+
+
+crf spans: []
+
+
+
+18189160
+
+gold spans: [[77, 79]]
+
+fluorouracil/epirubicin/cyclophosphamide ( 
+
+
+crf spans: []
+
+
+
+11317090
+
+gold spans: [[3, 6], [21, 25], [35, 39], [103, 107]]
+
+aquatic exercise for 
+aquatic exercise classes from 
+aquatic classes . Cost 
+aquatic classes . The 
+
+
+crf spans: []
+
+
+
+7707420
+
+gold spans: [[2, 9], [139, 145], [145, 152]]
+
+individualized breast cancer risk counseling : a 
+individualized breast cancer risk counseling to 
+general health counseling ( control ) . 
+
+
+crf spans: []
+
+
+
+21669557
+
+gold spans: [[141, 145], [165, 168], [285, 288]]
+
+stove assignment , and 
+chimney stoves after 
+stove intervention was 
+
+
+crf spans: []
+
+
+
+22420121
+
+gold spans: [[23, 27], [258, 261]]
+
+referential communication training in 
+referential communication is 
+
+
+crf spans: []
+
+
+
+6418441
+
+gold spans: [[7, 12], [20, 23], [34, 36], [58, 60]]
+
+sodium cromoglycate pressurized aerosol : 
+Sodium cromoglycate formulated 
+placebo were 
+placebo in 
+
+
+crf spans: []
+
+
+
+18229990
+
+gold spans: [[8, 15], [26, 35]]
+
+joint attention and play interventions . 
+
+ 
+joint attention ( JA ) and symbolic play ( 
+
+
+crf spans: []
+
+
+
+22646975
+
+gold spans: [[5, 8], [89, 94], [96, 103], [180, 186], [270, 273]]
+
+relaxation training on 
+relaxation - training sessions and 
+audio disc for home practice . Evaluations 
+relaxation - training intervention , the 
+relaxation training in 
+
+
+crf spans: []
+
+
+
+23357440
+
+gold spans: [[3, 8], [35, 43], [45, 49], [100, 104]]
+
+cognitive - behavioral therapy versus 
+cognitive - behavioral therapy ( CBT ) protocol 
+treatment as usual ( 
+CBT or TAU for 
+
+
+crf spans: [[99, 104]]
+
+weekly CBT or TAU for 
+
+
+7814711
+
+gold spans: [[3, 5], [21, 23], [51, 54], [61, 72], [192, 194], [197, 199], [246, 249], [249, 252], [254, 257]]
+
+oxytetracycline as 
+oxytetracycline as 
+cephapirin benzathine at 
+infusion with cephapirin benzathine at drying off and intramuscular oxytetracycline at 
+oxytetracycline ( 
+cephapirin treatment 
+combination therapy and 
+cephapirin therapy only 
+oxytetracycline , in 
+
+
+crf spans: [[51, 54], [246, 252]]
+
+cephapirin benzathine at 
+combination therapy and cephapirin therapy only 
+
+
+24660757
+
+gold spans: [[28, 33], [51, 53], [76, 81], [93, 95], [126, 128], [160, 162], [192, 194]]
+
+competence and warmth , which 
+compensation in 
+other fundamental dimension . Based 
+compensation by 
+compensation is 
+compensation is 
+compensation as 
+
+
+crf spans: []
+
+
+
+361799
+
+gold spans: [[2, 4], [124, 126], [128, 130], [135, 141], [146, 152], [162, 164]]
+
+chemotherapy of 
+chemotherapy which 
+vincristine associated 
+cyclophosphamide and 5-fluoro - uracil and 
+doxorubicine or/and with methotrexate . From 
+doxorubicine as 
+
+
+crf spans: []
+
+
+
+21170734
+
+gold spans: [[44, 81]]
+
+blood - sampled immediately without anesthesia ( control ) or subjected to following anesthesia procedure : 40 , 120 , and 240 s exposure to 3,000 , 700 , and 500 mg l clove solution , respectively 
+
+
+crf spans: []
+
+
+
+24075141
+
+gold spans: [[7, 15], [40, 47], [181, 184], [216, 220], [256, 263]]
+
+gluten- and casein - free dietary intervention for 
+gluten- and casein - free diet as 
+dietary intervention in 
+dietary intervention . Further 
+gluten- and casein - free diet for 
+
+
+crf spans: []
+
+
+
+10912743
+
+gold spans: [[5, 7], [56, 58], [72, 74], [174, 176], [179, 182]]
+
+aspirin on 
+aspirin are 
+aspirin ( 
+aspirin and 
+controls . All 
+
+
+crf spans: [[127, 132]]
+
+aspirin or vitamin E in 
+
+
+20189026
+
+gold spans: [[97, 102], [112, 114], [114, 134], [357, 361]]
+
+primary percutaneous coronary intervention with 
+conditioning ( 
+intermittent arm ischaemia through four cycles of 5-min inflation and 5-min deflation of a blood - pressure cuff ) . 
+Remote ischaemic conditioning before 
+
+
+crf spans: []
+
+
+
+15858959
+
+gold spans: [[2, 5], [50, 53], [67, 70], [86, 88]]
+
+Saccharomyces boulardii in 
+S. boulardii in 
+S. boulardii in 
+placebo ( 
+
+
+crf spans: [[78, 90]]
+
+250 mg ( S. boulardii group ) or placebo ( placebo group 
+
+
+11829043
+
+gold spans: [[7, 12], [70, 72], [91, 102]]
+
+progressive muscle relaxation training of 
+control group 
+audiotaped instructions on progressive muscle relaxation training ( PMRT ) was 
+
+
+crf spans: []
+
+
+
+11099086
+
+gold spans: [[0, 3], [3, 6], [43, 45], [98, 100], [158, 160], [178, 180]]
+
+Oral ciprofloxacin vs. 
+intramuscular ceftriaxone as 
+ceftriaxone has 
+ciprofloxacin in 
+ciprofloxacin suspension 
+ceftriaxone ( 
+
+
+crf spans: [[0, 6], [158, 171], [176, 186]]
+
+Oral ciprofloxacin vs. intramuscular ceftriaxone as 
+ciprofloxacin suspension ( 10 mg/kg twice a day + i m placebo ; 
+i m ceftriaxone ( 50 mg/kg/day + placebo suspension ; 
+
+
+2224060
+
+gold spans: [[4, 6], [6, 8], [20, 22], [49, 52], [54, 58], [79, 81], [93, 95], [168, 170]]
+
+chemoimmunotherapy with 
+bestatin of 
+bestatin ( 
+bestatin immunotherapy in 
+remission maintenance chemotherapy for 
+bestatin group 
+control group 
+Bestatin is 
+
+
+crf spans: []
+
+
+

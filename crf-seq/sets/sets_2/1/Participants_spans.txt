@@ -1,0 +1,2912 @@
+23549581
+
+gold spans: [[15, 23], [91, 114], [150, 198]]
+
+chemotherapy - induced painful peripheral neuropathy : a 
+231 patients who were 25 years or older being treated at community and academic settings between April 2008 and March 2011 . Study 
+patients have grade 1 or higher sensory neuropathy according to the NCI Common Terminology Criteria for Adverse Events and at least 4 on a scale of 0 to 10 , representing average chemotherapy - induced pain , after paclitaxel , other taxane , or oxaliplatin treatment . 
+ 
+
+
+crf spans: [[80, 114]]
+
+8 National Cancer Institute ( NCI)-funded cooperative research networks that enrolled 231 patients who were 25 years or older being treated at community and academic settings between April 2008 and March 2011 . Study 
+
+
+11401641
+
+gold spans: [[72, 98]]
+
+53 patients with primary open angle glaucoma , capsular glaucoma , or ocular hypertension with an IOP of at least 21 mmHg on current therapy were 
+
+
+crf spans: [[38, 47], [73, 98]]
+
+patients with open angle glaucoma or ocular hypertension where 
+patients with primary open angle glaucoma , capsular glaucoma , or ocular hypertension with an IOP of at least 21 mmHg on current therapy were 
+
+
+22744141
+
+gold spans: [[7, 15], [46, 68], [69, 74]]
+
+preschool children who have intellectual disabilities . 
+
+ 
+preschool children with intellectual disabilities ( IDs ) , including children with Down syndrome and children with autism spectrum disorders . 
+ 
+Seventy - seven children were 
+
+
+crf spans: [[7, 15], [46, 68], [69, 74]]
+
+preschool children who have intellectual disabilities . 
+
+ 
+preschool children with intellectual disabilities ( IDs ) , including children with Down syndrome and children with autism spectrum disorders . 
+ 
+Seventy - seven children were 
+
+
+20739054
+
+gold spans: [[48, 54], [75, 99], [266, 269]]
+
+patients with chronic immune thrombocytopenia during 
+adults with previously treated immune thrombocytopenia of more than 6 months ' duration who had baseline platelet counts lower than 30,000 per L. Patients 
+197 patients were 
+
+
+crf spans: []
+
+
+
+16427787
+
+gold spans: [[8, 13], [20, 24], [29, 35], [137, 139], [146, 148], [160, 162], [198, 205]]
+
+human brain . 
+
+ Melatonin 
+pineal gland , is 
+sleep - wake cycle . The 
+brain activity 
+subjects are 
+brain activity 
+sleep - associated brain activation patterns in 
+
+
+crf spans: []
+
+
+
+24350813
+
+gold spans: [[14, 22], [47, 55], [73, 83], [157, 174]]
+
+children and adolescents with autistic disorder . 
+
+ 
+children and adolescents with autistic disorders . 
+ 
+patients ( 5 - 17 years of age , who 
+Fifty - six ( 71 % ) out of 79 enrolled patients completed the OLE ; the 
+
+
+crf spans: [[14, 22], [47, 55], [157, 170]]
+
+children and adolescents with autistic disorder . 
+
+ 
+children and adolescents with autistic disorders . 
+ 
+Fifty - six ( 71 % ) out of 79 enrolled patients completed 
+
+
+21211686
+
+gold spans: [[19, 26], [94, 102], [420, 424], [434, 442]]
+
+coronary atherosclerosis in diabetic patients : insights 
+360 diabetic patients with coronary artery disease were 
+diabetic patients . This 
+diabetic patients with coronary artery disease . 
+
+ 
+
+
+crf spans: [[22, 26], [94, 102], [434, 442]]
+
+diabetic patients : insights 
+360 diabetic patients with coronary artery disease were 
+diabetic patients with coronary artery disease . 
+
+ 
+
+
+24960665
+
+gold spans: [[67, 72], [160, 163]]
+
+370 RH:1 Tunisian donors by 
+370 donors comprise 
+
+
+crf spans: []
+
+
+
+7844976
+
+gold spans: [[6, 9], [63, 66], [68, 71], [164, 166]]
+
+teacher training on 
+teacher training are 
+School districts were 
+teacher training 
+
+
+crf spans: []
+
+
+
+2188766
+
+gold spans: [[39, 57]]
+
+patients with moderate to severe congestive heart failure . Seventeen patients on chronic digitalis and diuretic therapy were 
+
+
+crf spans: [[39, 57]]
+
+patients with moderate to severe congestive heart failure . Seventeen patients on chronic digitalis and diuretic therapy were 
+
+
+24726342
+
+gold spans: [[11, 16], [18, 22], [95, 99]]
+
+stable COPD patients . 
+
+ 
+COPD patients , reversibility 
+60 COPD patients underwent 
+
+
+crf spans: [[11, 16]]
+
+stable COPD patients . 
+
+ 
+
+
+23103798
+
+gold spans: [[35, 43], [49, 57], [297, 305]]
+
+patients with refractory monosymptomatic nocturnal enuresis . 
+ 
+28 patients with refractory monosymptomatic nocturnal enuresis to 
+patients with refractory monosymptomatic nocturnal enuresis . However 
+
+
+crf spans: [[35, 43]]
+
+patients with refractory monosymptomatic nocturnal enuresis . 
+ 
+
+
+25931290
+
+gold spans: [[9, 16], [54, 64], [65, 84]]
+
+Children with Autism Spectrum Disorders : A 
+children with autism spectrum disorder ( ASD ) . Participants 
+44 children ages 6 - 12 ( n = 22 typical , n = 22 ASD ) . In 
+
+
+crf spans: [[9, 16], [54, 84]]
+
+Children with Autism Spectrum Disorders : A 
+children with autism spectrum disorder ( ASD ) . Participants were 44 children ages 6 - 12 ( n = 22 typical , n = 22 ASD ) . In 
+
+
+18503531
+
+gold spans: [[8, 14], [38, 47], [73, 80]]
+
+children with Asperger syndrome : the 
+children with Asperger syndrome ( AS ) : The 
+Forty - nine children with AS were 
+
+
+crf spans: [[8, 14], [38, 47], [73, 80]]
+
+children with Asperger syndrome : the 
+children with Asperger syndrome ( AS ) : The 
+Forty - nine children with AS were 
+
+
+8989009
+
+gold spans: [[94, 114], [254, 257]]
+
+elderly patients . Eighty - five ASA grade I or II patients ( aged 60 - 89 yr ) for 
+elderly patients undergoing 
+
+
+crf spans: [[94, 119], [254, 260]]
+
+elderly patients . Eighty - five ASA grade I or II patients ( aged 60 - 89 yr ) for elective total hip replacement were 
+elderly patients undergoing elective procedures , 
+
+
+15133359
+
+gold spans: [[115, 121], [125, 141]]
+
+Thirty - four consecutive patients were 
+GCA ( 18 patients ) or EPA ( 16 patients ) CS cannulation strategy . 
+ 
+
+
+crf spans: [[115, 121]]
+
+Thirty - four consecutive patients were 
+
+
+23838728
+
+gold spans: [[9, 14], [18, 22], [48, 53]]
+
+children with autism . 
+
+ 
+children with autism show 
+47 teachers and children who 
+
+
+crf spans: [[9, 14], [75, 86]]
+
+children with autism . 
+
+ 
+students with ASD. Springer , New York , 2012a ) were 
+
+
+11454878
+
+gold spans: [[35, 58], [61, 68], [117, 120]]
+
+patients with epithelial ovarian carcinoma that recurred after or did n't respond to first - line , platinum - based chemotherapy . 
+ 
+Patients with measurable and assessable disease were 
+474 patients were 
+
+
+crf spans: [[35, 41], [117, 120]]
+
+patients with epithelial ovarian carcinoma that 
+474 patients were 
+
+
+18077611
+
+gold spans: [[81, 97], [107, 126]]
+
+subjects > or =50 years of age . Subjects with a negative history for HZ were 
+Enrollment was stratified 1:2 by age ( 50 to 59 years and > or =60 years ) . Safety 
+
+
+crf spans: [[81, 97]]
+
+subjects > or =50 years of age . Subjects with a negative history for HZ were 
+
+
+25950425
+
+gold spans: [[16, 21], [66, 80]]
+
+patients undergoing laparatomy . 
+
+ 
+Eighty patients ( 18 to 65 years of age ) undergoing elective laparotomy were 
+
+
+crf spans: [[16, 21], [66, 80], [323, 328]]
+
+patients undergoing laparatomy . 
+
+ 
+Eighty patients ( 18 to 65 years of age ) undergoing elective laparotomy were 
+patients undergoing laparatomy . 
+
+ 
+
+
+21491990
+
+gold spans: [[14, 18], [64, 85]]
+
+chronic periodontitis : a 
+Twenty - four patients presenting with 12 teeth with probing depth ( PD ) 5 mm and bleeding on probing were 
+
+
+crf spans: [[14, 18], [64, 85]]
+
+chronic periodontitis : a 
+Twenty - four patients presenting with 12 teeth with probing depth ( PD ) 5 mm and bleeding on probing were 
+
+
+14739125
+
+gold spans: [[55, 59], [72, 79]]
+
+healthy young subjects was 
+Five groups of 8 subjects each were 
+
+
+crf spans: [[75, 79]]
+
+8 subjects each were 
+
+
+3067745
+
+gold spans: [[12, 24]]
+
+Fifty - one patients with raised intraocular pressure ( IOP ) were 
+
+
+crf spans: [[12, 24]]
+
+Fifty - one patients with raised intraocular pressure ( IOP ) were 
+
+
+21982657
+
+gold spans: [[26, 36], [53, 61], [92, 107], [135, 156]]
+
+patients with chronic heart failure after myocardial infarction . 
+
+ 
+patients with heart failure ( HF ) . 
+patients with class II to IV HF and ejection fraction < 35 % . Primary 
+330 patients intended for enrollment , 23 were randomized ( MARVEL-1 ) before stopping the study for financial reasons . 
+ 
+
+
+crf spans: [[26, 36], [53, 62], [92, 107]]
+
+patients with chronic heart failure after myocardial infarction . 
+
+ 
+patients with heart failure ( HF ) . 
+ 
+patients with class II to IV HF and ejection fraction < 35 % . Primary 
+
+
+14763035
+
+gold spans: [[48, 59], [65, 92]]
+
+patients on continuous ambulatory peritoneal dialysis ( CAPD ) . In 
+24 CAPD patients with LVH [ left ventricular mass index ( LVMi ) > 110 g/m2 for women and LVMi > 137 g/m2 for men ] were 
+
+
+crf spans: [[65, 92]]
+
+24 CAPD patients with LVH [ left ventricular mass index ( LVMi ) > 110 g/m2 for women and LVMi > 137 g/m2 for men ] were 
+
+
+8726604
+
+gold spans: [[9, 13], [29, 40], [153, 157]]
+
+outpatient surgery . 
+
+ 
+47 healthy women undergoing elective ambulatory surgery . The women were 
+The isoflurane group had 
+
+
+crf spans: [[29, 38]]
+
+47 healthy women undergoing elective ambulatory surgery . The 
+
+
+20226474
+
+gold spans: [[105, 113]]
+
+296 patients with visible endoluminal tumor lesions were 
+
+
+crf spans: []
+
+
+
+11737955
+
+gold spans: [[10, 14], [37, 58], [255, 260]]
+
+60-year - old as 
+older adults ( 60 ( SE 1 ) years ; BMI 26 ( SE 1 ) kg/m(2 ) ) . Subjects 
+60-year - old subjects antioxidant 
+
+
+crf spans: [[37, 59]]
+
+older adults ( 60 ( SE 1 ) years ; BMI 26 ( SE 1 ) kg/m(2 ) ) . Subjects were 
+
+
+10934569
+
+gold spans: [[7, 9], [14, 21], [35, 51], [78, 88]]
+
+children with 
+Young children with pervasive developmental disorder were 
+7 with autism , 8 with pervasive developmental disorder not otherwise specified -- NOS ) averaged 
+7 with autism , 6 with pervasive developmental disorder NOS 
+
+
+crf spans: [[7, 14], [15, 21]]
+
+children with pervasive developmental disorder . 
+
+ 
+children with pervasive developmental disorder were 
+
+
+21924760
+
+gold spans: [[14, 19], [83, 96], [119, 133], [259, 262]]
+
+atrial fibrillation patients : a 
+ACTIVE W study patients , cases with stroke and cases with bleeding were 
+32 cases with ischemic stroke and 234 cases with bleeding in the analysis were 
+AF patients with 
+
+
+crf spans: [[14, 19], [86, 96], [119, 133]]
+
+atrial fibrillation patients : a 
+patients , cases with stroke and cases with bleeding were 
+32 cases with ischemic stroke and 234 cases with bleeding in the analysis were 
+
+
+10475150
+
+gold spans: [[14, 24], [74, 87]]
+
+healthy volunteers and in patients with primary hypothyroidism . 
+
+ 
+8 healthy volunteers , and 6 women with untreated primary hypothyroidism , a 
+
+
+crf spans: [[14, 24], [74, 90]]
+
+healthy volunteers and in patients with primary hypothyroidism . 
+
+ 
+8 healthy volunteers , and 6 women with untreated primary hypothyroidism , a disease state that 
+
+
+20147856
+
+gold spans: [[14, 28], [50, 62], [63, 77], [137, 143]]
+
+chemo - nave patients with advanced non - small cell lung cancer . 
+
+ 
+chemo - nave non - small cell lung cancer patients . 
+ 
+Patients with chemo - nave stage IIIB/IV non - small cell lung cancer were 
+A total of 80 patients were 
+
+
+crf spans: [[14, 28], [50, 62], [63, 77], [140, 143]]
+
+chemo - nave patients with advanced non - small cell lung cancer . 
+
+ 
+chemo - nave non - small cell lung cancer patients . 
+ 
+Patients with chemo - nave stage IIIB/IV non - small cell lung cancer were 
+80 patients were 
+
+
+10589810
+
+gold spans: [[159, 162], [180, 183]]
+
+40 subjects participated 
+20 subjects served 
+
+
+crf spans: []
+
+
+
+2088233
+
+gold spans: [[9, 14], [52, 60], [204, 211]]
+
+localized juvenile periodontitis . 
+
+ 
+16 patients with localized juvenile periodontitis . Measurements 
+patients with localized juvenile periodontitis . 
+
+ 
+
+
+crf spans: [[52, 60], [204, 211]]
+
+16 patients with localized juvenile periodontitis . Measurements 
+patients with localized juvenile periodontitis . 
+
+ 
+
+
+10940525
+
+gold spans: [[10, 14], [15, 22], [113, 133]]
+
+dogs and cats presented 
+veterinary patients in North America . 
+
+ 
+Dogs and cats with naturally occurring flea infestations , some of which also had signs associated with FAD , were 
+
+
+crf spans: [[10, 22], [145, 161], [349, 376], [428, 449], [537, 542]]
+
+dogs and cats presented as veterinary patients in North America . 
+
+ 
+220 dogs , 189 cats ) or a positive - control product ( dogs : fenthion 
+dogs and cats diagnosed clinically with FAD. A total of 397 dogs free of adult heartworm infection from four heartworm - endemic areas of the USA were 
+673 dogs and 347 cats having an age range of 6 weeks to 19 years ( 3954 doses ) . The 
+dogs and cats . 
+
+ 
+
+
+18337284
+
+gold spans: [[93, 102], [236, 245], [396, 401]]
+
+New Zealand . Children presenting with GABHS pharyngitis were 
+353 children with positive throat swabs for GABHS were 
+children with pharyngitis . 
+
+ 
+
+
+crf spans: [[87, 102], [396, 401]]
+
+a school - based clinic in New Zealand . Children presenting with GABHS pharyngitis were 
+children with pharyngitis . 
+
+ 
+
+
+19727232
+
+gold spans: [[27, 30], [44, 50], [153, 160], [169, 175], [311, 314]]
+
+autistic children and 
+81 cases of autistic children were 
+40 patients of the control group after 
+41 of the experimental group had 
+autistic children in 
+
+
+crf spans: [[44, 50]]
+
+81 cases of autistic children were 
+
+
+20804366
+
+gold spans: [[9, 14], [27, 34], [45, 49]]
+
+autism spectrum disorder . 
+
+ 
+children with autism spectrum disorder . 
+ 
+50 children . These 
+
+
+crf spans: [[27, 34]]
+
+children with autism spectrum disorder . 
+ 
+
+
+23114870
+
+gold spans: [[83, 89], [106, 109]]
+
+patients undergoing minimally invasive TKA using 
+80 patients was 
+
+
+crf spans: [[83, 101], [106, 114]]
+
+patients undergoing minimally invasive TKA using custom - fit magnetic resonance imaging ( MRI)-based pin guides . 
+ 
+80 patients was carried out . Patients were 
+
+
+19802506
+
+gold spans: [[13, 22], [61, 68]]
+
+postmenopausal breast cancer survivors with bone loss : a 
+223 postmenopausal breast cancer survivors . Subjects 
+
+
+crf spans: [[13, 22], [61, 69], [96, 112], [197, 203]]
+
+postmenopausal breast cancer survivors with bone loss : a 
+223 postmenopausal breast cancer survivors . Subjects who 
+1 ) postmenopausal breast cancer survivors ( BCS ) with bone loss taking 24 months of 
+Postmenopausal BCS ( 223 ) were 
+
+
+25886492
+
+gold spans: [[121, 130], [136, 138]]
+
+invited 25,511 people aged 50 - 74 years to 
+respondents ( 
+
+
+crf spans: [[122, 145]]
+
+25,511 people aged 50 - 74 years to complete an eligibility questionnaire . Eligible respondents ( n  =  3,408 ) were 
+
+
+19376304
+
+gold spans: [[36, 44], [153, 165]]
+
+patients with atrial fibrillation ( AF ) but 
+18,113 patients . Patients who were VKA - naive and experienced are 
+
+
+crf spans: [[134, 158]]
+
+patients with nonvalvular AF and at least 1 risk factor for stroke . Recruitment concluded with a total of 18,113 patients . Patients who 
+
+
+21914768
+
+gold spans: [[63, 69]]
+
+Male students ( N=443 ) were 
+
+
+crf spans: []
+
+
+
+15358868
+
+gold spans: [[4, 9], [47, 52]]
+
+adults with autism . 
+
+ 
+adults with autism . Experiments 
+
+
+crf spans: [[4, 9], [45, 52], [59, 65], [120, 129]]
+
+adults with autism . 
+
+ 
+children to adults with autism . Experiments 
+children , adults with autism were 
+adults previous findings in children with autism . Superior 
+
+
+21393467
+
+gold spans: [[14, 18]]
+
+human walking . 
+
+ 
+
+
+crf spans: []
+
+
+
+20509069
+
+gold spans: [[52, 57]]
+
+21 hospitalized trauma patients to 
+
+
+crf spans: []
+
+
+
+11229858
+
+gold spans: [[5, 10], [16, 20]]
+
+children with malaria . 
+
+ 
+children with malaria showed 
+
+
+crf spans: [[5, 10]]
+
+children with malaria . 
+
+ 
+
+
+16505427
+
+gold spans: [[11, 17], [34, 42], [99, 109]]
+
+anemic patients with cancer . 
+
+ 
+patients with cancer - associated anemia . 
+ 
+Three hundred sixty - five patients were enrolled . One 
+
+
+crf spans: [[11, 17], [99, 115]]
+
+anemic patients with cancer . 
+
+ 
+Three hundred sixty - five patients were enrolled . One hundred eighty - three patients were 
+
+
+4919024
+
+gold spans: [[2, 4], [4, 7], [50, 70]]
+
+man from 
+natural infection with 
+391 medical student volunteers during the influenza A2 Hong Kong epidemic in Helsinki in the winter of 1969 . Serologically 
+
+
+crf spans: []
+
+
+
+22865017
+
+gold spans: [[50, 60], [100, 116], [142, 180]]
+
+patients with Posttraumatic stress disorder ( PTSD ) . 
+ 
+PTSD patients were recruited from five primary care clinics at four Veterans Affairs healthcare facilities and 
+Participants were 195 Veterans . Their average age was 45 years , 91 % were male , 58 % were white , 40 % served in Iraq or Afghanistan , and 42 % served in Vietnam . 
+ 
+
+
+crf spans: [[105, 116], [142, 162]]
+
+five primary care clinics at four Veterans Affairs healthcare facilities and 
+Participants were 195 Veterans . Their average age was 45 years , 91 % were male , 58 % were 
+
+
+10763172
+
+gold spans: [[72, 82]]
+
+61 inpatients with the diagnosis Rhinitis following nasal operation were 
+
+
+crf spans: [[68, 82]]
+
+nasal - spray . 61 inpatients with the diagnosis Rhinitis following nasal operation were 
+
+
+18783504
+
+gold spans: [[103, 116], [120, 133]]
+
+Center for Tobacco Research and Intervention , Madison , WI , USA. 
+ 
+403 adult , daily smokers without contraindications to bupropion SR use . 
+ 
+
+
+crf spans: [[120, 133]]
+
+403 adult , daily smokers without contraindications to bupropion SR use . 
+ 
+
+
+25898782
+
+gold spans: [[2, 7], [58, 66], [68, 78], [103, 110]]
+
+endoscopic retrograde cholangiopancreatography : a 
+patient - controlled sedation ( PCS ) with 
+nurse anesthetist - controlled sedation ( ACS ) , or 
+281 adults in 301 procedures . The 
+
+
+crf spans: []
+
+
+
+11495215
+
+gold spans: [[13, 24], [104, 124], [129, 134], [151, 157]]
+
+Women who smoke and take oral contraceptives ( OCs ) have 
+Sixty healthy women , half of whom had been using OCs for at least the previous 6 months , participated 
+two thirds were smokers and 
+One third were nonsmokers . Heart 
+
+
+crf spans: []
+
+
+
+18773733
+
+gold spans: [[34, 36], [146, 148]]
+
+subjects judge 
+Subjects were 
+
+
+crf spans: []
+
+
+
+23985254
+
+gold spans: [[11, 16], [52, 57], [69, 89], [106, 114]]
+
+postoperative rectal cancer patients treated 
+postoperative rectal cancer patients who 
+Four hundred patients with stage II and III rectal cancer received postoperative CRT of capecitabine with or without oxaliplatin were 
+Two hundred and twenty - eight patients were 
+
+
+crf spans: [[69, 80], [103, 114]]
+
+Four hundred patients with stage II and III rectal cancer received 
+two groups . Two hundred and twenty - eight patients were 
+
+
+7808649
+
+gold spans: [[22, 28], [55, 66], [83, 92]]
+
+post - cholecystectomy pain ] . 
+patients suffering from post - operative pain after cholecystectomy . 
+ 
+99 patients with severe pain following surgery . 
+ 
+
+
+crf spans: []
+
+
+
+24989854
+
+gold spans: [[10, 18], [39, 41], [164, 184], [195, 199], [338, 341]]
+
+preadolescent children with autism spectrum disorders : generalization 
+children with 
+120 participants with ASD at the end of primary school ( 10 - 12 years of calendar age ) have 
+Parent & Teacher Involvement 
+Dutch children with 
+
+
+crf spans: [[10, 18], [164, 184], [334, 355]]
+
+preadolescent children with autism spectrum disorders : generalization 
+120 participants with ASD at the end of primary school ( 10 - 12 years of calendar age ) have 
+a large sample of Dutch children with ASD in a specific age range ( 10 - 12 years ) . Strengths 
+
+
+22154769
+
+gold spans: [[15, 23], [90, 99]]
+
+healthy adults 60 years of age . 
+
+ 
+multicenter study with 210 subjects 60 years old compared 
+
+
+crf spans: [[15, 23], [312, 318]]
+
+healthy adults 60 years of age . 
+
+ 
+adults 60 years old . A 
+
+
+7853069
+
+gold spans: [[14, 22], [128, 151]]
+
+primary care patients with untreated anxiety . 
+
+ 
+573 patients who had unrecognized and untreated anxiety identified from the approximately 8,000 patients who completed the waiting room screening questionnaire . 
+ 
+
+
+crf spans: [[14, 22]]
+
+primary care patients with untreated anxiety . 
+
+ 
+
+
+1968178
+
+gold spans: [[5, 12], [23, 30]]
+
+self - recorded blood pressure . 
+
+ 
+ten normotensive and seven hypertensive subjects induced 
+
+
+crf spans: []
+
+
+
+12709693
+
+gold spans: [[65, 69]]
+
+100 adult patients received 
+
+
+crf spans: []
+
+
+
+23849147
+
+gold spans: [[51, 58]]
+
+720 unique patients in emergency departments and 
+
+
+crf spans: []
+
+
+
+23021296
+
+gold spans: [[5, 10], [30, 38], [64, 80]]
+
+patients with depression . 
+
+ 
+patients with mild to moderate depression . However 
+15 depressive patients who had been under antidepressant treatment for at least one month . They 
+
+
+crf spans: [[5, 10]]
+
+patients with depression . 
+
+ 
+
+
+22881991
+
+gold spans: [[5, 11], [78, 90], [93, 112], [283, 288], [330, 335]]
+
+young children with autism : a 
+young children with autism with a range of intellectual ability . 
+ 
+55 children with autistic disorder , aged 4 - 7 years ( FSIQ 42 - 107 ) . Children 
+young children with autism with 
+young children with autism of 
+
+
+crf spans: [[5, 11], [78, 90], [91, 113]]
+
+young children with autism : a 
+young children with autism with a range of intellectual ability . 
+ 
+Participants were 55 children with autistic disorder , aged 4 - 7 years ( FSIQ 42 - 107 ) . Children were 
+
+
+25479285
+
+gold spans: [[22, 27], [35, 41], [71, 82], [333, 343], [346, 350]]
+
+patients prescribed blood pressure or 
+coronary heart disease and stroke do 
+303 patients taking blood pressure and/or lipid - lowering medications were 
+patients taking blood pressure or lipid - lowering treatment for 
+cardiovascular disease , text 
+
+
+crf spans: [[71, 82], [197, 200]]
+
+303 patients taking blood pressure and/or lipid - lowering medications were 
+Two patients were 
+
+
+9394106
+
+gold spans: [[10, 15], [75, 97], [289, 294]]
+
+alcoholic liver disease -- a 
+patients with alcoholic liver disease . Fifty patients with alcoholic liver disease ( 27 with cirrhosis , 23 without cirrhosis ) were 
+alcoholic liver disease . 
+
+ 
+
+
+crf spans: [[8, 15], [75, 97], [287, 294]]
+
+patients with alcoholic liver disease -- a 
+patients with alcoholic liver disease . Fifty patients with alcoholic liver disease ( 27 with cirrhosis , 23 without cirrhosis ) were 
+patients with alcoholic liver disease . 
+
+ 
+
+
+23356250
+
+gold spans: [[104, 108], [114, 119], [124, 129], [269, 273]]
+
+children with SCA were 
+113 children with SCA studied 
+58 receiving lime treatment had 
+children with SCA. 
+
+ 
+
+
+crf spans: []
+
+
+
+1669598
+
+gold spans: [[66, 74]]
+
+10 patients with asthma due to HDM were 
+
+
+crf spans: [[9, 19], [66, 74]]
+
+asthma due to house dust mite Dermatophagoides pteronyssinus : a 
+10 patients with asthma due to HDM were 
+
+
+10578479
+
+gold spans: [[9, 13], [88, 98]]
+
+premenopausal women . 
+
+ 
+36 premenopausal women , 20 of whom used OC. Subjects 
+
+
+crf spans: [[9, 13], [88, 115], [244, 253]]
+
+premenopausal women . 
+
+ 
+36 premenopausal women , 20 of whom used OC. Subjects consumed their normal diet for two menstrual cycles and added a soy beverage containing 20 g of 
+premenopausal OC or non - OC users . 
+
+ 
+
+
+15014018
+
+gold spans: [[18, 21], [22, 32], [140, 143]]
+
+melanoma . 
+
+ 
+Nearly 2000 patients with stage IIB and III melanoma have 
+713 patients randomized 
+
+
+crf spans: []
+
+
+
+16295154
+
+gold spans: [[3, 12], [12, 27], [66, 78], [87, 93]]
+
+parents of children with autistic spectrum disorder . 
+
+ 
+Parents of children who receive the diagnosis of autistic spectrum disorder ( ASD ) experience 
+a regional diagnostic center of a large metropolitan children 's hospital to 
+parents of children with ASD and 
+
+
+crf spans: [[3, 12]]
+
+parents of children with autistic spectrum disorder . 
+
+ 
+
+
+3074300
+
+gold spans: [[39, 56]]
+
+30 non - insulin dependent ( Type II ) diabetic subjects during a 3-week observation period ( 
+
+
+crf spans: [[39, 51], [235, 241]]
+
+30 non - insulin dependent ( Type II ) diabetic subjects during 
+Type II diabetic patients . 
+
+ 
+
+
+9816035
+
+gold spans: [[204, 247]]
+
+Patients had to have histologically documented measurable breast cancer and a performance status of 0 - 1 . Patients could not have had prior chemotherapy for metastatic disease . Prior adjuvant chemotherapy was permitted . Patients could not have visceral crisis . Amonafide 
+
+
+crf spans: [[394, 401]]
+
+previously untreated breast cancer patients . There 
+
+
+18845996
+
+gold spans: [[1, 9], [61, 71]]
+
+patients at high risk for neutropenic complications during 
+patients with metastatic breast cancer ( MBC ) . 
+ 
+
+
+crf spans: [[61, 71]]
+
+patients with metastatic breast cancer ( MBC ) . 
+ 
+
+
+19159999
+
+gold spans: [[16, 29], [135, 140]]
+
+patients with primary Raynaud 's phenomenon in South Korea ; Korean Raynaud study 
+Ninety - three subjects were 
+
+
+crf spans: [[16, 35]]
+
+patients with primary Raynaud 's phenomenon in South Korea ; Korean Raynaud study ( KOARA study ) . 
+
+ 
+
+
+8519720
+
+gold spans: [[98, 137]]
+
+20 patients undergoing lateral thoracotomy for lung resection were randomized to receive 0.5 mg SM preoperatively and INB with bupivacaine ( INB+ ) prior to wound closure or 0.5 mg SM with INB using saline ( INB- ) . 
+
+
+crf spans: [[98, 107]]
+
+20 patients undergoing lateral thoracotomy for lung resection were 
+
+
+1286547
+
+gold spans: [[30, 41], [41, 50], [242, 249]]
+
+borderline hypertensive patients with IDDM - type diabetes mellitus . 
+
+ 
+Twenty - nine IDDM patients with borderline hypertension were 
+diabetic patients with borderline hypertension . 
+
+ 
+
+
+crf spans: [[30, 41], [41, 50], [242, 249]]
+
+borderline hypertensive patients with IDDM - type diabetes mellitus . 
+
+ 
+Twenty - nine IDDM patients with borderline hypertension were 
+diabetic patients with borderline hypertension . 
+
+ 
+
+
+26210844
+
+gold spans: [[6, 13], [25, 34], [66, 75], [106, 119], [162, 168], [172, 175], [218, 223], [280, 287]]
+
+Autism Spectrum Disorders in Toddlers . 
+
+ 
+autism spectrum disorders ( ASD ) in toddlers that 
+Autism in Toddlers ( RITA - T ) with 
+toddlers with ASD from toddlers with developmental delay ( DD)/non - ASD in 
+ASD and DD/non - ASD. 
+ 
+61 toddlers were 
+subjects with ASD , those 
+a high - risk group . 
+ 
+
+
+crf spans: [[68, 82], [104, 125], [132, 139], [172, 175]]
+
+Toddlers ( RITA - T ) with ASD - specific diagnostic instruments . The 
+distinguish between toddlers with ASD from toddlers with developmental delay ( DD)/non - ASD in an early childhood clinic . We 
+toddlers with no developmental concerns . We 
+61 toddlers were 
+
+
+8913901
+
+gold spans: [[87, 94], [209, 222]]
+
+patients with multivessel coronary artery disease were 
+4,244 BARI randomized and registry study participants with follow - up ECGs received 
+
+
+crf spans: [[87, 94]]
+
+patients with multivessel coronary artery disease were 
+
+
+6421395
+
+gold spans: [[19, 24], [39, 45], [52, 57]]
+
+middle aged men . 
+
+ 
+31 healthy middle aged men undertook 
+29 served as controls in 
+
+
+crf spans: [[19, 24], [36, 45], [188, 193]]
+
+middle aged men . 
+
+ 
+ischaemic heart disease 31 healthy middle aged men undertook 
+healthy middle aged men and 
+
+
+9695300
+
+gold spans: [[42, 71]]
+
+One hundred and fifty - six infants aged between 7 weeks and 24 months who had had an episode of wheezing and other signs and symptoms of bronchiolitis were 
+
+
+crf spans: [[39, 71]]
+
+nebulized salbutamol . One hundred and fifty - six infants aged between 7 weeks and 24 months who had had an episode of wheezing and other signs and symptoms of bronchiolitis were 
+
+
+16167234
+
+gold spans: [[16, 20], [43, 48], [49, 56], [264, 269]]
+
+digestive surgery ] . 
+digestive surgery patients . 
+ 
+Forty patients who underwent digestive surgery were 
+digestive surgery patients . 
+
+ 
+
+
+crf spans: [[49, 56]]
+
+Forty patients who underwent digestive surgery were 
+
+
+1963383
+
+gold spans: [[18, 24], [25, 35], [66, 75]]
+
+small cell lung cancer ] . 
+Eighty - three patients with small cell lung cancer were 
+74 patients were availble to be analysis . The 
+
+
+crf spans: [[25, 35]]
+
+Eighty - three patients with small cell lung cancer were 
+
+
+2908133
+
+gold spans: [[53, 67], [182, 187]]
+
+92 outpatients affected by generalized anxiety disorders for at least 1 month , was 
+Seventy - eight patients completed 
+
+
+crf spans: [[162, 187]]
+
+4 weeks with the Italian HAM - A scale and with a 4-point scale ( patient 's assessment ) . Seventy - eight patients completed 
+
+
+12595499
+
+gold spans: [[5, 12], [78, 82], [95, 109]]
+
+people at high cardiovascular risk : results 
+9297 participants , including 
+7674 participants with albuminuria data at baseline and at follow - up . Inclusion 
+
+
+crf spans: [[78, 91]]
+
+9297 participants , including 3577 with diabetes and 1956 with microalbuminuria . This 
+
+
+22956006
+
+gold spans: [[142, 151], [193, 212]]
+
+chemotherapy - nave patients with breast cancer . All 
+Median age of the 94 women was 51  years ( range 27 - 76 ) : 79 received 
+
+
+crf spans: [[142, 151], [191, 211]]
+
+chemotherapy - nave patients with breast cancer . All 
+8 . Median age of the 94 women was 51  years ( range 27 - 76 ) : 79 
+
+
+9481998
+
+gold spans: [[42, 51]]
+
+Twenty subjects , who have TMJ pain , were 
+
+
+crf spans: []
+
+
+
+21718094
+
+gold spans: [[19, 24], [41, 45], [93, 107]]
+
+type 1 diabetes . 
+
+ 
+type 1 diabetes ( 
+24 patients , 8 - 18 years old , with newly diagnosed T1D. Subjects 
+
+
+crf spans: [[93, 108]]
+
+24 patients , 8 - 18 years old , with newly diagnosed T1D. Subjects were 
+
+
+11891832
+
+gold spans: [[32, 53]]
+
+44 patients with inclusion body myositis in a randomized double - blind placebo - controlled study over 48 weeks . Mean 
+
+
+crf spans: [[32, 39]]
+
+44 patients with inclusion body myositis in 
+
+
+12960652
+
+gold spans: [[128, 152], [152, 168]]
+
+21 patients ( age 0 - 2 months ) and 40 healthy infants ( age 0 - 2 months ) were investigated . The 
+patients suffered from partial or total intestinal obstruction , necrotizing enterocolitis or pyloric stenosis . All 
+
+
+crf spans: [[128, 149]]
+
+21 patients ( age 0 - 2 months ) and 40 healthy infants ( age 0 - 2 months ) were 
+
+
+2066441
+
+gold spans: [[21, 31], [33, 40]]
+
+upper and lower molars with furcation grade II involvement were 
+16 patients with periodontal disease . The 
+
+
+crf spans: [[24, 40]]
+
+molars with furcation grade II involvement were selected from 16 patients with periodontal disease . The 
+
+
+17897478
+
+gold spans: [[109, 113], [114, 119]]
+
+adult asthmatics . 
+ 
+Sixty - six subjects were 
+
+
+crf spans: [[109, 113], [114, 119]]
+
+adult asthmatics . 
+ 
+Sixty - six subjects were 
+
+
+22341427
+
+gold spans: [[8, 16], [40, 46], [112, 125], [342, 345], [361, 365]]
+
+infants with single - ventricle lesions : risk 
+infants undergoing the Norwood procedure and 
+549 subjects ( follow - up , 2.7  0.9 years ) were 
+aortic atresia benefited 
+patent aortic valve benefited 
+
+
+crf spans: []
+
+
+
+18544974
+
+gold spans: [[62, 68], [77, 82]]
+
+school - aged children . The 
+30 healthy children . There 
+
+
+crf spans: [[62, 68]]
+
+school - aged children . The 
+
+
+384815
+
+gold spans: [[12, 21], [56, 59], [101, 103]]
+
+Three hundred forty - one Tanzanian preschool children were 
+273 children who 
+children known 
+
+
+crf spans: [[13, 21]]
+
+hundred forty - one Tanzanian preschool children were 
+
+
+20943715
+
+gold spans: [[15, 21], [69, 78], [361, 369]]
+
+patients with chronic stroke . 
+
+ 
+Fifteen subjects with post - stroke hemiparesis . 
+ 
+patients with post - stroke hemiparesis . 
+
+ 
+
+
+crf spans: [[15, 21], [69, 78], [361, 369]]
+
+patients with chronic stroke . 
+
+ 
+Fifteen subjects with post - stroke hemiparesis . 
+ 
+patients with post - stroke hemiparesis . 
+
+ 
+
+
+24080592
+
+gold spans: [[6, 12], [59, 71]]
+
+patients with isolated hypertriglyceridemia . 
+
+ 
+39 patients with elevated triglyceride levels and peripheral artery sclerosis , treated 
+
+
+crf spans: [[6, 12]]
+
+patients with isolated hypertriglyceridemia . 
+
+ 
+
+
+14679127
+
+gold spans: [[46, 63], [66, 72], [163, 166]]
+
+patients with advanced epithelial ovarian cancer who had failed one prior platinum - based regimen . 
+ 
+Patients with bidimensionally measurable disease were 
+226 patients were 
+
+
+crf spans: [[46, 63]]
+
+patients with advanced epithelial ovarian cancer who had failed one prior platinum - based regimen . 
+ 
+
+
+25784723
+
+gold spans: [[7, 19], [30, 36], [106, 118], [265, 276]]
+
+children and young adults after repair of tetralogy of Fallot : randomized 
+patients with congenital heart disease to 
+patients with tetralogy of Fallot aged 10 to 25 years . A 
+children and young adults with repaired tetralogy of Fallot . This 
+
+
+crf spans: [[7, 19], [106, 118], [265, 276]]
+
+children and young adults after repair of tetralogy of Fallot : randomized 
+patients with tetralogy of Fallot aged 10 to 25 years . A 
+children and young adults with repaired tetralogy of Fallot . This 
+
+
+25068497
+
+gold spans: [[11, 15], [115, 123]]
+
+healthy children : a 
+4 - 5-year - old children . PCV7-TT 
+
+
+crf spans: [[11, 15], [115, 123]]
+
+healthy children : a 
+4 - 5-year - old children . PCV7-TT 
+
+
+17321989
+
+gold spans: [[61, 81], [230, 232]]
+
+patients with acute myeloid leukemia ( AML ) or myelodysplastic syndromes ( MDS ) during and after chemotherapy . There 
+patients with 
+
+
+crf spans: [[14, 24], [61, 76]]
+
+patients with acute myeloid leukemia and myelodysplastic syndromes : a 
+patients with acute myeloid leukemia ( AML ) or myelodysplastic syndromes ( MDS ) during 
+
+
+21975269
+
+gold spans: [[69, 87], [146, 156]]
+
+3790 heterosexual HIV-1-serodiscordant couples participating in two longitudinal studies of HIV-1 incidence in seven African countries . Among 
+1314 couples in which the HIV-1-seronegative partner was female ( 
+
+
+crf spans: [[44, 60], [102, 115]]
+
+HIV-1 acquisition by women and HIV-1 transmission from HIV-1-infected women to their male partners . 
+ 
+HIV-1 acquisition by women and HIV-1 transmission from women to men . The 
+
+
+25885649
+
+gold spans: [[62, 71], [175, 206]]
+
+patients with rheumatoid arthritis ( RA ) , and 
+Sixty - eight RA patients ( age=5513 years , body mass index : 27.85.4 kg/m2 , median of disease duration=5 ( 2 - 8 ) yrs ) were recruited . Smaller 
+
+
+crf spans: [[14, 19], [62, 70], [175, 203]]
+
+rheumatoid arthritis patients . 
+
+ 
+patients with rheumatoid arthritis ( RA ) , 
+Sixty - eight RA patients ( age=5513 years , body mass index : 27.85.4 kg/m2 , median of disease duration=5 ( 2 - 8 ) yrs ) were 
+
+
+24803369
+
+gold spans: [[0, 6], [14, 23], [65, 87], [113, 117]]
+
+Youth with autism spectrum disorder comprehend 
+Individuals with autism spectrum disorder ( ASD ) have 
+13 participants with ASD ( age 7;03 - 22;03 ) and 13 age - matched typically developing ( TD ) controls could 
+Individuals with ASD performed 
+
+
+crf spans: [[65, 87]]
+
+13 participants with ASD ( age 7;03 - 22;03 ) and 13 age - matched typically developing ( TD ) controls could 
+
+
+15193668
+
+gold spans: [[10, 13], [37, 49]]
+
+autism . 
+
+ 
+Children ( N = 576 ; M age = 10.06 ) were 
+
+
+crf spans: []
+
+
+
+20560622
+
+gold spans: [[14, 17], [59, 63]]
+
+male adolescents and 
+18 male adolescents consumed 
+
+
+crf spans: []
+
+
+
+8916620
+
+gold spans: [[23, 25], [26, 28]]
+
+individuals rather 
+individuals to 
+
+
+crf spans: []
+
+
+
+19108790
+
+gold spans: [[16, 19], [34, 38], [45, 47], [165, 168], [275, 309]]
+
+breast cancer surgery 
+Japanese patients . 
+
+ 
+patient under 
+Japanese women were 
+total of 100 women ( mean [ SD ] age , 52 [ 7 ] years ; height , 154 [ 6 ] cm ; weight , 54 [ 7 ] kg ) were 
+
+
+crf spans: [[34, 38], [145, 149], [480, 489]]
+
+Japanese patients . 
+
+ 
+Japanese patients . 
+ 
+Japanese women who underwent breast cancer surgery . The 
+
+
+19708562
+
+gold spans: [[11, 17], [21, 34]]
+
+patients with gastric ulcer ] . 
+100 patients with gastric ulcer aged from 16 to 60 years . In 
+
+
+crf spans: [[11, 18], [21, 34]]
+
+patients with gastric ulcer ] . 
+
+ 
+100 patients with gastric ulcer aged from 16 to 60 years . In 
+
+
+22271197
+
+gold spans: [[15, 18]]
+
+autism . 
+
+ 
+
+
+crf spans: []
+
+
+
+22538329
+
+gold spans: [[31, 37], [89, 100], [110, 139], [146, 156], [265, 270]]
+
+patients with spotty calcification . 
+ 
+total of 1,347 stable patients with angiographic coronary artery disease underwent 
+Patients with spotty calcification were identified based on the presence of lesions ( 1 to 4 mm in length ) containing an arc of calcification of < 90. Clinical 
+patients with spotty calcification ( n = 922 ) and 
+Patients with spotty calcification demonstrated 
+
+
+crf spans: [[91, 115]]
+
+1,347 stable patients with angiographic coronary artery disease underwent serial evaluation of atheroma burden with intravascular ultrasound imaging . Patients with spotty calcification were 
+
+
+2678230
+
+gold spans: [[60, 68]]
+
+16 patients with ischaemic heart disease . No 
+
+
+crf spans: [[60, 68]]
+
+16 patients with ischaemic heart disease . No 
+
+
+3534803
+
+gold spans: [[180, 203], [238, 245]]
+
+General surgical patients including those undergoing noncardiac thoracic and pelvic operations who were identified at moderate to high risk for postop DVT were 
+Eight hundred and eighty eight patients were 
+
+
+crf spans: [[237, 245]]
+
+. Eight hundred and eighty eight patients were 
+
+
+21106663
+
+gold spans: [[117, 124]]
+
+Participants were 236 heavy drinking smokers in 
+
+
+crf spans: []
+
+
+
+25369243
+
+gold spans: [[2, 7], [57, 73], [77, 92]]
+
+autism spectrum disorder : no 
+children and adolescents with both ASD and attention - deficit/hyperactivity disorder ( ADHD ) . 
+ 
+97 patients 6 - 17 years of age , with ASD and ADHD , were 
+
+
+crf spans: [[57, 73], [77, 92]]
+
+children and adolescents with both ASD and attention - deficit/hyperactivity disorder ( ADHD ) . 
+ 
+97 patients 6 - 17 years of age , with ASD and ADHD , were 
+
+
+17293018
+
+gold spans: [[62, 73], [143, 148]]
+
+patients with C. difficile - associated diarrhea ( CDAD ) to 
+77 patients with CDAD to 
+
+
+crf spans: []
+
+
+
+6938020
+
+gold spans: [[25, 32], [97, 102]]
+
+previously untreated patients with prostatic cancer in 
+patients with advanced disease no 
+
+
+crf spans: []
+
+
+
+12576806
+
+gold spans: [[76, 85], [150, 153]]
+
+57 consecutive patients with primary ureteropelvic junction obstruction were 
+26 patients were 
+
+
+crf spans: [[76, 85]]
+
+57 consecutive patients with primary ureteropelvic junction obstruction were 
+
+
+11381289
+
+gold spans: [[48, 57]]
+
+patients at high risk for cardiovascular events . Treatment 
+
+
+crf spans: []
+
+
+
+12477021
+
+gold spans: [[72, 78]]
+
+Thirty - five university students were 
+
+
+crf spans: [[71, 78]]
+
+. Thirty - five university students were 
+
+
+24515505
+
+gold spans: [[3, 9], [87, 102]]
+
+childhood autism spectrum disorders . 
+
+ 
+children aged 3 to 17 years , with and without parent - reported ASD. Regression 
+
+
+crf spans: []
+
+
+
+9730996
+
+gold spans: [[7, 11], [64, 78]]
+
+severe bronchiectasis . 
+
+ 
+Twenty - four patients ( 12 female ; mean age 51 yr ) were 
+
+
+crf spans: [[62, 78]]
+
+bronchiectasis . Twenty - four patients ( 12 female ; mean age 51 yr ) were 
+
+
+21866656
+
+gold spans: [[6, 12], [43, 50], [51, 71]]
+
+endometriosis - related infertility patients by 
+endometriosis ( EMs)-related infertility patients . 
+ 
+130 EMs - related infertility patients of blood stasis and toxin accumulation syndrome diagnosed and treated by laparoscopic surgery were 
+
+
+crf spans: [[51, 71]]
+
+130 EMs - related infertility patients of blood stasis and toxin accumulation syndrome diagnosed and treated by laparoscopic surgery were 
+
+
+19301724
+
+gold spans: [[149, 174]]
+
+61 ASA physical status I - III patients scheduled for elective unilateral total knee arthroplasty ( TKA ) under spinal anesthesia ( SA ) participated 
+
+
+crf spans: [[18, 32], [149, 176]]
+
+postoperative analgesia and knee rehabilitation after total knee arthroplasty ( TKA ) . 
+
+ 
+61 ASA physical status I - III patients scheduled for elective unilateral total knee arthroplasty ( TKA ) under spinal anesthesia ( SA ) participated . The 
+
+
+7827398
+
+gold spans: [[10, 13], [51, 57], [67, 126], [202, 208]]
+
+elderly patients and 
+hypertension in older patients . Since 
+British Medical Research Council ( MRC ) trial of treatment in older adults , the Swedish Trial in Old Patients with Hypertension ( STOP - Hypertension ) and the Systolic Hypertension in the Elderly Program ( SHEP)--have conclusively established the benefits of treating older patients ( > 60 years ) with both diastolic and isolated systolic hypertension . International 
+older individuals with hypertension . 
+
+ 
+
+
+crf spans: [[78, 126], [202, 208]]
+
+older adults , the Swedish Trial in Old Patients with Hypertension ( STOP - Hypertension ) and the Systolic Hypertension in the Elderly Program ( SHEP)--have conclusively established the benefits of treating older patients ( > 60 years ) with both diastolic and isolated systolic hypertension . International 
+older individuals with hypertension . 
+
+ 
+
+
+8779382
+
+gold spans: [[16, 23]]
+
+82 patients having postoperative epidural analgesia was 
+
+
+crf spans: []
+
+
+
+1131298
+
+gold spans: [[11, 14], [36, 41]]
+
+hyperlipemia . 
+
+ 
+10 healthy subjects . The 
+
+
+crf spans: [[36, 41]]
+
+10 healthy subjects . The 
+
+
+11750293
+
+gold spans: [[7, 11], [35, 45], [53, 70]]
+
+rheumatoid arthritis : the 
+patients with recently diagnosed rheumatoid arthritis ( RA ) and 
+Twenty - two patients with a history of recently diagnosed RA of less than 2 years were 
+
+
+crf spans: [[5, 11], [35, 45], [53, 70]]
+
+recent onset rheumatoid arthritis : the 
+patients with recently diagnosed rheumatoid arthritis ( RA ) and 
+Twenty - two patients with a history of recently diagnosed RA of less than 2 years were 
+
+
+2223363
+
+gold spans: [[13, 17], [34, 39]]
+
+elderly patients . 
+
+ 
+60 elderly patients . Propofol 
+
+
+crf spans: [[13, 17], [34, 39]]
+
+elderly patients . 
+
+ 
+60 elderly patients . Propofol 
+
+
+9573502
+
+gold spans: [[20, 28], [86, 92]]
+
+patients with hemodynamically decompensated heart failure . 
+
+ 
+16 decompensated heart failure patients in 
+
+
+crf spans: [[20, 28]]
+
+patients with hemodynamically decompensated heart failure . 
+
+ 
+
+
+1780092
+
+gold spans: [[63, 81]]
+
+98 patients aged between 18 and 75 suffering from pain - inflammatory pathologies of ENT nature . Both 
+
+
+crf spans: [[63, 81]]
+
+98 patients aged between 18 and 75 suffering from pain - inflammatory pathologies of ENT nature . Both 
+
+
+15848261
+
+gold spans: [[7, 11], [17, 24], [40, 52]]
+
+stroke patients ] . 
+post - acute hemiparetic patients , gait 
+Twenty - six patients within 3 months of onset of stroke were 
+
+
+crf spans: [[7, 12], [40, 52]]
+
+stroke patients ] . 
+
+ 
+Twenty - six patients within 3 months of onset of stroke were 
+
+
+23417625
+
+gold spans: [[4, 12], [121, 127]]
+
+children with high - functioning autism : a 
+children and adolescents with HFA. Participants 
+
+
+crf spans: [[4, 12], [114, 128]]
+
+children with high - functioning autism : a 
+young people with HFA. Eligible patients were children and adolescents with HFA. Participants were 
+
+
+17616069
+
+gold spans: [[97, 109]]
+
+50 women with clinical and lab signs of postpartal anemia . The 
+
+
+crf spans: []
+
+
+
+18958161
+
+gold spans: [[125, 136]]
+
+Children with ASD and typically developing ( TD ) children viewed 
+
+
+crf spans: [[74, 84]]
+
+individuals with autism spectrum disorders ( ASD ) . Still 
+
+
+10764172
+
+gold spans: [[27, 33], [34, 45]]
+
+patients who underwent hysterectomy . 
+ 
+Forty patients were divided into four groups of ten . The 
+
+
+crf spans: [[34, 37]]
+
+Forty patients were 
+
+
+12139812
+
+gold spans: [[46, 57]]
+
+208 patients ( 229 eyes ) with initial pterygium , and 
+
+
+crf spans: [[46, 99]]
+
+208 patients ( 229 eyes ) with initial pterygium , and they were allocated to two groups : excision of pterygium with limbal epithelial autograft transplantation surgery ( A group , 106 cases and 124 eyes ) and simple pterygium excision ( B group , 102 cases and 105 eyes ) . The 
+
+
+6989377
+
+gold spans: [[55, 62], [326, 337]]
+
+95 patients with atherosclerotic disease . During 
+patients who are on a diet enriched with polyunsaturated fats is 
+
+
+crf spans: [[55, 62]]
+
+95 patients with atherosclerotic disease . During 
+
+
+3081600
+
+gold spans: [[9, 17], [31, 36]]
+
+outpatients with a major depressive disorder . 
+
+ 
+outpatients with primary depression was 
+
+
+crf spans: [[9, 17], [31, 36]]
+
+outpatients with a major depressive disorder . 
+
+ 
+outpatients with primary depression was 
+
+
+8771302
+
+gold spans: [[97, 118]]
+
+90 patients who had aortic , mitral , and/or tricuspid valve replacement with Sorin Bicarbon or CarboMedics bileaflet prostheses . Fifty 
+
+
+crf spans: [[97, 126]]
+
+90 patients who had aortic , mitral , and/or tricuspid valve replacement with Sorin Bicarbon or CarboMedics bileaflet prostheses . Fifty percent of the patients in each group were 
+
+
+2803397
+
+gold spans: [[38, 43], [54, 57]]
+
+ear microsurgical operations . Simple 
+49 patients under 
+
+
+crf spans: [[54, 64]]
+
+49 patients under the following randomised anaesthetic procedures : Group 
+
+
+26278470
+
+gold spans: [[121, 129], [139, 147], [284, 291]]
+
+patients with OCD with poor insight . 
+ 
+90 patients with OCD with poor insight received 
+Patients with OCD with poor insight improve 
+
+
+crf spans: [[139, 147]]
+
+90 patients with OCD with poor insight received 
+
+
+19096921
+
+gold spans: [[10, 17]]
+
+children with pervasive developmental disorders . 
+
+ 
+
+
+crf spans: [[10, 17]]
+
+children with pervasive developmental disorders . 
+
+ 
+
+
+7598243
+
+gold spans: [[54, 71]]
+
+360 ASA physical status I - III patients undergoing total abdominal hysterectomy ( TAH ) . Subjects 
+
+
+crf spans: [[54, 72]]
+
+360 ASA physical status I - III patients undergoing total abdominal hysterectomy ( TAH ) . Subjects were 
+
+
+21896676
+
+gold spans: [[129, 160]]
+
+186 patients ( mean age 70 years , 123 ( 66 % ) female patients , 130 ( 70 % ) trauma ) who were referred for physiotherapy assessment/intervention . Referral 
+
+
+crf spans: [[129, 154]]
+
+186 patients ( mean age 70 years , 123 ( 66 % ) female patients , 130 ( 70 % ) trauma ) who were 
+
+
+22897461
+
+gold spans: [[18, 27], [96, 103], [107, 128], [137, 142], [154, 159], [168, 173], [178, 185]]
+
+patients with mixed dyslipidaemia and metabolic syndrome . 
+
+ 
+patients with mixed dyslipidaemia and MetS. 
+ 
+patients with low - density lipoprotein cholesterol ( LDL - C ) > 160 and TG > 200  mg/dl to 
+n = 30 ) or 
+n = 30 ) or 
+n = 30 ) . 
+only patients with MetS were included ( 
+
+
+crf spans: [[18, 27]]
+
+patients with mixed dyslipidaemia and metabolic syndrome . 
+
+ 
+
+
+10752495
+
+gold spans: [[8, 14], [35, 44], [91, 100]]
+
+patients with rheumatoid arthritis : comparison 
+patients with rheumatoid arthritis ( RA ) . However 
+38 patients with RA and 20 controls . A 
+
+
+crf spans: [[8, 14], [35, 44], [91, 100]]
+
+patients with rheumatoid arthritis : comparison 
+patients with rheumatoid arthritis ( RA ) . However 
+38 patients with RA and 20 controls . A 
+
+
+23392542
+
+gold spans: [[9, 16], [60, 68], [89, 93], [258, 264]]
+
+early - stage diabetic nephropathy patients on 
+Type 2 diabetic patients ( N.=57 ) were 
+Diabetic nephropathy patients were 
+type 2 diabetes mellitus patients " 
+
+
+crf spans: [[60, 68], [258, 274]]
+
+Type 2 diabetic patients ( N.=57 ) were 
+type 2 diabetes mellitus patients " with nephropathy " than " without nephropathy " . However 
+
+
+9229602
+
+gold spans: [[9, 14], [61, 64]]
+
+acute allergic conjunctivitis ] . 
+69 patients were 
+
+
+crf spans: [[9, 15]]
+
+acute allergic conjunctivitis ] . 
+
+ 
+
+
+15854186
+
+gold spans: [[44, 58]]
+
+98 patients to receive cophenylcaine or placebo nasal spray before flexible nasendoscopy . A 
+
+
+crf spans: []
+
+
+
+22435114
+
+gold spans: [[5, 17], [89, 99]]
+
+children with high - functioning autism spectrum disorders and anxiety : a 
+Fifty children with high - functioning ASD and anxiety were 
+
+
+crf spans: [[5, 17], [89, 99], [146, 159]]
+
+children with high - functioning autism spectrum disorders and anxiety : a 
+Fifty children with high - functioning ASD and anxiety were 
+Forty - seven children completed either the CBT or TAU condition . Results 
+
+
+6920252
+
+gold spans: [[5, 10], [28, 35], [43, 46]]
+
+the premature monkey : effects 
+premature monkey ( Macaca nemestrina ) model 
+Twelve dams received 
+
+
+crf spans: []
+
+
+
+7017018
+
+gold spans: [[9, 14], [23, 26]]
+
+renal transplant recipients . 
+
+ 
+75 children after 
+
+
+crf spans: []
+
+
+
+3919804
+
+gold spans: [[36, 48]]
+
+45 type I ( insulin dependent ) diabetics without proliferative retinopathy were 
+
+
+crf spans: [[27, 48]]
+
+retinopathy during one year of tight blood glucose control 45 type I ( insulin dependent ) diabetics without proliferative retinopathy were 
+
+
+16055807
+
+gold spans: [[144, 153], [165, 188]]
+
+1212 individuals seeking help for mental health problems were 
+388 individuals fulfilled criteria for both interventions and 188 ( 48.5 % ) gave informed consent to participate in the trials . 
+ 
+
+
+crf spans: []
+
+
+
+10390665
+
+gold spans: [[14, 22], [37, 39], [56, 70]]
+
+post - operative vomiting in children . 
+
+ 
+tonsillectomy with 
+90 paediatric patients , ASA I , aged 4 - 10 years , received 
+
+
+crf spans: [[56, 70], [213, 221]]
+
+90 paediatric patients , ASA I , aged 4 - 10 years , received 
+children undergoing general anaesthesia for tonsillectomy . 
+
+ 
+
+
+10070173
+
+gold spans: [[97, 118]]
+
+Two hundred and eighty - four out - patients with SAR , who were symptomatic during the ragweed season , volunteered 
+
+
+crf spans: [[97, 111]]
+
+Two hundred and eighty - four out - patients with SAR , who were 
+
+
+12586799
+
+gold spans: [[10, 15], [56, 61], [65, 89]]
+
+advanced nasopharyngeal carcinoma : positive 
+patients with advanced NPC. 
+ 
+December 1993 to April 1999 , 284 patients with 1992 American Joint Committee on Cancer stage III to IV ( M0 ) NPC were 
+
+
+crf spans: [[65, 89]]
+
+December 1993 to April 1999 , 284 patients with 1992 American Joint Committee on Cancer stage III to IV ( M0 ) NPC were 
+
+
+18975051
+
+gold spans: [[147, 154]]
+
+10 patients in each group . Attenuation 
+
+
+crf spans: []
+
+
+
+22416755
+
+gold spans: [[55, 64], [128, 137]]
+
+twenty - two 3- to 4-year - olds watched 
+thirty - two 4- to 5-year - olds learned 
+
+
+crf spans: []
+
+
+
+21029638
+
+gold spans: [[50, 53], [558, 561]]
+
+81 schizophrenics were 
+schizophrenics . 
+
+ 
+
+
+crf spans: [[50, 53]]
+
+81 schizophrenics were 
+
+
+6951573
+
+gold spans: [[16, 28]]
+
+One hundred and twenty patients presenting at Macquarie Hospital for admission were 
+
+
+crf spans: [[16, 28]]
+
+One hundred and twenty patients presenting at Macquarie Hospital for admission were 
+
+
+1459268
+
+gold spans: [[79, 90]]
+
+Forty - eight patients having IVF for the first time were 
+
+
+crf spans: [[79, 90]]
+
+Forty - eight patients having IVF for the first time were 
+
+
+11642083
+
+gold spans: [[6, 10], [37, 47], [49, 56]]
+
+myocardial infarction ] . 
+patients on thrombolytic therapy ( TLT ) . 
+ MATERIAL 
+106 males with Q - MI entered 
+
+
+crf spans: [[49, 78]]
+
+106 males with Q - MI entered the study . 47 received treatment without TLT and neoton , 30 patients received TLT with streptokinase preparations , 29 patients were 
+
+
+24451919
+
+gold spans: [[96, 117]]
+
+Age - matched boys with ADHD ( 15 ) , ASD ( 18 ) , and controls ( 21 ) were 
+
+
+crf spans: []
+
+
+
+7831628
+
+gold spans: [[126, 142]]
+
+100 consecutive patients . Patients did not practise the exhalation manoeuvre prior to testing . 
+ 
+
+
+crf spans: [[126, 132]]
+
+100 consecutive patients . Patients did 
+
+
+24317958
+
+gold spans: [[59, 79]]
+
+Fifty - three root canals with two standardized grooves in the apical and coronal parts of longitudinally split roots were 
+
+
+crf spans: []
+
+
+
+8911222
+
+gold spans: [[5, 14], [34, 44], [45, 74]]
+
+drug - free adults with autistic disorder . 
+
+ 
+drug - free adult patients with autistic disorder . 
+ 
+Twenty drug - free adults with autistic disorder ( 16 men and 4 women ) ( mean [ +/- SD ] age , 30.5 +/- 8.5 years ) underwent 
+
+
+crf spans: [[5, 14], [34, 44], [45, 74]]
+
+drug - free adults with autistic disorder . 
+
+ 
+drug - free adult patients with autistic disorder . 
+ 
+Twenty drug - free adults with autistic disorder ( 16 men and 4 women ) ( mean [ +/- SD ] age , 30.5 +/- 8.5 years ) underwent 
+
+
+8911223
+
+gold spans: [[12, 18], [78, 84]]
+
+adults with autistic disorder . 
+
+ 
+Thirty adults with autistic disorder completed 
+
+
+crf spans: [[12, 18], [78, 84], [296, 303]]
+
+adults with autistic disorder . 
+
+ 
+Thirty adults with autistic disorder completed 
+children and adolescents with autism . 
+
+ 
+
+
+20618920
+
+gold spans: [[12, 17], [97, 105]]
+
+patients with depression : study 
+Eighty depressed patients undergoing standard antidepressant treatment will 
+
+
+crf spans: [[12, 17]]
+
+patients with depression : study 
+
+
+18189160
+
+gold spans: [[16, 23], [50, 57]]
+
+patients with early breast cancer : results 
+patients with early breast cancer , but 
+
+
+crf spans: [[16, 23]]
+
+patients with early breast cancer : results 
+
+
+11317090
+
+gold spans: [[6, 11], [82, 101]]
+
+persons with osteoarthritis . 
+
+ 
+Recruited 249 adults from Washington State aged 55 to 75 with a doctor - confirmed diagnosis of osteoarthritis to 
+
+
+crf spans: [[82, 107]]
+
+Recruited 249 adults from Washington State aged 55 to 75 with a doctor - confirmed diagnosis of osteoarthritis to participate in aquatic classes . The 
+
+
+7707420
+
+gold spans: [[23, 30], [104, 114], [154, 187], [333, 336], [341, 346]]
+
+a family history of breast cancer have 
+first - degree relatives of index breast cancer patients and 
+200 women aged 35 years and older who had a family history of breast cancer in a first - degree relative . Women with a personal history of cancer were excluded . Risk 
+white women were 
+African - American women ( 
+
+
+crf spans: [[154, 184]]
+
+200 women aged 35 years and older who had a family history of breast cancer in a first - degree relative . Women with a personal history of cancer were 
+
+
+21669557
+
+gold spans: [[184, 202]]
+
+49 intervention and 70 control women 38 - 84 years of age , and 55 control subjects were 
+
+
+crf spans: [[184, 202]]
+
+49 intervention and 70 control women 38 - 84 years of age , and 55 control subjects were 
+
+
+22420121
+
+gold spans: [[5, 12], [27, 39], [40, 78], [292, 296]]
+
+individuals with autism spectrum disorder : a 
+individuals formally diagnosed with autism spectrum disorder ( ASD ) . Participants 
+20 children with ASD ( M age = 14.3 yr . , SD = 4.2 ; 6 girls , 14 boys ) in the role of speakers and 20 control children , who acted as listeners . They 
+individuals with ASD are 
+
+
+crf spans: [[5, 12], [27, 78]]
+
+individuals with autism spectrum disorder : a 
+individuals formally diagnosed with autism spectrum disorder ( ASD ) . Participants were 20 children with ASD ( M age = 14.3 yr . , SD = 4.2 ; 6 girls , 14 boys ) in the role of speakers and 20 control children , who acted as listeners . They 
+
+
+6418441
+
+gold spans: [[3, 7], [38, 43]]
+
+asthma in adults using 
+31 adult asthmatic patients in 
+
+
+crf spans: [[38, 43]]
+
+31 adult asthmatic patients in 
+
+
+18229990
+
+gold spans: [[3, 6], [38, 44], [54, 71]]
+
+autism : randomized 
+preschool children with autism , with 
+58 children ( 46 boys ) with autism between 3 and 4 years of age . Children 
+
+
+crf spans: [[38, 72], [208, 214]]
+
+preschool children with autism , with prediction to language outcome 12 months later . Participants were 58 children ( 46 boys ) with autism between 3 and 4 years of age . Children were 
+young children with autism . 
+
+ 
+
+
+22646975
+
+gold spans: [[14, 21], [63, 68], [265, 268]]
+
+patients with inflammatory bowel disease . 
+
+ 
+Fifty - six outpatients were 
+IBD patients may 
+
+
+crf spans: [[62, 68], [163, 172]]
+
+. Fifty - six outpatients were 
+Thirty - nine subjects completed the study and were 
+
+
+23357440
+
+gold spans: [[14, 21], [70, 93]]
+
+children with autism spectrum disorders : a 
+A total of 45 children ( 7 - 11 years of age ) with high - functioning ASD and clinically significant anxiety were 
+
+
+crf spans: [[14, 21], [73, 93]]
+
+children with autism spectrum disorders : a 
+45 children ( 7 - 11 years of age ) with high - functioning ASD and clinically significant anxiety were 
+
+
+7814711
+
+gold spans: [[33, 37]]
+
+37 Holstein cows were 
+
+
+crf spans: []
+
+
+
+24660757
+
+gold spans: [[2, 6], [154, 161], [181, 188]]
+
+intergroup relations : an 
+members of low status groups , compensation 
+members of the high status group would 
+
+
+crf spans: []
+
+
+
+361799
+
+gold spans: [[4, 9], [13, 16], [70, 80], [107, 110]]
+
+advanced breast cancer . A 
+600 cases in 
+departments of medicine in eight French anticancer centres . They 
+603 patients using 
+
+
+crf spans: []
+
+
+
+21170734
+
+gold spans: [[4, 7], [36, 44]]
+
+Beluga , Huso 
+Beluga , Huso huso ( L. ) were 
+
+
+crf spans: []
+
+
+
+24075141
+
+gold spans: [[15, 22], [50, 58], [138, 150]]
+
+children with autism spectrum disorders : behavioural 
+children diagnosed with an autism spectrum disorder as 
+Participants with clinically significant scores indicative of inattention and hyperactivity behaviours and 
+
+
+crf spans: [[15, 22], [263, 271]]
+
+children with autism spectrum disorders : behavioural 
+children with autism require independent replication . 
+
+ 
+
+
+10912743
+
+gold spans: [[13, 18], [41, 48], [141, 170]]
+
+treated hypertensive patients . Collaborative 
+hypertensive patients receiving drug treatment , but 
+Fifteen Italian hypertension units studied 142 hypertensive patients ( 76 men , 66 women ; mean age 59 +/- 5.9 years ) treated with different antihypertensive drugs : 71 
+
+
+crf spans: [[132, 172]]
+
+people with one or more cardiovascular risk factors . Fifteen Italian hypertension units studied 142 hypertensive patients ( 76 men , 66 women ; mean age 59 +/- 5.9 years ) treated with different antihypertensive drugs : 71 patients were 
+
+
+20189026
+
+gold spans: [[19, 26], [73, 85]]
+
+patients with acute myocardial infarction : a 
+333 consecutive adult patients with a suspected first acute myocardial infarction were 
+
+
+crf spans: [[19, 26], [73, 85], [209, 227]]
+
+patients with acute myocardial infarction : a 
+333 consecutive adult patients with a suspected first acute myocardial infarction were 
+82 patients were excluded on arrival at hospital because they did not meet inclusion criteria , 32 were 
+
+
+15858959
+
+gold spans: [[5, 11], [53, 59], [60, 64]]
+
+children with acute diarrhoea . 
+
+ 
+children with acute diarrhoea . 
+ 
+Two hundred children were 
+
+
+crf spans: [[5, 11], [60, 64]]
+
+children with acute diarrhoea . 
+
+ 
+Two hundred children were 
+
+
+11829043
+
+gold spans: [[12, 18], [18, 26]]
+
+patients after stoma surgery . 
+
+ 
+Eighteen patients who had undergone stoma surgery were 
+
+
+crf spans: [[18, 26], [269, 275]]
+
+Eighteen patients who had undergone stoma surgery were 
+patients after stoma surgery . 
+
+ 
+
+
+11099086
+
+gold spans: [[9, 16], [122, 154]]
+
+acute invasive diarrhea in children . 
+
+ 
+201 evaluable children ages 6 months to 10 years ( 35 % < 1 year ; 70 % <3 years ) presenting with acute invasive diarrhea at the Pediatric Emergency Room were 
+
+
+crf spans: [[116, 154], [448, 458]]
+
+July 1996 through December 1997 , 201 evaluable children ages 6 months to 10 years ( 35 % < 1 year ; 70 % <3 years ) presenting with acute invasive diarrhea at the Pediatric Emergency Room were 
+ambulatory pediatric patients requiring an emergency room visit . 
+
+ 
+
+
+2224060
+
+gold spans: [[8, 15], [58, 66], [97, 110]]
+
+acute nonlymphocytic leukemia in adults . 
+
+ 
+adult acute nonlymphocytic leukemia ( ANLL ) was 
+101 eligible cases ( bestatin : 48 , control : 53 ) were 
+
+
+crf spans: [[12, 15], [147, 164]]
+
+adults . 
+
+ 
+the 15 - 49 yr age group , in the 50 - 65 yr age group it 
+
+

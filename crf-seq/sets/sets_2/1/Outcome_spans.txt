@@ -1,0 +1,3422 @@
+23549581
+
+gold spans: [[4, 13], [258, 265], [310, 312], [355, 359], [393, 395], [428, 431]]
+
+pain , function , and quality of life among 
+peripheral neuropathic pain . Pain severity was 
+pain of 
+average pain score between 
+pain of 
+pain . 
+ 
+
+
+crf spans: [[4, 13], [259, 265], [268, 280], [355, 359]]
+
+pain , function , and quality of life among 
+neuropathic pain . Pain severity was 
+Brief Pain Inventory - Short Form " average pain " item with 
+average pain score between 
+
+
+11401641
+
+gold spans: [[21, 27], [163, 165], [178, 180], [256, 258]]
+
+intraocular pressure ( IOP ) of 
+IOP at 
+IOP at 
+IOP with 
+
+
+crf spans: [[318, 321]]
+
+IOP reduction was 
+
+
+22744141
+
+gold spans: [[25, 34], [141, 146], [164, 170], [207, 218]]
+
+effects of enhanced milieu teaching ( EMT ) implemented 
+use of EMT strategies at 
+Effect sizes for observational measures ranged 
+benefits to training parents to implement naturalistic language intervention strategies with 
+
+
+crf spans: []
+
+
+
+20739054
+
+gold spans: [[184, 188], [191, 195], [227, 231], [303, 305], [327, 331], [374, 377], [398, 401], [423, 426], [456, 461], [480, 484], [492, 497]]
+
+platelet response . Patients 
+response to treatment ( 
+odds of response to 
+responded to 
+odds of responding were 
+concomitant treatment versus 
+rescue treatment compared 
+thromboembolic events compared 
+alanine aminotransferase concentration , and 
+total bilirubin . Four 
+serious bleeding events , compared 
+
+
+crf spans: [[492, 497]]
+
+serious bleeding events , compared 
+
+
+16427787
+
+gold spans: [[39, 42], [42, 49], [76, 81], [113, 116], [121, 127], [136, 140], [154, 156], [160, 163]]
+
+brain activities and 
+their relation to induction of sleepiness were 
+task - related activity in 
+fatigue . In 
+activation in the left parahippocampus in 
+modulates brain activity in 
+fatigue inducing 
+brain activity is 
+
+
+crf spans: []
+
+
+
+24350813
+
+gold spans: [[8, 12], [42, 47], [143, 147], [180, 182], [189, 192], [218, 220], [228, 230], [230, 232], [240, 250], [258, 260], [268, 272], [280, 283], [294, 297], [303, 307], [329, 333], [347, 352], [361, 365], [373, 376], [424, 429]]
+
+safety and efficacy of 
+irritability and related behaviors in 
+safety ; efficacy was 
+response ( 
+adverse events ( 
+appetite ( 
+weight and 
+vomiting ( 
+sedation , pyrexia , and upper respiratory tract infection ( 
+nasopharyngitis ( 
+somnolence and fatigue ( 
+Extrapyramidal AEs were 
+mean weight ( 
+body mass index ( 
+irregular menstruation ) was 
+sleep visual analog scale ( 
+efficacy scale scores during 
+safety findings with 
+irritability and related behaviors . 
+
+
+crf spans: [[142, 147], [189, 195], [228, 232], [240, 250], [268, 272], [294, 297], [319, 333], [347, 352], [361, 365]]
+
+'s safety ; efficacy was 
+adverse events ( AE ) ( 
+weight and vomiting ( 
+sedation , pyrexia , and upper respiratory tract infection ( 
+somnolence and fatigue ( 
+mean weight ( 
+weight increase . One potentially prolactin - related AE ( irregular menstruation ) was 
+sleep visual analog scale ( 
+efficacy scale scores during 
+
+
+21211686
+
+gold spans: [[2, 9], [19, 22], [128, 132], [141, 155], [167, 192], [196, 204], [213, 218], [228, 231], [243, 251], [260, 263], [273, 275], [304, 308], [322, 324], [335, 340], [353, 356], [385, 387], [394, 396], [410, 414], [417, 420]]
+
+triglyceride/high - density lipoprotein cholesterol ratio is 
+coronary atherosclerosis in 
+Coronary atheroma progression was 
+changes in biochemical parameters , percent atheroma volume , and total atheroma volume was 
+high - density lipoprotein cholesterol ( HDL - C ) and reductions in glycated hemoglobin , triglycerides , and C - reactive protein . Significant 
+changes in percent atheroma volume and triglycerides ( 
+triglyceride/HDL - C ratio ( 
+glycated hemoglobin ( 
+changes in low - density lipoprotein cholesterol ( 
+apolipoprotein B ( 
+apolipoprotein A 
+HDL - C ( 
+triglycerides ( 
+triglyceride/HDL - C ratio ( 
+glycated hemoglobin ( 
+atheroma volume 
+atheroma volume 
+triglyceride/HDL - C ratio 
+atheroma progression in 
+
+
+crf spans: [[143, 155], [167, 194], [198, 204]]
+
+biochemical parameters , percent atheroma volume , and total atheroma volume was 
+high - density lipoprotein cholesterol ( HDL - C ) and reductions in glycated hemoglobin , triglycerides , and C - reactive protein . Significant correlations were 
+percent atheroma volume and triglycerides ( 
+
+
+24960665
+
+gold spans: [[177, 181], [197, 201], [229, 233], [235, 239]]
+
+Positive predictive values were 
+Negative predictive values were 
+Rhesus box polymorphisms and 
+RHD alleles : RHD(Trp185Stop 
+
+
+crf spans: []
+
+
+
+7844976
+
+gold spans: [[11, 15], [41, 47], [87, 97]]
+
+Smart Choices : a 
+diffusion of Smart Choices , a 
+evaluation was teachers ' implementation of Smart Choices . Results 
+
+
+crf spans: []
+
+
+
+2188766
+
+gold spans: [[83, 89], [89, 93], [114, 117], [134, 139], [150, 155], [161, 167]]
+
+symptomatology , exercise performance , and 
+left ventricular function were 
+symptom scores and 
+maximal exercise capacity . While 
+resting heart rate , it 
+left ventricular systolic function . The 
+
+
+crf spans: [[83, 93]]
+
+symptomatology , exercise performance , and left ventricular function were 
+
+
+24726342
+
+gold spans: [[6, 10], [123, 130], [139, 141], [144, 148], [156, 159], [167, 169], [183, 185], [187, 189], [199, 201], [204, 206], [210, 212]]
+
+specific airway resistance changes 
+Spirographic and sRAW - based criteria identified 
+sRAW correlated 
+intrathoracic gas volume ( 
+residual volume ( 
+FVC ( 
+FEV1 correlated 
+FVC ( 
+ITGV ( 
+RV ( 
+VAS ( 
+
+
+crf spans: [[56, 62], [99, 110]]
+
+dynamic hyperinflation , gas trapping , 
+dyspnea evaluation ( VAS score ) and pulmonary function testing at 
+
+
+23103798
+
+gold spans: [[139, 142], [149, 153], [164, 169], [185, 188], [196, 202], [217, 220], [231, 237]]
+
+detrusor overactivity and 
+bladder capacity . After 
+partial or full response to 
+partial response ( 
+average number of wet nights in 
+urodynamic parameters significantly 
+wet nights and urodynamic parameters did 
+
+
+crf spans: [[229, 237]]
+
+number of wet nights and urodynamic parameters did 
+
+
+25931290
+
+gold spans: [[41, 47], [47, 51], [129, 143], [146, 149], [150, 156]]
+
+distress , sensory discomfort , and 
+perception of pain during 
+physiological anxiety , behavioral distress , pain intensity , and sensory discomfort . Both 
+physiological anxiety and 
+lower pain and sensory discomfort in 
+
+
+crf spans: [[41, 51], [127, 138], [146, 156]]
+
+distress , sensory discomfort , and perception of pain during 
+measures of physiological anxiety , behavioral distress , pain intensity , 
+physiological anxiety and reported lower pain and sensory discomfort in 
+
+
+18503531
+
+gold spans: [[121, 126], [155, 158], [173, 178], [215, 225], [259, 262]]
+
+improvements in social skills over 
+social functioning from 
+emotion - management strategies for 
+facial expression and body - posture recognition measures . Follow 
+emotional understanding of 
+
+
+crf spans: []
+
+
+
+8989009
+
+gold spans: [[171, 175], [194, 198], [235, 238]]
+
+systolic blood pressure ( 
+systolic BP readings were 
+nausea/vomiting , and 
+
+
+crf spans: [[74, 83], [193, 198], [216, 220]]
+
+incidence and frequency of hypotension and vasopressor therapy after 
+absolute systolic BP readings were 
+incidence of hypotension was 
+
+
+15133359
+
+gold spans: [[8, 12], [46, 49], [102, 107], [142, 149], [170, 173], [194, 206], [243, 249], [249, 253]]
+
+coronary sinus cannulation during 
+CS cannulation can 
+reducing CS cannulation time compared 
+Time to successful catheterization of CS was 
+Fluoroscopy time was 
+Total contrast dye volume to search and engage the CS ostium was 
+procedural time , fluoroscopy time and 
+contrast dye volume compared 
+
+
+crf spans: []
+
+
+
+23838728
+
+gold spans: [[6, 9], [91, 96]]
+
+IEP goals of 
+child IEP goal attainment included 
+
+
+crf spans: []
+
+
+
+11454878
+
+gold spans: [[22, 26], [63, 67], [100, 103], [109, 113], [140, 147], [158, 162], [178, 183], [203, 213], [230, 234], [261, 266], [274, 278], [290, 302], [304, 316]]
+
+efficacy and safety of 
+measurable and assessable disease 
+platinum sensitivity and 
+bulky disease . 
+ 
+overall progression - free survival rates were 
+overall response rates for 
+Median overall survival times were 
+significant benefit from PLD for progression - free survival ( 
+overall survival , PLD 
+nonstatistically significant survival trend in 
+Severe hematologic toxicity was 
+dosage modification , or growth factor or blood product utilization . 
+ 
+comparable efficacy , favorable safety profile , and convenient dosing support the 
+
+
+crf spans: [[140, 147], [178, 183], [208, 213], [230, 235], [275, 278]]
+
+overall progression - free survival rates were 
+Median overall survival times were 
+progression - free survival ( 
+overall survival , PLD was 
+hematologic toxicity was 
+
+
+18077611
+
+gold spans: [[161, 167], [174, 180], [190, 199], [235, 243], [265, 271], [288, 295], [321, 326]]
+
+VZV antibody geometric mean titer ( 
+VZV antibody geometric mean rise ( 
+incidence of vaccine - related serious adverse experiences ( 
+GMT ratio ( refrigerated formulation/frozen formulation ) was 
+vaccine - related serious AEs were 
+frequencies of injection - site AEs during 
+frequencies of systemic AEs were 
+
+
+crf spans: [[161, 171], [235, 238]]
+
+VZV antibody geometric mean titer ( GMT ; day 28 
+GMT ratio ( 
+
+
+25950425
+
+gold spans: [[12, 16], [38, 60], [233, 235], [245, 252], [278, 283], [286, 289], [294, 300], [302, 306]]
+
+postoperative morphine requirement in 
+postoperative morphine requirement , adverse effects , patients ' satisfaction , mobilization , time to first defecation and time to discharge in 
+nausea in 
+Time to first defecation and mobilization were 
+postoperative VAS scores . Preoperative 
+morphine requirement and 
+gastrointestinal motility and mobilization , and 
+incidence of nausea in 
+
+
+crf spans: [[38, 60], [153, 190], [278, 286], [294, 306]]
+
+postoperative morphine requirement , adverse effects , patients ' satisfaction , mobilization , time to first defecation and time to discharge in 
+skin closure . Hemodynamic parameters , visual analogue scale ( VAS ) scores , analgesic consumption , side effects , time to mobilization , time to first defecation , time to discharge and patients ' satisfaction were 
+postoperative VAS scores . Preoperative oral pregabalin decreased 
+gastrointestinal motility and mobilization , and decreased the incidence of nausea in 
+
+
+21491990
+
+gold spans: [[171, 174], [189, 207], [212, 223], [238, 244]]
+
+Subgingival samples were 
+Periodontal pathogens Aggregatibacter actinomycetemcomitans , Porphyromonas gingivalis , Prevotella intermedia , Tannerella forsythia , and Treponema denticola were 
+high sensitive C - reactive and lipopolysaccharide - binding proteins were 
+Mann - Whitney U test ( 
+
+
+crf spans: [[208, 223], [269, 277]]
+
+. Serum levels of high sensitive C - reactive and lipopolysaccharide - binding proteins were 
+clinical attachment level ( CAL ) gain from 
+
+
+14739125
+
+gold spans: [[59, 61], [113, 116], [124, 132], [151, 156], [164, 167], [185, 189], [197, 202], [210, 216], [220, 227], [237, 239], [248, 252], [272, 275]]
+
+tested in 
+tolerated , with 
+correlation of plasma drug levels with inhibition ( 
+increases in CETP mass were 
+CETP inhibition increased 
+Total plasma cholesterol did 
+nonHDL - C , including 
+low - density lipoprotein cholesterol at 
+Apolipoprotein A - I and E were 
+apoB was 
+Cholesteryl ester content decreased 
+CETP inhibition resemble 
+
+
+crf spans: [[185, 189]]
+
+Total plasma cholesterol did 
+
+
+3067745
+
+gold spans: [[81, 86], [117, 119]]
+
+overall mean IOP ; reductions 
+IOP. 
+
+ 
+
+
+crf spans: []
+
+
+
+21982657
+
+gold spans: [[113, 119], [125, 135], [191, 194], [228, 231]]
+
+adverse events ( safety ) and 
+Minnesota Living With HF score ( efficacy ) . Of 
+Ventricular tachycardia responsive 
+functional capacity was 
+
+
+crf spans: [[110, 125], [228, 231]]
+
+frequency of serious adverse events ( safety ) and changes in 6-minute walk test and 
+functional capacity was 
+
+
+14763035
+
+gold spans: [[180, 211], [225, 230], [238, 240], [281, 283], [299, 301]]
+
+body weight , BP ( mercury sphygmomanometer ) , serum creatinine , electrolytes , complete blood cell counts , urine volume , drainage volume , and weekly creatinine clearance . Two 
+Systolic and diastolic BP were 
+LVMi was 
+LVMi was 
+LVMi in 
+
+
+crf spans: [[118, 125], [149, 211], [225, 230]]
+
+target blood pressure ( BP ) was 
+large - artery compliance and arterial wave reflections [ pulse wave velocity ( PWV ) and augmentation index ( AI ) application tonometry ] and cardiac echocardiography . Periodically recorded were body weight , BP ( mercury sphygmomanometer ) , serum creatinine , electrolytes , complete blood cell counts , urine volume , drainage volume , and weekly creatinine clearance . Two 
+Systolic and diastolic BP were 
+
+
+8726604
+
+gold spans: [[75, 97], [100, 110]]
+
+Duration of anesthesia , time to emergence , orientation , length of stay in the surgical unit , and hospital discharge were 
+emergence , length of stay , and discharge times after 
+
+
+crf spans: [[75, 89], [100, 110], [159, 165]]
+
+Duration of anesthesia , time to emergence , orientation , length of stay in 
+emergence , length of stay , and discharge times after 
+frequency of postoperative cough . At 
+
+
+20226474
+
+gold spans: [[195, 198], [248, 251], [256, 259], [267, 270], [279, 282], [294, 296]]
+
+diagnostic yield for 
+diagnostic yield of 
+Mild bleeding occurred 
+moderate bleeding occurred 
+severe bleeding occurred 
+safe and 
+
+
+crf spans: [[256, 259], [279, 282]]
+
+Mild bleeding occurred 
+severe bleeding occurred 
+
+
+11737955
+
+gold spans: [[169, 180], [222, 232], [239, 252], [261, 273]]
+
+plasma concentrations of alpha - tocopherol and beta - carotene in 
+ratios para- and ortho - hydroxyantipyrine to antipyrine . In 
+exercise - induced increase in thiobarbituric acid reactive substances in plasma . In 
+had no effect on the exercise - induced increase in oxidative stress 
+
+
+crf spans: [[169, 180]]
+
+plasma concentrations of alpha - tocopherol and beta - carotene in 
+
+
+10934569
+
+gold spans: [[126, 139], [140, 147]]
+
+intelligence , visual - spatial skills , language , and academics , though 
+adaptive functioning or behavior problems . Children 
+
+
+crf spans: []
+
+
+
+21924760
+
+gold spans: [[0, 2], [2, 6], [6, 11], [11, 13], [31, 33], [33, 39], [102, 110], [110, 118], [171, 174], [175, 178], [185, 188], [197, 209], [297, 302]]
+
+Quality of 
+individual INR control and 
+the risk of stroke and 
+bleeding events 
+Time in 
+therapeutic range ( TTR ) for 
+anticoagulation quality measures were compared , overall and 
+in a time - dependent manner . 
+ 
+mean TTR of 
+stroke cases ( 
+bleeding cases ( 
+Time below range for stroke and time above range for bleeding were 
+stroke and bleeding . 
+
+ 
+
+
+crf spans: []
+
+
+
+10475150
+
+gold spans: [[150, 155], [167, 170], [207, 211], [215, 220], [229, 235], [298, 306]]
+
+urinary excretion of melatonin was 
+GH secretion was 
+nocturnal melatonin secretion during 
+Urinary excretion of melatonin also 
+total nocturnal secretion of TSH was 
+nocturnal secretion and urinary excretion of melatonin in 
+
+
+crf spans: [[167, 170], [215, 220]]
+
+GH secretion was 
+Urinary excretion of melatonin also 
+
+
+20147856
+
+gold spans: [[36, 40], [156, 160], [160, 163], [182, 187], [199, 203], [215, 218], [233, 236], [260, 273], [283, 290]]
+
+efficacy and safety and 
+response rate . The 
+response rates of 
+time to treatment failure in 
+time to progression in 
+survival time in 
+toxicity profile was 
+feasible and effective for advanced non - small cell lung cancer . We 
+response rate and survival data . 
+
+ 
+
+
+crf spans: [[214, 218], [233, 236], [283, 289]]
+
+Median survival time in 
+toxicity profile was 
+response rate and survival data . 
+
+
+10589810
+
+gold spans: [[229, 244], [264, 267], [289, 293], [304, 307]]
+
+bleeding on probing ( BOP ) and probing pocket depth ( PPD ) , were 
+BOP percentage was 
+BOP and PPD at 
+BOP percentage which 
+
+
+crf spans: [[229, 244], [264, 267], [289, 293], [304, 307], [330, 333]]
+
+bleeding on probing ( BOP ) and probing pocket depth ( PPD ) , were 
+BOP percentage was 
+BOP and PPD at 
+BOP percentage which 
+mean BOP after 
+
+
+2088233
+
+gold spans: [[61, 74], [97, 100], [109, 111], [114, 120], [182, 187]]
+
+gingival fluid flow , probing depths , bleeding on probing and suppuration were 
+Subgingival bacterial samples 
+Spirochaetes were 
+dark - field microscopy . Actinobacillus 
+clinical nor microbiological efficacy beyond 
+
+
+crf spans: [[61, 74]]
+
+gingival fluid flow , probing depths , bleeding on probing and suppuration were 
+
+
+10940525
+
+gold spans: [[197, 200], [236, 240], [256, 260], [294, 298], [314, 318], [397, 401], [468, 473]]
+
+Flea burdens were 
+mean flea counts in 
+mean flea counts in 
+mean flea counts in 
+mean flea counts in 
+heartworm prevention rate of 
+serious adverse events . Results 
+
+
+crf spans: [[256, 260], [314, 318]]
+
+mean flea counts in 
+mean flea counts in 
+
+
+18337284
+
+gold spans: [[157, 162], [301, 304], [343, 347], [356, 360]]
+
+Eradication of GABHS , determined 
+Treatment failures ( 
+resolution of symptoms were 
+acute rheumatic fever occurred 
+
+
+crf spans: [[188, 203], [356, 360]]
+
+bacteriological treatment failures ( and relapses ) from new acquisitions . Non - inferiority was 
+acute rheumatic fever occurred 
+
+
+19727232
+
+gold spans: [[184, 196], [206, 212], [216, 218], [242, 245], [250, 253], [261, 266]]
+
+disorders of their language , social interactions and typical behavior symptoms while 
+scores of IQ or DQ had 
+ABC had 
+ABC scores and 
+IQ scores were 
+level of ABC scores was 
+
+
+crf spans: [[187, 196], [250, 253], [261, 266], [289, 305]]
+
+language , social interactions and typical behavior symptoms while 
+IQ scores were 
+level of ABC scores was 
+language disorders , the difficulties of social interactions , typical behavior symptoms and developmental levels , 
+
+
+20804366
+
+gold spans: [[20, 24], [113, 181], [197, 212], [227, 232]]
+
+efficacy of acupuncture versus 
+eye - hand coordination , performance , and practical reasoning of Griffiths Mental Developmental Scale ; ( 2 ) sensory - motor , social , affectual , language , and total score of Ritvo - Freeman Real Life Scale ; ( 3 ) Comprehension Language age in the Reynell Language Developmental Scale ; and ( 4 ) Total Score and Mental Age in Symbolic Play Test . The 
+self - care and cognition domains of the Functional Independence Measure for children . 
+ 
+developmental and behavioral aspects of 
+
+
+crf spans: [[113, 160]]
+
+eye - hand coordination , performance , and practical reasoning of Griffiths Mental Developmental Scale ; ( 2 ) sensory - motor , social , affectual , language , and total score of Ritvo - Freeman Real Life Scale ; ( 3 ) Comprehension Language age in 
+
+
+23114870
+
+gold spans: [[11, 19], [44, 49], [63, 72], [75, 83], [89, 101], [125, 129], [136, 145], [159, 165], [175, 178], [185, 198], [200, 216], [219, 225], [248, 252], [296, 299], [312, 316], [327, 332], [355, 365], [368, 371], [376, 387], [388, 397]]
+
+blood loss and early clinical outcomes . 
+
+ 
+reduce operating time . Use 
+reduced blood loss and improved early outcomes . Our 
+evaluate blood loss and early clinical outcomes in 
+custom - fit magnetic resonance imaging ( MRI)-based pin guides . 
+ 
+intramedullary alignment jigs were 
+custom - fit MRI - based pin guides were 
+mini - midvastus approach . The 
+Hb loss was 
+preoperative Hb level . Transfusion requirements and surgical time were recorded . Outcome 
+Knee Society Scores ( KSS ) , knee flexion , knee swelling and pain . 
+ 
+lower mean drainage of blood in 
+loss of Hb ( 
+KSS measured at 
+Knee flexion measured on 
+knee swelling and pain measured 
+custom - fit pin guides reduces blood drainage , but 
+Hb loss in 
+not affect transfusion rate . Surgical time is reduced . There 
+no effect on the early clinical outcomes . 
+ 
+
+
+crf spans: [[168, 171], [185, 195], [200, 216]]
+
+drain bottles was 
+preoperative Hb level . Transfusion requirements and surgical time were 
+Knee Society Scores ( KSS ) , knee flexion , knee swelling and pain . 
+ 
+
+
+19802506
+
+gold spans: [[6, 13], [41, 43], [54, 61], [265, 267], [268, 271], [284, 287], [291, 294], [306, 308], [309, 312], [316, 319], [323, 325], [329, 332], [340, 343], [347, 350], [357, 362], [428, 430]]
+
+bone mineral density and bone turnover in 
+effectiveness of 
+bone mineral density ( BMD ) in 
+BMD at 
+total hip ( 
+Alkphase B ( 
+serum NTx ( 
+BMD at 
+femoral neck ( 
+total hip ( 
+spine ( 
+total radius ( 
+Alkphase B ( 
+Serum NTx ( 
+BMD and bone turnover with 
+BMD in 
+
+
+crf spans: [[6, 13], [54, 61], [81, 83], [121, 128], [168, 177], [265, 267], [303, 308], [357, 362], [381, 384]]
+
+bone mineral density and bone turnover in 
+bone mineral density ( BMD ) in 
+BMD but 
+bone mineral density ( BMD ) at 
+BMD and greater decreases in bone turnover ; and 
+BMD at 
+additional increases in BMD at 
+BMD and bone turnover with 
+lose BMD at 
+
+
+25886492
+
+gold spans: [[89, 97]]
+
+FOBT return within 12  weeks . Additional 
+
+
+crf spans: [[308, 314], [517, 524]]
+
+PP sample , FOBT return in 
+attitudes , perceptions and behaviour . 
+ 
+
+
+19376304
+
+gold spans: [[180, 184], [186, 198]]
+
+systemic embolism . Safety 
+bleeding , liver function abnormalities , and other adverse events . Adjudication 
+
+
+crf spans: [[177, 199]]
+
+hemorrhagic ) or systemic embolism . Safety outcomes are bleeding , liver function abnormalities , and other adverse events . Adjudication of 
+
+
+21914768
+
+gold spans: [[93, 96], [108, 119], [119, 124]]
+
+Anxiety levels did 
+perceived message benefit , increased intention to self - examine and 
+lower message denigration . This 
+
+
+crf spans: []
+
+
+
+15358868
+
+gold spans: [[69, 74], [79, 84], [85, 89], [109, 115]]
+
+searching for targets . Experiment 
+target - distractor similarity slowed 
+visual search performance of 
+superior visual discrimination ability . Thus 
+
+
+crf spans: [[85, 89]]
+
+visual search performance of 
+
+
+21393467
+
+gold spans: [[197, 199]]
+
+amplitude ( 
+
+
+crf spans: []
+
+
+
+20509069
+
+gold spans: [[82, 85], [119, 122], [123, 126], [149, 152]]
+
+pain ratings were 
+pain intensity and 
+pain unpleasantness compared 
+pain management and 
+
+
+crf spans: [[81, 85], [119, 126]]
+
+Subjective pain ratings were 
+pain intensity and less pain unpleasantness compared 
+
+
+11229858
+
+gold spans: [[33, 39], [44, 47]]
+
+reduction of fever peaks . Antipyretic 
+fever clearance and 
+
+
+crf spans: [[44, 47]]
+
+fever clearance and 
+
+
+16505427
+
+gold spans: [[136, 142], [208, 215], [225, 229], [231, 243], [243, 246], [246, 249], [259, 267], [281, 285], [289, 296], [331, 334]]
+
+proportion of patients requiring transfusions during 
+hemoglobin ( Hb ) increment , were 
+high Hb , and 
+mean end - of - study Hb levels . Toxicities , including 
+thromboembolism , and 
+overall survival were 
+global quality of life ( QOL ) at 
+global QOL improvement during 
+end - of - study QOL was 
+Hb increment is 
+
+
+crf spans: [[231, 249], [259, 267], [281, 285]]
+
+mean end - of - study Hb levels . Toxicities , including thromboembolism , and overall survival were 
+global quality of life ( QOL ) at 
+global QOL improvement during 
+
+
+4919024
+
+gold spans: [[37, 43], [69, 74], [76, 83]]
+
+protection against influenza A2 infection in 
+Serologically verified influenza , as 
+complement fixation and/or haemagglutination inhibition , occurred 
+
+
+crf spans: []
+
+
+
+22865017
+
+gold spans: [[208, 212], [216, 230], [246, 248], [248, 251], [260, 270], [270, 276], [280, 284], [285, 290]]
+
+PTSD symptom severity was 
+Depression , functioning , perceived quality of care , utilization , and costs were 
+symptoms or 
+functioning . Participants 
+mental health visit , fill an antidepressant prescription , and 
+have adequate antidepressant refills . 3CM 
+mental health visits and 
+outpatient pharmacy costs . 
+ 
+
+
+crf spans: [[216, 230], [280, 290]]
+
+Depression , functioning , perceived quality of care , utilization , and costs were 
+mental health visits and higher outpatient pharmacy costs . 
+ 
+
+
+10763172
+
+gold spans: [[2, 5], [27, 31], [145, 147], [182, 185], [205, 210], [256, 262]]
+
+wound healing after 
+efficacy and tolerability of 
+superiority of 
+good tolerability of 
+Distinct improvement of symptoms in 
+enlargement and improvement of effective medicinal 
+
+
+crf spans: []
+
+
+
+18783504
+
+gold spans: [[163, 171], [171, 174], [226, 235]]
+
+Ecological momentary assessment ratings of smoking behavior and 
+putative mediators were 
+cigarette craving reduction and enhanced positive affect . Bupropion 
+
+
+crf spans: [[43, 64], [68, 74], [163, 174]]
+
+post - quit abstinence , including withdrawal distress , cigarette craving , positive affect and subjective reactions to cigarettes smoked during 
+specificity of bupropion SR effects was 
+Ecological momentary assessment ratings of smoking behavior and putative mediators were 
+
+
+25898782
+
+gold spans: [[203, 208], [234, 237], [242, 248], [254, 259], [272, 276]]
+
+number of sedation failures compared 
+sedated patients ( 
+desaturation , and obstructed airways than 
+Time to full recovery ( 
+fatigue and pain after 
+
+
+crf spans: [[45, 53], [203, 208], [253, 264], [271, 276], [307, 315]]
+
+safety , ease of treatment , recovery , 
+number of sedation failures compared 
+. Time to full recovery ( Aldrete score 9 ) was 
+least fatigue and pain after 
+rapid recovery , fewer respiratory events , and 
+
+
+11495215
+
+gold spans: [[156, 166], [202, 206], [215, 226], [244, 250], [262, 268]]
+
+Heart rate , blood pressure , and lipid measures were 
+cardiovascular reactivity . However 
+heart rate and diastolic blood pressure reactivity to stress . These 
+cardiovascular or lipid stress reactivity in 
+cardiovascular reactivity to stress . 
+
+ 
+
+
+crf spans: [[156, 166], [215, 223], [244, 250]]
+
+Heart rate , blood pressure , and lipid measures were 
+heart rate and diastolic blood pressure reactivity to 
+cardiovascular or lipid stress reactivity in 
+
+
+18773733
+
+gold spans: [[108, 113]]
+
+loudness of auditory tones at 
+
+
+crf spans: []
+
+
+
+23985254
+
+gold spans: [[7, 11], [45, 52], [145, 148], [235, 238], [280, 288], [348, 351], [398, 401], [436, 440], [454, 457]]
+
+acute adverse events in 
+acute adverse events ( AEs ) in 
+Adverse events were 
+AEs . Among 
+Diarrhea was the most common AE , and 
+severe diarrhea in 
+severe diarrhea ( 
+severe diarrhea . 
+ 
+acute AEs in 
+
+
+crf spans: [[277, 282], [288, 291], [396, 401], [436, 440]]
+
+severe AEs . Diarrhea was 
+severe diarrhea occurred 
+risk for severe diarrhea ( 
+severe diarrhea . 
+ 
+
+
+7808649
+
+gold spans: [[10, 14], [120, 126], [144, 148], [170, 173], [241, 244]]
+
+effectiveness and tolerability of 
+pain intensity and pain relief using 
+safety and efficacy were 
+pain intensity decreased 
+adverse events not 
+
+
+crf spans: [[144, 148], [170, 173]]
+
+safety and efficacy were 
+pain intensity decreased 
+
+
+24989854
+
+gold spans: [[272, 275], [285, 312]]
+
+socialization , as 
+specific social skills children learn during SST and on more general social skills pertaining to home and community settings from a multi - informant perspective . Additionally 
+
+
+crf spans: []
+
+
+
+22154769
+
+gold spans: [[0, 7], [75, 77], [99, 104], [119, 123], [123, 139], [139, 152], [169, 174], [175, 197], [229, 231], [240, 242], [253, 257], [265, 273], [290, 292], [293, 299], [306, 312], [323, 327], [329, 335]]
+
+Safety , tolerability , and immunogenicity after 
+impact of 
+immunity and safety profiles after 
+Immunogenicity was evaluated using 
+VZV interferon - gamma ( IFN- ) enzyme - linked immunospot ( ELISPOT ) assay and 
+VZV glycoprotein enzyme - linked immunosorbent antibody ( gpELISA ) assay . Adverse 
+vaccine - related AEs occurred 
+VZV IFN- ELISPOT geometric mean count ( GMC ) of spot - forming cells per 10(6 ) peripheral blood mononuclear cells increased 
+GMC was 
+GMC in 
+peak ELISPOT response occurred 
+gpELISA geometric mean titers ( GMTs ) in 
+Correlation between 
+IFN- ELISPOT and gpELISA assays was 
+well - tolerated and immunogenic in 
+generally safe , but 
+boost VZV - specific immunity beyond 
+
+
+crf spans: [[0, 7], [175, 197], [253, 257], [265, 273]]
+
+Safety , tolerability , and immunogenicity after 
+VZV IFN- ELISPOT geometric mean count ( GMC ) of spot - forming cells per 10(6 ) peripheral blood mononuclear cells increased 
+peak ELISPOT response occurred 
+gpELISA geometric mean titers ( GMTs ) in 
+
+
+7853069
+
+gold spans: [[209, 228]]
+
+global anxiety scores , functioning and well - being , and patients ' reports of global improvements . 
+ 
+
+
+crf spans: [[183, 190], [209, 219]]
+
+anxiety symptom levels and functioning status of 
+global anxiety scores , functioning and well - being , 
+
+
+1968178
+
+gold spans: [[5, 12], [17, 23], [54, 58], [79, 83], [86, 88], [98, 102], [139, 146]]
+
+self - recorded blood pressure . 
+
+ 
+Finapres ' finger blood pressure in 
+systolic blood pressure of 
+blood pressure . Thus 
+pressure was 
+Systolic blood pressure took 
+self - recorded systolic blood pressure may 
+
+
+crf spans: [[54, 58], [91, 102]]
+
+systolic blood pressure of 
+muscular activity required for cuff inflation . Systolic blood pressure took 
+
+
+12709693
+
+gold spans: [[148, 159], [159, 164], [215, 218], [229, 234], [263, 267], [294, 306], [324, 340]]
+
+Numerical Pain Rating Scale ( NRS ) ; recovery level and 
+return of psychomotor efficiency were 
+colonoscopy painless ( 
+average pain intensity score was 
+maximum MPADS score was 
+mean arterial pressure and heart rate and signs of respiratory depression were 
+sufficient analgesia , satisfactory hemodynamic stability , minor respiratory depression , and rapid recovery , and 
+
+
+crf spans: [[148, 164], [230, 234], [294, 306], [325, 340]]
+
+Numerical Pain Rating Scale ( NRS ) ; recovery level and return of psychomotor efficiency were 
+pain intensity score was 
+mean arterial pressure and heart rate and signs of respiratory depression were 
+analgesia , satisfactory hemodynamic stability , minor respiratory depression , and rapid recovery , and 
+
+
+23849147
+
+gold spans: [[140, 154]]
+
+patient care , higher power , and a lower expected sample size . 
+
+ 
+
+
+crf spans: []
+
+
+
+23021296
+
+gold spans: [[0, 4], [20, 26], [91, 97], [140, 144], [144, 150], [177, 185], [202, 206]]
+
+Adherence to lifestyle recommendations 
+physical activity and sun exposure are 
+physical activity and sun exposure 24 
+physical activity level and 
+time of sun exposure , while 
+time of sun exposure and physical activity ( 
+prescribed lifestyle recommendations in 
+
+
+crf spans: []
+
+
+
+22881991
+
+gold spans: [[68, 70], [176, 191], [237, 241]]
+
+efficacy of 
+basic emotion recognition tasks , mindreading and theory of mind ( TOM ) tasks before 
+recognition of anger compared 
+
+
+crf spans: [[173, 191], [263, 269]]
+
+ability to complete basic emotion recognition tasks , mindreading and theory of mind ( TOM ) tasks before 
+TOM or social skills . 
+ 
+
+
+25479285
+
+gold spans: [[271, 273]]
+
+adherence affecting 
+
+
+crf spans: []
+
+
+
+9394106
+
+gold spans: [[172, 177], [213, 216], [251, 254], [254, 258]]
+
+Mean initial endotoxin concentrations were 
+endotoxin concentration was 
+endotoxin concentration or 
+liver function tests during 
+
+
+crf spans: [[172, 177], [212, 216], [251, 258]]
+
+Mean initial endotoxin concentrations were 
+mean endotoxin concentration was 
+endotoxin concentration or liver function tests during 
+
+
+23356250
+
+gold spans: [[70, 74], [74, 79], [170, 173], [180, 183], [190, 193], [204, 207], [227, 239], [249, 254]]
+
+ameliorate crisis , especially 
+recurrent bone pain . 
+ 
+painful episodes ( 
+febrile illness ( 
+admission rate ( 
+mean hematocrit of 
+transfusion rate , presence of hepatomegaly , splenomegaly , and jaundice was 
+side - effect . 
+ 
+
+
+crf spans: [[227, 239]]
+
+transfusion rate , presence of hepatomegaly , splenomegaly , and jaundice was 
+
+
+1669598
+
+gold spans: [[137, 140], [141, 148], [178, 181], [183, 191], [192, 198], [207, 212]]
+
+symptoms score and 
+peak expiratory flow ( PEF)-derived parameters was 
+bronchial responsiveness to 
+ultrasonically nebulized distilled water ( UNDW ) and 
+immunologic humoral and cellular parameters in 
+local important adverse reactions were 
+
+
+crf spans: [[137, 148], [218, 222]]
+
+symptoms score and in peak expiratory flow ( PEF)-derived parameters was 
+systemic side effects were 
+
+
+10578479
+
+gold spans: [[138, 158], [173, 190], [204, 210], [231, 244]]
+
+serum estrone , estradiol , sex hormone - binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations with 
+menstrual cycle length or the urinary estrogen metabolite ratio of 2-hydroxyestrone to 16 alpha - hydroxyestrone were 
+Levels of urinary estrogen metabolites were 
+menstrual cycle , serum sex hormones , or urinary estrogen metabolite ratio in 
+
+
+crf spans: [[60, 67], [138, 158], [173, 183], [206, 210], [231, 244]]
+
+menstrual function or serum sex hormones in 
+serum estrone , estradiol , sex hormone - binding globulin , dehydroepiandrosterone sulfate , prolactin , or progesterone concentrations with 
+menstrual cycle length or the urinary estrogen metabolite ratio of 
+urinary estrogen metabolites were 
+menstrual cycle , serum sex hormones , or urinary estrogen metabolite ratio in 
+
+
+15014018
+
+gold spans: [[333, 335], [340, 342]]
+
+RFS and 
+OS based 
+
+
+crf spans: [[218, 223], [265, 270]]
+
+relapse - free survival ( 
+ulceration , recurrent disease at 
+
+
+16295154
+
+gold spans: [[228, 238]]
+
+impact of event " and " perceived stress " were 
+
+
+crf spans: []
+
+
+
+3074300
+
+gold spans: [[97, 102], [164, 186]]
+
+postprandial blood glucose concentrations were 
+Body mass index , fasting plasma insulin , serum electrolyte pattern , uric acid , white blood count , lipid profile as 
+
+
+crf spans: [[26, 31], [72, 79], [97, 102], [164, 186]]
+
+blood pressure and metabolism was 
+both systolic and diastolic blood pressure ( 
+postprandial blood glucose concentrations were 
+Body mass index , fasting plasma insulin , serum electrolyte pattern , uric acid , white blood count , lipid profile as 
+
+
+9816035
+
+gold spans: [[162, 170], [284, 286], [416, 418]]
+
+survival , toxicity , and overall response when 
+Toxicity was 
+myelosuppression and 
+
+
+crf spans: [[162, 170], [279, 286], [322, 325], [372, 375], [416, 424]]
+
+survival , toxicity , and overall response when 
+hematotoxicity or lack thereof . Toxicity was 
+response rate was 
+thrombocytopenia grade 3/4 
+myelosuppression and response . Rates of responses in 
+
+
+18845996
+
+gold spans: [[40, 46], [133, 137]]
+
+neutropenic complications ( NC ) during 
+absolute neutrophil count < 
+
+
+crf spans: [[156, 161], [229, 237]]
+
+febrile neutropenia or neutropenia with 
+poor performance status , absolute neutrophil count < 
+
+
+19159999
+
+gold spans: [[124, 128], [173, 177]]
+
+RP attack rate between 
+serious adverse events occurred 
+
+
+crf spans: [[124, 128], [173, 177]]
+
+RP attack rate between 
+serious adverse events occurred 
+
+
+8519720
+
+gold spans: [[140, 143], [145, 166], [167, 174], [213, 215], [257, 259], [275, 278], [283, 286]]
+
+pain scores at 
+with cough , and with movement of the ipsilateral arm , forced expiratory volume in 1 second ( FEV1 ) , 
+forced vital capacity ( FVC ) were 
+FEV1 ( 
+FEV1 continued 
+pain scores were 
+Opioid usage during 
+
+
+crf spans: [[137, 143], [157, 174], [247, 250], [317, 322]]
+
+Visual analog scale pain scores at 
+expiratory volume in 1 second ( FEV1 ) , and forced vital capacity ( FVC ) were 
+cough pain ( 
+pain and pulmonary function when 
+
+
+1286547
+
+gold spans: [[143, 150], [171, 175], [183, 190], [203, 211], [234, 239]]
+
+Exercise induced change of thromboxane synthesis in 
+PF4 plasma levels were 
+Whole blood aggregation after collagen stimulation ( 
+ADP ( 5 microM ) induced aggregation was 
+collagen dependent platelet activation in 
+
+
+crf spans: [[0, 5], [75, 79], [171, 175]]
+
+Reduced platelet thromboxane formation after 
+platelet thromboxane formation at 
+PF4 plasma levels were 
+
+
+26210844
+
+gold spans: [[97, 99], [104, 119], [141, 144], [145, 154], [212, 215], [250, 253]]
+
+validity of 
+distinguish between toddlers with ASD from toddlers with developmental delay ( DD)/non - ASD in 
+cutoff score based 
+sensitivity , specificity , and positive predictive value of 
+Mean scores were 
+cutoff score of 
+
+
+crf spans: [[212, 215]]
+
+Mean scores were 
+
+
+8913901
+
+gold spans: [[10, 12], [18, 27], [39, 48], [58, 64], [116, 128], [137, 144], [274, 281], [304, 311]]
+
+NOVACODE for 
+Bypass Angioplasty Revascularization Investigation ( BARI ) . 
+
+ 
+diagnostic algorithm for classification of myocardial ischemic events in 
+computerized serial ECG classification program developed 
+serial changes in Q , ST , and T wave items according 
+modified NOVACODE hierarchical classification system . Measurements 
+grade 1 MC Q wave progressions was 
+grade 2 Q wave progression codes determined 
+
+
+crf spans: [[272, 281]]
+
+incidence of grade 1 MC Q wave progressions was 
+
+
+6421395
+
+gold spans: [[6, 9], [9, 15], [116, 124], [125, 130], [148, 156], [161, 166]]
+
+serum lipoproteins and 
+metabolites of arachidonic acid : a 
+plasma 6-keto - prostaglandin F1 alpha concentration and 
+serum thromboxane B2 concentration was 
+plasma 6-keto - prostaglandin F1 alpha concentration was 
+serum HDL2 cholesterol concentration in 
+
+
+crf spans: [[116, 130], [148, 156], [161, 166]]
+
+plasma 6-keto - prostaglandin F1 alpha concentration and decreased serum thromboxane B2 concentration was 
+plasma 6-keto - prostaglandin F1 alpha concentration was 
+serum HDL2 cholesterol concentration in 
+
+
+9695300
+
+gold spans: [[158, 175], [188, 191], [226, 229], [233, 236], [251, 255]]
+
+Respiratory rate , heart rate , oxygen saturation and presence of cyanosis , wheezing , retractions were 
+respiratory score was 
+Heart rate was 
+Oxygen saturation decreased 
+effective and safe in 
+
+
+crf spans: [[157, 175], [188, 191]]
+
+. Respiratory rate , heart rate , oxygen saturation and presence of cyanosis , wheezing , retractions were 
+respiratory score was 
+
+
+16167234
+
+gold spans: [[10, 16], [37, 43], [85, 106], [116, 120], [148, 151], [171, 175], [187, 197], [226, 230], [255, 259], [261, 264]]
+
+postoperative fatigue and nutritional status after 
+nutritional status and postoperative fatigue for 
+Nitrogen balance , serum total protein , albumin , prealbumin , transferrin , retinol binding protein and postoperative fatigue score were 
+postoperative fatigue scores were 
+nitrogen balance 2 
+cumulative nitrogen balance between 
+serum total protein , albumin , prealbumin , transferrin at 
+retinol binding protein was 
+postoperative fatigue score and 
+nutritional status for 
+
+
+crf spans: [[85, 106], [115, 120], [171, 175], [255, 259]]
+
+Nitrogen balance , serum total protein , albumin , prealbumin , transferrin , retinol binding protein and postoperative fatigue score were 
+cumulative postoperative fatigue scores were 
+cumulative nitrogen balance between 
+postoperative fatigue score and 
+
+
+1963383
+
+gold spans: [[99, 106], [109, 117], [136, 140], [166, 169], [222, 227], [232, 235], [272, 278]]
+
+response rate and the median survival between 
+The overall response rate ( CR+PR ) was 
+The median survival was 
+Survival curve ( 
+disease - free life for 
+Hematologic toxicities were 
+immuno - enhancement activities . These 
+
+
+crf spans: [[99, 106], [110, 117], [137, 140], [232, 235]]
+
+response rate and the median survival between 
+overall response rate ( CR+PR ) was 
+median survival was 
+Hematologic toxicities were 
+
+
+2908133
+
+gold spans: [[5, 8], [58, 60], [156, 158], [231, 236], [297, 299], [317, 320]]
+
+anxiety : a 
+anxiety disorders 
+Anxiety was 
+HAM - A score of 
+Tolerability was 
+headache . 
+
+ 
+
+
+crf spans: [[110, 116]]
+
+total Hamilton Anxiety Rating Scale ( 
+
+
+12595499
+
+gold spans: [[157, 160], [225, 229], [261, 263]]
+
+clinical proteinuria for 
+progression of albuminuria ( 
+progression ( 
+
+
+crf spans: []
+
+
+
+22956006
+
+gold spans: [[16, 20], [47, 51], [64, 69], [69, 72], [93, 98], [100, 107], [174, 188], [289, 301], [306, 308], [321, 323], [338, 341]]
+
+quality of life of 
+nausea and vomiting after 
+insomnia , anxiety/agitation , and 
+indigestion . The 
+nausea and vomiting , and 
+quality of life ( QOL ) between 
+patient preference ; ( ii ) difference between cycles in change of QOL from 
+vomiting , nausea , or time to onset of vomiting . There 
+QOL ( 
+symptom/QOL domains 
+QOL , or 
+
+
+crf spans: [[46, 51], [92, 107], [287, 301], [305, 308]]
+
+delayed nausea and vomiting after 
+delayed nausea and vomiting , and to compare quality of life ( QOL ) between 
+intensity of vomiting , nausea , or time to onset of vomiting . There 
+global QOL ( 
+
+
+9481998
+
+gold spans: [[0, 2], [6, 14], [14, 29], [131, 159], [162, 167], [170, 175]]
+
+Effect of 
+relief of temporomandibular joint pain . 
+
+ The 
+pain - relieving effect of indomethacin phonophoresis on temporomandibular ( TMJ ) joint pain was 
+Pre- and post - treatment pain levels and pain sensitivity were assessed with visual analogue scales ( VAS ) and pressure pain threshold ( PPT ) . Mean 
+post - treatment VAS was 
+post - treatment PPT was 
+
+
+crf spans: [[136, 142], [144, 155]]
+
+pain levels and pain sensitivity were 
+visual analogue scales ( VAS ) and pressure pain threshold ( 
+
+
+21718094
+
+gold spans: [[128, 134], [160, 181], [205, 210], [279, 283]]
+
+Preservation of insulin secretion , measured 
+glycosylated hemoglobin ( HbA1c ) , continuous glucose sensor data , insulin utilization , anthropometric measures , and patient satisfaction with 
+mixed - meal tolerance test 
+glycemic control , was 
+
+
+crf spans: [[160, 181], [232, 235], [244, 254], [279, 283]]
+
+glycosylated hemoglobin ( HbA1c ) , continuous glucose sensor data , insulin utilization , anthropometric measures , and patient satisfaction with 
+glycemic control was 
+time spent with normoglycemia , better mean HbA1c ) , 
+glycemic control , was 
+
+
+11891832
+
+gold spans: [[52, 62], [68, 75], [110, 125], [130, 135], [150, 155], [156, 162]]
+
+Mean change of quantitative muscle strength testing sum scores was 
+Quantitative muscle strength testing sum scores declined 
+manual muscle testing sum scores , activity scale scores and patients ' own assessments after 
+Serum creatine kinase activity decreased 
+progression of muscle weakness but 
+serum creatine kinase activity . 
+
+ 
+
+
+crf spans: [[52, 62], [68, 75], [110, 120], [130, 135]]
+
+Mean change of quantitative muscle strength testing sum scores was 
+Quantitative muscle strength testing sum scores declined 
+manual muscle testing sum scores , activity scale scores and 
+Serum creatine kinase activity decreased 
+
+
+12960652
+
+gold spans: [[210, 215], [223, 228], [234, 240]]
+
+persistent phasic activity pattern was 
+high frequency phasic activity in 
+Short - term phasic activity was 
+
+
+crf spans: [[64, 73], [272, 277]]
+
+gastric emptying time and gastric phasic activity . At 
+gastric phasic activity , which 
+
+
+2066441
+
+gold spans: [[130, 150], [167, 176], [198, 205], [207, 212]]
+
+plaque index , gingival index , bleeding on probing , probing depth , probing attachment level and microscopic counts were 
+probing depth and density of micro - organisms in 
+rate of bleeding on pocket probing and 
+probing attachment gain . The 
+
+
+crf spans: [[130, 150]]
+
+plaque index , gingival index , bleeding on probing , probing depth , probing attachment level and microscopic counts were 
+
+
+17897478
+
+gold spans: [[96, 109], [132, 147], [157, 174], [196, 200], [203, 207], [214, 220], [228, 232], [255, 260]]
+
+sputum inflammatory markers , airway responsiveness , lung function , and symptoms in 
+changes in neutrophil , eosinophil , macrophage , lymphocyte , and epithelial cell levels in 
+sputum markers of airway inflammation , airway responsiveness , symptom control , and lung function . 
+ 
+sputum eosinophils . Both 
+airway responsiveness , whereas 
+symptom control and lung function than 
+sputum cysteinyl leukotrienes than 
+eosinophilic airway inflammation , although 
+
+
+crf spans: [[96, 109], [134, 147], [156, 174]]
+
+sputum inflammatory markers , airway responsiveness , lung function , and symptoms in 
+neutrophil , eosinophil , macrophage , lymphocyte , and epithelial cell levels in 
+other sputum markers of airway inflammation , airway responsiveness , symptom control , and lung function . 
+ 
+
+
+22341427
+
+gold spans: [[127, 130], [190, 192], [220, 222]]
+
+Mortality risk was 
+death included 
+survival in 
+
+
+crf spans: [[126, 130], [163, 167]]
+
+. Mortality risk was 
+pulmonary venous return ( 
+
+
+18544974
+
+gold spans: [[159, 163], [202, 209], [210, 224], [241, 243]]
+
+amount of bifidobacteria was 
+amount of lactobacilli or LGG , nor 
+gastrointestinal symptoms , defecation frequency , consistency of stools or ease of defecation differ 
+bifidobacteria more 
+
+
+crf spans: [[210, 225]]
+
+gastrointestinal symptoms , defecation frequency , consistency of stools or ease of defecation differ between 
+
+
+384815
+
+gold spans: [[35, 39], [74, 79], [112, 117], [140, 143]]
+
+Weights and heights were 
+rate of weight gain was 
+rate of weight gain was 
+height gain was 
+
+
+crf spans: [[35, 39], [74, 79], [112, 117], [138, 143]]
+
+Weights and heights were 
+rate of weight gain was 
+rate of weight gain was 
+rate of height gain was 
+
+
+20943715
+
+gold spans: [[34, 37], [40, 43], [119, 143], [352, 361]]
+
+walking performance and 
+clinical feasibility of 
+The timed up - and - go test and electromyographic and kinematic analyses of the affected lower limb during one gait cycle . 
+ 
+greater positive effect in improving the walking performance of 
+
+
+crf spans: []
+
+
+
+24080592
+
+gold spans: [[115, 120], [153, 157], [177, 183], [185, 194]]
+
+plasma levels/activity of fibrinogen ( 
+plasminogen activator inhibitor-1 ( 
+von Willebrand factor levels , and 
+prolong the prothrombin and partial thromboplastin times . 
+ 
+
+
+crf spans: [[85, 95], [115, 120]]
+
+Plasma lipids , glucose homeostasis markers and hemostasic variables were 
+plasma levels/activity of fibrinogen ( 
+
+
+14679127
+
+gold spans: [[139, 158], [244, 247]]
+
+pain , anorexia , diarrhoea , fatigue , nausea and vomiting , dyspnea , constipation and insomnia ) . 
+median survival in 
+
+
+crf spans: [[117, 126], [139, 159], [304, 315]]
+
+Cancer Quality of Life ( EORTC QOL)-C30 questionnaire was 
+pain , anorexia , diarrhoea , fatigue , nausea and vomiting , dyspnea , constipation and insomnia ) . 
+ 
+non - cumulative haematological toxicity . Non - haematological toxicity was 
+
+
+25784723
+
+gold spans: []
+
+
+
+crf spans: [[205, 213]]
+
+right ventricle free wall peak velocity E ' 
+
+
+25068497
+
+gold spans: [[3, 5], [125, 127], [128, 130], [152, 154], [154, 160]]
+
+immunogenicity of 
+tolerated and 
+safe as 
+increase of 
+IgG GMC and OPA GMT. These 
+
+
+crf spans: []
+
+
+
+17321989
+
+gold spans: [[10, 14], [86, 90], [188, 192]]
+
+systemic fungal infections in 
+systemic fungal infection in 
+frequency of infection in 
+
+
+crf spans: []
+
+
+
+21975269
+
+gold spans: [[170, 175], [240, 245]]
+
+rates of HIV-1 acquisition were 
+rates of HIV-1 transmission from 
+
+
+crf spans: []
+
+
+
+25885649
+
+gold spans: [[41, 49], [235, 238], [243, 246], [270, 272], [273, 275], [285, 288], [291, 297], [309, 312], [331, 333], [352, 362], [405, 407], [415, 417], [418, 421]]
+
+International Physical Activity Questionnaire ; IPAQ ) and 
+sedentary behaviours ( 
+light PA ( 
+VO2max with 
+PA levels 
+moderate PA rho=.34 
+moderate and vigorous PA , ( 
+sedentary time ( 
+maxV02 ( 
+IPAQ - VO2 max and GT3X - VO2 max were 
+VO2max at 
+MPVA correlated 
+VO2max . Findings 
+
+
+crf spans: [[91, 100], [151, 157], [230, 238], [352, 362], [387, 396]]
+
+maximal oxygen uptake test ( VO2max ) . 
+ 
+PA measurement and VO2max test was 
+less time spent engaged in sedentary behaviours ( 
+IPAQ - VO2 max and GT3X - VO2 max were 
+sedentary and engaged in more higher intensity PA than 
+
+
+24803369
+
+gold spans: [[5, 14], [23, 27], [87, 92], [120, 128]]
+
+comprehend lexicalized and novel primary conceptual metaphors . 
+
+ 
+difficulty comprehending metaphors . 
+comprehend lexicalized conceptual metaphors ( 
+chance levels on both metaphor types , although 
+
+
+crf spans: []
+
+
+
+15193668
+
+gold spans: [[171, 175], [198, 206]]
+
+responsive to information as 
+children 's attitudes and behavioral intentions . Implications 
+
+
+crf spans: [[24, 31]]
+
+peers ' perceptions and behavioral intentions toward 
+
+
+20560622
+
+gold spans: [[103, 107], [149, 152], [173, 186], [189, 192], [219, 223]]
+
+fasting blood samples were 
+calcium bioavailability in 
+Serum and urine biochemical parameters related to calcium status and bone metabolism remained 
+deoxypyridinoline values were 
+efficient bone turnover during 
+
+
+crf spans: [[173, 186], [219, 223]]
+
+Serum and urine biochemical parameters related to calcium status and bone metabolism remained 
+efficient bone turnover during 
+
+
+8916620
+
+gold spans: [[4, 6], [62, 65], [68, 77], [80, 86], [97, 103], [103, 108], [108, 115]]
+
+effectiveness with 
+effects . This 
+generalized estimating equations ( GEE ) method , focusing 
+GEE - independent method , to 
+continuous or binary outcomes . The 
+GEE - independent method yields 
+consistent and robust variance estimates . Data 
+
+
+crf spans: []
+
+
+
+19108790
+
+gold spans: [[11, 16], [58, 63], [63, 66], [139, 141], [252, 256], [422, 424], [438, 441], [491, 493]]
+
+postoperative nausea and vomiting after 
+postoperative nausea and vomiting ( 
+PONV ) . 
+PONV after 
+extrapyramidal symptoms . To 
+PONV compared 
+Extrapyramidal symptoms were 
+PONV were 
+
+
+crf spans: [[11, 16], [58, 67]]
+
+postoperative nausea and vomiting after 
+postoperative nausea and vomiting ( PONV ) . Between 
+
+
+19708562
+
+gold spans: [[6, 11], [88, 94], [115, 118], [122, 133]]
+
+clinical and laboratory characteristics in 
+duration of the main symptoms of 
+ulcer scarring and 
+dynamics of serum LF and TNF - alpha levels . 
+
+ 
+
+
+crf spans: [[119, 133]]
+
+beneficial effect on dynamics of serum LF and TNF - alpha levels . 
+
+ 
+
+
+22271197
+
+gold spans: [[0, 4], [18, 25], [81, 84], [103, 106]]
+
+Goal attainment scaling as 
+Goal attainment scaling ( GAS ) holds 
+GAS descriptions for 
+behavior samples collected 
+
+
+crf spans: []
+
+
+
+22538329
+
+gold spans: [[170, 173], [173, 175], [209, 212], [223, 226], [239, 250], [273, 279], [324, 329], [384, 387]]
+
+spotty calcification were 
+older ( 
+diabetes mellitus ( 
+myocardial infarction ( 
+lower on - treatment high - density lipoprotein cholesterol levels ( 
+atheroma volume ( PAV ) ( 
+greater progression of PAV ( 
+coronary atherosclerosis and 
+
+
+crf spans: []
+
+
+
+2678230
+
+gold spans: [[72, 75]]
+
+myocardial perfusion measured 
+
+
+crf spans: [[35, 51]]
+
+global myocardial perfusion and function ( pressures in the left ventricle , heart rate ) as 
+
+
+3534803
+
+gold spans: [[98, 105], [120, 125], [262, 266], [298, 303]]
+
+minimize stasis and the hypercoagulable state respectively 
+minimizing venous endothelial injury by 
+statistically significant benefit from 
+statistically significant prophylactic benefit.(ABSTRACT TRUNCATED 
+
+
+crf spans: []
+
+
+
+21106663
+
+gold spans: [[7, 10], [32, 35], [94, 97], [98, 105], [141, 148], [253, 258]]
+
+depressive symptoms following 
+depressive symptoms is 
+depressive symptom in 
+multilevel model ( MLM ) , which 
+Depressive symptoms and biochemically verified abstinence were 
+concurrent depressive symptoms . These 
+
+
+crf spans: [[141, 148], [175, 180]]
+
+Depressive symptoms and biochemically verified abstinence were 
+depressive symptoms over time in 
+
+
+25369243
+
+gold spans: [[9, 13], [16, 23], [23, 28], [49, 57], [118, 144], [164, 185], [196, 200], [204, 212]]
+
+social functioning ; some 
+stereotyped behaviors , inappropriate speech , and 
+fear of change . 
+
+ 
+autism spectrum disorder ( ASD ) symptoms in 
+parent - based secondary outcome measures , the Aberrant Behavior Checklist ( ABC ) and the Children 's Social Behavior Questionnaire ( CSBQ ) . 
+ 
+ABC subscales Hyperactivity , Inappropriate Speech , and Stereotypic Behavior , and on the CSBQ subscale Fear for Changes . 
+ 
+social functioning . However 
+restricted and stereotyped behaviors and communication . This 
+
+
+crf spans: [[9, 25], [126, 140], [164, 176]]
+
+social functioning ; some beneficial effects on stereotyped behaviors , inappropriate speech , and fear of 
+Aberrant Behavior Checklist ( ABC ) and the Children 's Social Behavior Questionnaire ( 
+ABC subscales Hyperactivity , Inappropriate Speech , and Stereotypic Behavior , and 
+
+
+17293018
+
+gold spans: [[210, 212]]
+
+safe for 
+
+
+crf spans: []
+
+
+
+6938020
+
+gold spans: [[115, 120]]
+
+Toxicity and early death were 
+
+
+crf spans: [[113, 120]]
+
+Procarbazine . Toxicity and early death were 
+
+
+12576806
+
+gold spans: [[62, 70], [108, 112], [228, 232], [261, 279]]
+
+optimum duration of stenting after endopyelotomy . 
+ 
+symptom based questionnaire was 
+drainage pattern . This 
+incidence of urinary tract infections ( 11.5 % versus 38.1 % , p = 0.04 ) . Of 
+
+
+crf spans: [[167, 179], [261, 267]]
+
+sex , symptoms and ipsilateral glomerular filtration rate . Mean followup was 
+incidence of urinary tract infections ( 
+
+
+11381289
+
+gold spans: [[62, 96], [136, 140]]
+
+rates of death , myocardial infarction , stroke , coronary revascularization , cardiac arrest and heart failure , as well as the risk of diabetes - related complications and of diabetes itself . The 
+blood pressure . 
+
+ 
+
+
+crf spans: [[62, 81]]
+
+rates of death , myocardial infarction , stroke , coronary revascularization , cardiac arrest and heart failure , as 
+
+
+12477021
+
+gold spans: [[25, 39], [163, 173], [187, 191]]
+
+level of accuracy for measurements of intra - ocular pressure ( IOP ) obtained 
+lowest mean difference and the narrowest confidence interval ) with 
+readings of IOP with 
+
+
+crf spans: [[25, 39]]
+
+level of accuracy for measurements of intra - ocular pressure ( IOP ) obtained 
+
+
+24515505
+
+gold spans: [[0, 3], [23, 34], [110, 113], [150, 162], [182, 186], [233, 238], [248, 257], [267, 272], [284, 302], [336, 340]]
+
+Economic burden of 
+service use , caregiver time , and cost outcomes . 
+ 
+cost , controlling 
+higher levels of health care office visits and prescription drug use compared 
+special educational services ( 
+higher health care costs and 
+higher aggregate non - health care costs , including 
+higher school costs . In 
+not have significantly higher out - of - pocket costs or spend more time on caregiving activities compared 
+economic burden , particularly 
+
+
+crf spans: []
+
+
+
+9730996
+
+gold spans: [[3, 7], [159, 170], [185, 188], [193, 195], [202, 205], [224, 231], [253, 256]]
+
+sputum inflammatory indices in 
+sputum leukocyte density and IL-1beta , IL-8 , and LTB4 after 
+exacerbation . There 
+spirometry ( 
+adverse reactions in 
+sputum inflammatory indices in bronchiectasis . Large 
+bronchiectasis . 
+
+ 
+
+
+crf spans: [[106, 134], [159, 170]]
+
+spirometry , 24-h sputum volume , sputum leukocyte density , bacterial densities , and concentrations of interleukin ( IL)-1beta , IL-8 , tumor necrosis factor - alpha ( 
+sputum leukocyte density and IL-1beta , IL-8 , and LTB4 after 
+
+
+21866656
+
+gold spans: [[124, 127], [140, 160], [175, 178], [341, 347], [374, 378], [488, 491], [491, 496], [499, 503]]
+
+pregnancy rate within 
+Chinese medicine syndrome integrals , serum endometrium antibody ( EMAb ) and cancer antigen 125 ( CA125 ) levels were 
+pregnancy rate within 
+serum EMAb negative conversion rate was 
+serum CA125 level was 
+EMAb , lower 
+serum CA125 levels , and 
+pregnancy rate . QYJDR 
+
+
+crf spans: [[58, 65], [124, 127], [175, 178], [341, 347], [374, 378], [477, 504]]
+
+blood stasis and toxin accumulation syndrome diagnosed 
+pregnancy rate within 
+pregnancy rate within 
+serum EMAb negative conversion rate was 
+serum CA125 level was 
+blood stasis and toxin accumulation syndrome , promote negative conversion of EMAb , lower serum CA125 levels , and elevate the clinical pregnancy rate . QYJDR is 
+
+
+19301724
+
+gold spans: [[237, 240], [281, 288], [294, 297]]
+
+VAS scores at 
+dizziness , pruritus , and PONV more 
+Patient satisfaction was 
+
+
+crf spans: [[47, 51], [59, 73], [237, 240], [281, 289]]
+
+effective pain relief However 
+nausea , vomiting , pruritus , dizziness , and hypotension . Some investigations found 
+VAS scores at 
+dizziness , pruritus , and PONV more than 
+
+
+7827398
+
+gold spans: [[2, 5], [13, 17], [88, 90], [186, 191]]
+
+stroke . Importance 
+associated costs . 
+
+ 
+Hypertension ( 
+Cost - effectiveness data are 
+
+
+crf spans: [[96, 99]]
+
+Systolic Hypertension in 
+
+
+8779382
+
+gold spans: [[5, 10], [50, 55], [108, 117], [139, 143]]
+
+epidural catheter migration . 
+
+ 
+incidence of inward migration of 
+remained within 0.5 cm of their original position compared 
+Outward catheter migration was 
+
+
+crf spans: []
+
+
+
+1131298
+
+gold spans: [[22, 26], [86, 109], [124, 127]]
+
+alimentary hyperlipemia , induced 
+protective action against fat - induced increases in serum cholesterol and plasma fibrinogen and decreases in coagulation time and fibrinolytic activity . The 
+beneficial effects of 
+
+
+crf spans: [[94, 108]]
+
+serum cholesterol and plasma fibrinogen and decreases in coagulation time and fibrinolytic activity . 
+
+
+11750293
+
+gold spans: [[117, 119], [142, 145]]
+
+depressed over 
+depression , disability 
+
+
+crf spans: [[139, 150]]
+
+initial level of depression , disability , pain , beliefs about 
+
+
+2223363
+
+gold spans: [[11, 13], [70, 74], [98, 101], [128, 134], [158, 162]]
+
+anaesthesia in 
+duration of induction was 
+total dose used 
+systolic and diastolic arterial pressure was 
+incidence of apnoea was 
+
+
+crf spans: [[128, 134], [158, 162]]
+
+systolic and diastolic arterial pressure was 
+incidence of apnoea was 
+
+
+9573502
+
+gold spans: [[0, 9], [51, 60], [171, 175], [182, 186], [186, 191], [204, 208], [233, 236], [244, 248], [251, 253], [253, 261], [290, 298], [302, 305], [306, 310], [311, 317]]
+
+Systemic hemodynamic , neurohormonal , and renal effects of 
+systemic hemodynamic , neurohormonal , and renal effects of 
+adverse events . hBNP 
+right atrial pressure and 
+pulmonary capillary wedge pressure by 
+systemic vascular resistance from 
+cardiac index ( 
+heart rate . Compared 
+hBNP decreased 
+plasma norepinephrine and aldosterone . Renal hemodynamics were 
+cardiac preload and systemic vascular resistance . 2 
+cardiac output without 
+heart rate . 3 
+Plasma norepinephrine and aldosterone levels decreased 
+
+
+crf spans: [[143, 147], [182, 191], [253, 261], [302, 317]]
+
+Urinary volume losses were 
+right atrial pressure and pulmonary capillary wedge pressure by 
+plasma norepinephrine and aldosterone . Renal hemodynamics were 
+cardiac output without increasing heart rate . 3 ) Plasma norepinephrine and aldosterone levels decreased 
+
+
+1780092
+
+gold spans: [[99, 108], [131, 139]]
+
+anti - inflammatory , analgesic and antipyretic activity and 
+speed and duration of therapeutic action . Assessment 
+
+
+crf spans: [[99, 108], [125, 145]]
+
+anti - inflammatory , analgesic and antipyretic activity and 
+complete remission . Nimesulide evidenced greater speed and duration of therapeutic action . Assessment on the effectiveness and tolerability as 
+
+
+15848261
+
+gold spans: [[23, 26], [146, 150], [205, 208], [226, 229], [258, 265]]
+
+gait improvement after 
+Gait spatiotemporal parameters were 
+Gait velocity increased 
+walking pattern was 
+double stance on the paretic limb between 
+
+
+crf spans: [[205, 208], [226, 229]]
+
+Gait velocity increased 
+walking pattern was 
+
+
+23417625
+
+gold spans: [[148, 158], [195, 197], [213, 215], [252, 254]]
+
+error rates for facial emotion labeling ( DANVA2 ) from 
+anger in 
+QoL increased 
+efficacy than 
+
+
+crf spans: [[102, 114], [180, 183], [210, 215]]
+
+perception of facial emotions and quality of life ( QoL ) in 
+error rates in 
+adult faces . QoL increased 
+
+
+17616069
+
+gold spans: [[120, 123], [153, 157], [218, 222]]
+
+red blood count 
+iron cell saturation and 
+serious adverse event with 
+
+
+crf spans: [[120, 124], [140, 149]]
+
+red blood count recovered 
+serum values of soluble transferrin receptors and ferritin were 
+
+
+18958161
+
+gold spans: [[14, 20], [109, 120], [165, 169], [256, 261]]
+
+self - face recognition . 
+
+ 
+brain responsiveness to images of the subjects ' own face and 
+right premotor/prefrontal system when 
+neural representations for self and 
+
+
+crf spans: []
+
+
+
+10764172
+
+gold spans: [[3, 7], [135, 141], [154, 158], [198, 202], [212, 218], [225, 229], [240, 243], [271, 274]]
+
+NK cell activity following 
+pain score and side effects were 
+NK cell activity was 
+NK cell activities showed 
+plasma adrenaline nor noradrenaline concentrations changed 
+plasma cortisol levels increased 
+pain score was 
+analgesic effects of 
+
+
+crf spans: [[134, 141], [225, 229], [240, 243]]
+
+postoperative pain score and side effects were 
+plasma cortisol levels increased 
+pain score was 
+
+
+12139812
+
+gold spans: [[103, 110], [111, 120], [181, 184]]
+
+corneal transparency with stable epithelial healing and 
+abnormal proliferation of pterygium - like tissue . The 
+recurred , the 
+
+
+crf spans: []
+
+
+
+6989377
+
+gold spans: [[156, 162], [164, 168], [219, 224], [230, 235], [247, 251], [257, 261]]
+
+saturated and monounsaturated fatty acids secreased 
+polyunsaturated fatty acids increased 
+fatty acid composition . Clofibrate 
+monounsaturated fatty acids , especially 
+triglycerides and phospholipids while 
+content of linoleic ( 
+
+
+crf spans: [[8, 12], [130, 134], [244, 251], [349, 353]]
+
+plasma lipid esters during 
+plasma lipid esters was 
+cholesterol esters , triglycerides and phospholipids while 
+plasma lipid esters but 
+
+
+3081600
+
+gold spans: [[39, 43], [68, 72], [74, 97], [97, 99], [115, 124], [125, 132], [140, 156], [163, 168]]
+
+efficacy and safety differences 
+Antidepressant response was assessed 
+Hamilton Depression and Anxiety Scales , Clinical Global Severity and Improvement Ratings , and the Zung Self - Rating Depression Scale . Comparable 
+efficacy between 
+sleep factor of the Hamilton Depression Scale , with 
+improving sleep to a greater extent than 
+anticholinergic side effects , including dry mouth , constipation , sleepiness , and tiredness , in 
+appetite and weight gain were 
+
+
+crf spans: [[39, 44], [74, 99], [138, 156], [163, 168]]
+
+efficacy and safety differences between 
+Hamilton Depression and Anxiety Scales , Clinical Global Severity and Improvement Ratings , and the Zung Self - Rating Depression Scale . Comparable efficacy between 
+incidence of anticholinergic side effects , including dry mouth , constipation , sleepiness , and tiredness , in 
+appetite and weight gain were 
+
+
+8771302
+
+gold spans: [[83, 87], [166, 169], [176, 179], [260, 263], [272, 281], [290, 295]]
+
+feasibility and accuracy of 
+hemodynamic performance was 
+fluoroscopic evaluation was 
+hemodynamic performance regardless 
+rate of success of the fluoroscopic evaluation . The 
+postoperative feasibility and accuracy of 
+
+
+crf spans: []
+
+
+
+2803397
+
+gold spans: [[2, 8], [27, 38], [208, 214], [236, 238], [267, 272], [274, 285]]
+
+sympatho - adrenergic stress reaction in 
+effects of various anaesthetic procedures on the endocrine stress responses during 
+remained within the normal range during 
+increased significantly 
+direct response to stress followed 
+secondary change in glucose , lactate and free glycerol . The 
+
+
+crf spans: [[133, 147], [152, 161], [205, 209]]
+
+plasma levels of epinephrine , norepinephrine , glucose , lactate and free glycerol were 
+arterial pressure ( MAP ) and heart rate ( 
+Plasma catecholamine concentrations remained 
+
+
+26278470
+
+gold spans: [[162, 173], [176, 191], [209, 214], [235, 237], [256, 260]]
+
+Yale - Brown Obsessive Compulsive Scale ( YBOCS ) . Secondary 
+level of insight , anxiety and depressive symptoms , and quality of life . Mixed 
+significant OCD symptom reduction was 
+insight ( 
+OCD symptom reduction than 
+
+
+crf spans: [[176, 195]]
+
+level of insight , anxiety and depressive symptoms , and quality of life . Mixed - effects models were 
+
+
+19096921
+
+gold spans: [[59, 68], [70, 78], [123, 129]]
+
+tantrums , aggression and self - injury ; parent 
+improvement in noncompliance and adaptive functioning . Thus 
+symptom reduction and functional improvement are 
+
+
+crf spans: [[44, 54]]
+
+measures of noncompliance , irritability and adaptive functioning . In 
+
+
+7598243
+
+gold spans: [[16, 20], [144, 153], [233, 237]]
+
+nausea and vomiting after 
+severe nausea , retching , or vomiting , defined 
+antiemetic prophylaxis , only 
+
+
+crf spans: [[121, 125], [144, 153]]
+
+profound systolic hypotension at 
+severe nausea , retching , or vomiting , defined 
+
+
+21896676
+
+gold spans: [[76, 104], [207, 213], [260, 272]]
+
+hospital admission , rate of re - presentation to the ED , visits to community healthcare practitioners , return to usual work/home/leisure activities and patient satisfaction . 
+ 
+rate of admission to hospital than 
+return to usual work/home/leisure activities and satisfaction with their EECU care were 
+
+
+crf spans: [[256, 268]]
+
+community healthcare resources , return to usual work/home/leisure activities and satisfaction with 
+
+
+22897461
+
+gold spans: [[99, 101], [101, 103], [226, 230], [266, 273], [280, 285], [303, 309], [320, 325]]
+
+dyslipidaemia and 
+MetS. 
+ 
+mean LDL size was 
+decrease in insulin resistance by RF was 
+HDL - C levels ( 
+cholesterol of larger HDL subclasses was 
+mean LDL size ; RF 
+
+
+crf spans: [[29, 47], [226, 230], [280, 285], [306, 309], [320, 326]]
+
+triglycerides ( TG ) , decreased high - density lipoprotein cholesterol ( HDL - C ) levels and 
+mean LDL size was 
+HDL - C levels ( 
+HDL subclasses was 
+mean LDL size ; RF was 
+
+
+10752495
+
+gold spans: [[2, 8], [25, 29], [48, 55], [83, 91], [182, 184], [187, 192]]
+
+creatinine clearance from serum creatinine in 
+glomerular filtration rate is 
+endogenous creatinine clearance ( Clcr ) from 
+Clcr from serum creatinine ( Scr ) in 
+reliably be 
+Clcr from Scr . 
+
+ 
+
+
+crf spans: []
+
+
+
+23392542
+
+gold spans: [[0, 9], [31, 37], [130, 153], [157, 161], [178, 182], [215, 217], [229, 233], [245, 250], [290, 294], [305, 310]]
+
+Plasma AGE - peptides and C - peptide in 
+circulatory AGE - peptide levels in 
+glucose , HbA1c , triglyceride , cholesterol , insulin , C - peptide , thiamine pyrophosphate , pyridoxal phosphate and AGE- peptides were 
+AGE - peptides were 
+AGE - peptides increased 
+HbA1c ( 
+C - peptide ( 
+plasma AGE - peptides was 
+AGE - peptides within 
+C - peptide . 
+
+ 
+
+
+crf spans: [[127, 153], [245, 250]]
+
+experimentation period , glucose , HbA1c , triglyceride , cholesterol , insulin , C - peptide , thiamine pyrophosphate , pyridoxal phosphate and AGE- peptides were 
+plasma AGE - peptides was 
+
+
+9229602
+
+gold spans: [[92, 100], [112, 116]]
+
+subjective and objective ocular symptoms effective . The 
+onset of action of 
+
+
+crf spans: [[45, 56], [76, 80], [92, 99]]
+
+antiallergic efficacy , local tolerance and safety of Antazolin/Tetryzolin eye drops 
+objective ocular symptoms were 
+subjective and objective ocular symptoms effective . 
+
+
+15854186
+
+gold spans: [[88, 92], [101, 106], [114, 119], [141, 150]]
+
+pain and discomfort in 
+pain or overall discomfort experienced 
+sensation of bad taste was 
+pain experienced and secondarily unpleasantness of taste . We 
+
+
+crf spans: []
+
+
+
+22435114
+
+gold spans: [[40, 43], [69, 73], [127, 138], [175, 190], [260, 263]]
+
+anxiety . Anxiety 
+anxiety symptoms . Modified 
+Anxiety Disorders Interview Schedule  Parent Version;ADIS - P ) pre- 
+Clinician Severity Ratings , diagnostic status , and clinician ratings of global improvement . In 
+anxiety . Limitations 
+
+
+crf spans: [[175, 190]]
+
+Clinician Severity Ratings , diagnostic status , and clinician ratings of global improvement . In 
+
+
+6920252
+
+gold spans: [[36, 44], [84, 90], [121, 126], [159, 162], [186, 190], [207, 212], [230, 239], [296, 301], [314, 321], [327, 334]]
+
+hyaline membrane disease ( HMD ) . Twelve 
+incidence and severity of HMD than 
+volume - pressure behavior of 
+deflation stability with 
+total lung phospholipid ( 
+alveolar lavage fluid phospholipid ( 
+alveolar lavage fluid disaturated phosphatidylcholine ( DPC ) ( 
+severity of experimental HMD in 
+maturation of fetal pulmonary functions , including 
+synthetic metabolism of SAM phospholipid . 
+
+ 
+
+
+crf spans: [[121, 126], [186, 190]]
+
+volume - pressure behavior of 
+total lung phospholipid ( 
+
+
+7017018
+
+gold spans: [[47, 52], [91, 103], [107, 116], [122, 131], [135, 148], [148, 163]]
+
+performance of elective appendectomy at 
+B. fragilis was the single organism isolated from blood and abscesses in 
+role for lymphocytes in containment of B. fragilis has 
+unexplained occurrence of bacteroides bacteremia in immunocompromised patients has 
+Lymphocytes themselves may be important in this host - bacterium interaction , or 
+lymphocytopenia may be the marker for a more generalized deficiency in host defenses . 
+
+ 
+
+
+crf spans: [[38, 44]]
+
+postoperative bacteremia . Bacteroides bacteremia was 
+
+
+3919804
+
+gold spans: [[11, 13], [156, 161], [173, 181], [184, 187], [205, 209]]
+
+retinopathy in 
+cotton wool spots . Patients 
+glycosylated haemoglobin and blood glucose values , more 
+hypoglycaemia , a 
+blood glucose concentration may 
+
+
+crf spans: [[173, 187]]
+
+glycosylated haemoglobin and blood glucose values , more frequent episodes of hypoglycaemia , a 
+
+
+16055807
+
+gold spans: [[179, 182]]
+
+informed consent to 
+
+
+crf spans: []
+
+
+
+10390665
+
+gold spans: [[0, 5], [12, 19], [24, 28], [104, 108], [177, 182], [195, 200], [208, 213]]
+
+Anti - emetic efficacy of 
+prevention of post - operative vomiting in 
+compared the efficacy of 
+complete response , defined 
+clinically serious adverse events were 
+better anti - emetic than 
+post - operative vomiting in 
+
+
+crf spans: [[178, 182]]
+
+serious adverse events were 
+
+
+10070173
+
+gold spans: [[128, 133], [181, 183], [183, 186]]
+
+daily nasal symptom scores were 
+epistaxis and 
+headache . Turbuhaler 
+
+
+crf spans: [[127, 133], [183, 187], [206, 209]]
+
+Mean daily nasal symptom scores were 
+headache . Turbuhaler was 
+nasal irritation than 
+
+
+12586799
+
+gold spans: [[136, 139], [209, 213], [235, 241], [265, 267], [313, 315], [317, 319]]
+
+Survival analysis was 
+overall survival rates were 
+progression - free survival rates were 
+toxicity was 
+no treatment 
+deaths in 
+
+
+crf spans: [[194, 197], [208, 213], [234, 241], [274, 280]]
+
+tumor relapse in 
+5-year overall survival rates were 
+5-year progression - free survival rates were 
+leukopenia and emesis , compliance with 
+
+
+18975051
+
+gold spans: [[22, 26], [153, 180], [213, 216], [236, 239], [256, 259]]
+
+intracranial arteriovenous contrast using 
+Attenuation values of the bilateral internal carotid arteries ( ICAs ) , basilar artery trunk , bilateral cavernous sinuses ( CSs ) , and Galenic vein were 
+arteriovenous contrast at 
+CT value of 
+ICA attenuation without 
+
+
+crf spans: [[208, 216], [256, 263]]
+
+- delivery rate achieved good arteriovenous contrast at 
+ICA attenuation without intracavernous attenuation gain during 
+
+
+22416755
+
+gold spans: [[108, 110], [113, 117]]
+
+responses suggested 
+learned general facts ( 
+
+
+crf spans: []
+
+
+
+21029638
+
+gold spans: [[80, 90], [122, 129], [210, 221], [299, 306], [382, 387], [425, 430], [496, 501], [532, 536]]
+
+positive and negative symptoms scales ( PANSS ) , social 
+factors and total scores of PANSS in 
+positive factor , negative factor and total scores of PANSS in 
+factors and total scores of PANSS in 
+total scores of SDSS in 
+total scores of SDSS in 
+total scores of SDSS in 
+severe adverse effect was 
+
+
+crf spans: [[82, 94], [124, 129], [216, 221], [301, 306], [532, 536], [552, 558]]
+
+negative symptoms scales ( PANSS ) , social disability screening schedule ( 
+total scores of PANSS in 
+total scores of PANSS in 
+total scores of PANSS in 
+severe adverse effect was 
+social functions and psychiatric symptoms of 
+
+
+6951573
+
+gold spans: [[10, 16], [118, 123], [163, 165], [187, 193]]
+
+the effect on relatives . 
+
+ 
+burden on the relatives of 
+satisfied with 
+burden on their relatives . 
+
+ 
+
+
+crf spans: []
+
+
+
+1459268
+
+gold spans: [[100, 116], [118, 127]]
+
+Response to ovarian stimulation and occurrence of spontaneous luteinizing hormone ( LH ) surges . 
+ 
+ovulation induction , fertilization , and pregnancy rates the 
+
+
+crf spans: [[42, 45], [118, 127]]
+
+ovulation induction in 
+ovulation induction , fertilization , and pregnancy rates the 
+
+
+11642083
+
+gold spans: [[25, 37], [84, 89], [106, 108], [127, 131], [151, 161], [171, 174], [191, 198]]
+
+systolic function of the left ventricle , arrhythmia and clinical symptoms in 
+Left ventricular systolic function was 
+arrhythmia was 
+left ventricular dilation by 
+end systolic and diastolic volumes of the left ventricle in 
+Antiarrhythmic action of 
+progression of left ventricular systolic dysfunction and 
+
+
+crf spans: [[25, 37], [85, 89], [151, 161]]
+
+systolic function of the left ventricle , arrhythmia and clinical symptoms in 
+ventricular systolic function was 
+end systolic and diastolic volumes of the left ventricle in 
+
+
+24451919
+
+gold spans: [[1, 3], [5, 10], [71, 79], [163, 168], [178, 182], [192, 200], [217, 220], [248, 253], [258, 265]]
+
+Effect of 
+Medial Prefrontal Cortex Activation During 
+shared and disorder - specific brain dysfunctions in 
+assessed drug effects . Patients 
+normalization effects . fMRI 
+medial prefrontal cortex ( mPFC ) , compared 
+mPFC activation was 
+task performance in ADHD. Fluoxetine 
+mPFC activation in ASD and ADHD during 
+
+
+crf spans: [[211, 220]]
+
+precuneus activation . Under Fluoxetine , mPFC activation was 
+
+
+7831628
+
+gold spans: [[5, 9], [98, 106], [106, 108], [169, 171], [211, 215]]
+
+constant exhalation . 
+
+ 
+Exhalation TLCO ( TLCO , ex ) was 
+compared with 
+relation was 
+comparable pathophysiological factors affect 
+
+
+crf spans: []
+
+
+
+24317958
+
+gold spans: [[27, 29], [38, 45], [90, 92], [122, 128], [156, 166], [178, 186], [186, 194], [211, 218], [255, 263], [285, 292], [311, 319]]
+
+efficiency of 
+removal of a root canal sealer from 
+effects of 
+removal of the sealer . The 
+amount of remaining sealer in the root canal irregularities was 
+remaining sealer on the root canal surface was 
+evaluated with a 7-grade scoring system . 
+ 
+removing sealer from root canal walls ( 
+sealer removal from the root canal surface during 
+Incomplete removal of root canal sealer during 
+remove sealer from a root canal . 
+
+ 
+
+
+crf spans: []
+
+
+
+8911222
+
+gold spans: [[234, 251], [263, 271], [276, 291], [323, 329], [334, 339]]
+
+whirling , flapping , pacing , banging and hitting self , rocking , and toe walking ( 
+calm and happy and more anxious . No 
+social relatedness or repetitive thoughts and behavior . Plasma total and free tryptophan levels were 
+baseline plasma total tryptophan levels ( 
+Autism Behavior Checklist scores ( 
+
+
+crf spans: [[248, 251], [276, 291], [334, 339]]
+
+toe walking ( 
+social relatedness or repetitive thoughts and behavior . Plasma total and free tryptophan levels were 
+Autism Behavior Checklist scores ( 
+
+
+8911223
+
+gold spans: [[165, 170], [175, 178], [184, 186], [197, 200], [206, 209], [233, 238], [248, 257]]
+
+repetitive thoughts and behavior ( 
+maladaptive behavior ( 
+aggression ( 
+social relatedness ( 
+language usage ( 
+mild sedation and nausea in 
+dyskinesias , adverse cardiovascular events , or seizures occurred 
+
+
+crf spans: [[233, 238], [245, 257]]
+
+mild sedation and nausea in 
+tolerated . No dyskinesias , adverse cardiovascular events , or seizures occurred 
+
+
+20618920
+
+gold spans: [[116, 126]]
+
+exercise , diet , sunlight exposure and sleep . Outcome 
+
+
+crf spans: []
+
+
+
+18189160
+
+gold spans: [[226, 229], [229, 233], [248, 255], [270, 273], [284, 291], [308, 314], [340, 347]]
+
+adverse events and 
+personal/logistical reasons . One 
+Grade 3 - 4 haematological toxicities were 
+febrile neutropenia during 
+liver enzymes and gastrointestinal events ; no 
+vomiting and throat oedema ) . 
+Grade 3 - 4 toxicity . 
+
+ 
+
+
+crf spans: [[246, 255], [270, 273], [284, 293], [304, 315]]
+
+diarrhoea . Grade 3 - 4 haematological toxicities were 
+febrile neutropenia during 
+liver enzymes and gastrointestinal events ; no event resulted 
+serious adverse events ( vomiting and throat oedema ) . In 
+
+
+11317090
+
+gold spans: [[107, 125], [133, 166], [224, 242], [246, 248], [252, 254], [263, 265], [310, 313]]
+
+Quality of Well - Being Scale ( QWB ) and Current Health Desirability Rating ( CHDR ) were 
+arthritis - specific Health Assessment Questionnaire ( HAQ ) , Center for Epidemiologic Studies - Depression Scale ( CES - D ) , and Perceived Quality of Life Scale ( PQOL ) collected 
+QWB ) or better ( CHDR , HAQ , PQOL ) health - related quality of life compared 
+improved with 
+Costs/QALY gained 
+QWB and 
+cost effectiveness of 
+
+
+crf spans: [[38, 49], [107, 125], [133, 166], [182, 190], [229, 242], [248, 254]]
+
+Cost per quality - adjusted life year ( QALY ) gained 
+Quality of Well - Being Scale ( QWB ) and Current Health Desirability Rating ( CHDR ) were 
+arthritis - specific Health Assessment Questionnaire ( HAQ ) , Center for Epidemiologic Studies - Depression Scale ( CES - D ) , and Perceived Quality of Life Scale ( PQOL ) collected 
+QALYs . Use of health care facilities was 
+CHDR , HAQ , PQOL ) health - related quality of life compared 
+regular class attendance . Costs/QALY gained 
+
+
+7707420
+
+gold spans: [[232, 236]]
+
+risk comprehension , compared 
+
+
+crf spans: []
+
+
+
+21669557
+
+gold spans: [[50, 52], [110, 115], [116, 124], [208, 215], [221, 226], [235, 239], [247, 249], [306, 312], [343, 350], [356, 359]]
+
+effects of 
+ST - segment depression and 
+heart rate variability ( HRV ) . 
+ 
+HRV and ST - segment values were 
+ST - segment depression was 
+Personal fine PM [ 
+exposures were 
+ST - segment depression . We 
+nonspecific ST - segment depression , suggesting 
+ventricular repolarization and 
+
+
+crf spans: [[110, 124], [208, 215]]
+
+ST - segment depression and increase heart rate variability ( HRV ) . 
+ 
+HRV and ST - segment values were 
+
+
+22420121
+
+gold spans: [[134, 143], [180, 183], [239, 244]]
+
+Linguistic age , cognitive level and autistic symptoms were 
+Communicative abilities were 
+complexity of emitted messages had 
+
+
+crf spans: [[149, 183]]
+
+Peabody Picture Vocabulary Test ( PPVT ) , the Wechsler Intelligence Scale ( WISC - R or WAIS - III ) , and the Autistic Behavior Checklist ( ABC ) . Communicative abilities were 
+
+
+6418441
+
+gold spans: [[61, 65], [71, 75], [82, 86], [97, 104], [150, 154]]
+
+breathlessness at rest ( 
+breathlessness on exertion ( 
+quality of sleep ( 
+morning peak expiratory flow rate value ( 
+usage of bronchodilators ( 
+
+
+crf spans: [[97, 104]]
+
+morning peak expiratory flow rate value ( 
+
+
+18229990
+
+gold spans: [[0, 3], [46, 49], [100, 115], [137, 141], [141, 143], [181, 185]]
+
+Language outcome in 
+language outcome 12 
+JA skills , SP skills , mother - child interactions , and language development were 
+expressive language gains were 
+greater for 
+improved language outcome significantly 
+
+
+crf spans: [[100, 115]]
+
+JA skills , SP skills , mother - child interactions , and language development were 
+
+
+22646975
+
+gold spans: [[8, 14], [16, 21], [22, 29], [29, 37], [104, 129], [129, 142], [144, 149], [154, 156], [198, 204], [223, 226], [234, 238], [247, 254], [268, 273]]
+
+anxiety and quality of life among 
+inflammatory bowel disease . 
+
+ 
+Inflammatory Bowel Disease ( IBD ) impacts 
+quality of life ( QoL ) . Psychological 
+pre and post - treatment : state anxiety was assessed with the State - Trait Anxiety Inventory , QoL with the IBD Questionnaire . The 
+Visual Analogue Scale assessed pain , depression , stress and mood . Patients 
+symptom monitoring diary . The 
+monitored without 
+showed a statistically significant improvement as 
+anxiety levels decreased 
+QoL and mood improved 
+levels of pain and stress decreased ( 
+benefit from relaxation training in 
+
+
+crf spans: [[116, 124], [129, 142], [223, 226], [249, 253]]
+
+State - Trait Anxiety Inventory , QoL with 
+Visual Analogue Scale assessed pain , depression , stress and mood . Patients 
+anxiety levels decreased 
+pain and stress decreased 
+
+
+23357440
+
+gold spans: [[12, 14], [31, 33], [89, 93], [141, 143], [146, 151], [183, 185], [214, 217], [217, 222], [234, 236]]
+
+anxiety in 
+efficacy of 
+clinically significant anxiety were 
+improvement relative 
+primary anxiety outcomes . Of 
+Gains were 
+large effects in 
+reducing anxiety symptoms . This 
+anxiety in 
+
+
+crf spans: []
+
+
+
+7814711
+
+gold spans: [[182, 186], [268, 272]]
+
+rate of cure by 
+rate of cure for 
+
+
+crf spans: [[182, 186], [268, 277]]
+
+rate of cure by 
+rate of cure for S. aureus mastitis . 
+
+ 
+
+
+24660757
+
+gold spans: [[96, 99], [101, 106], [160, 162]]
+
+boundary conditions as 
+underlying psychological processes . Two 
+compensation is 
+
+
+crf spans: []
+
+
+
+361799
+
+gold spans: []
+
+
+
+crf spans: []
+
+
+
+21170734
+
+gold spans: [[103, 108], [124, 128], [140, 143], [163, 189]]
+
+cortisol and glucose levels were 
+Serum lactate levels were 
+Lactate levels were 
+serum levels of cholesterol , total protein , lactate dehydrogenase , aspartate aminotransferase , alanine aminotransferase , Na , Cl , K , and Ca. Results 
+
+
+crf spans: [[103, 108], [124, 128]]
+
+cortisol and glucose levels were 
+Serum lactate levels were 
+
+
+24075141
+
+gold spans: [[26, 30], [72, 81], [170, 181], [189, 192]]
+
+dietary response . 
+
+ 
+differences between dietary and non - dietary participants across 
+several factors to be potentially pertinent to a positive response to 
+Chronological age was 
+
+
+crf spans: []
+
+
+
+10912743
+
+gold spans: [[7, 13], [34, 41], [78, 92], [186, 188], [195, 198], [218, 223], [232, 237], [334, 337]]
+
+clinic and ambulatory blood pressure in 
+blood pressure ( BP ) control in 
+clinic and ambulatory systolic ( SBP ) and diastolic ( DBP ) BP in 
+BP evaluation 
+ambulatory BP monitoring 
+clinic SBP and DBP were 
+Ambulatory SBP and DBP after 
+BP control in 
+
+
+crf spans: [[80, 92], [218, 223], [232, 237]]
+
+ambulatory systolic ( SBP ) and diastolic ( DBP ) BP in 
+clinic SBP and DBP were 
+Ambulatory SBP and DBP after 
+
+
+20189026
+
+gold spans: [[163, 170], [248, 252], [296, 300], [332, 334], [339, 341], [347, 350], [364, 368]]
+
+myocardial salvage index at 30 days after 
+Median salvage index was 
+mean salvage index was 
+death ( 
+reinfarction ( 
+heart failure ( 
+myocardial salvage , and 
+
+
+crf spans: [[128, 136], [245, 252], [327, 332]]
+
+blood - pressure cuff ) . Allocation was 
+salvage index . Median salvage index was 
+Major adverse coronary events were 
+
+
+15858959
+
+gold spans: [[0, 2], [109, 117], [143, 147], [170, 172], [174, 178], [188, 193], [231, 236], [248, 253], [254, 260]]
+
+Effects of 
+The medians of the average stool frequency after 
+duration of diarrhoea significantly 
+effect of 
+on watery diarrhoea became 
+duration of hospital stay was 
+persisting diarrhoea . 
+ CONCLUSION 
+duration of acute diarrhoea and 
+duration of hospital stay . S. 
+
+
+crf spans: [[143, 147], [188, 193], [248, 262]]
+
+duration of diarrhoea significantly 
+duration of hospital stay was 
+duration of acute diarrhoea and the duration of hospital stay . S. boulardii seems 
+
+
+11829043
+
+gold spans: [[5, 7], [31, 44], [118, 161], [172, 177], [187, 190], [207, 210]]
+
+effect of 
+anxiety level and self - reported quality of life ( QoL ) on 
+Chinese State - Trait Anxiety Inventory ( C - STAI ) , the Quality of Life Index for Colostomy ( QoL - Colostomy ) and the Hong Kong Chinese version of the World Health Organisation Quality of Life Scale ( WHOQoL ) . 
+C - STAI score ( 
+WHOQoL score ( 
+WHOQoL , a 
+
+
+crf spans: [[31, 44], [118, 136], [150, 162], [187, 190], [261, 269]]
+
+anxiety level and self - reported quality of life ( QoL ) on 
+Chinese State - Trait Anxiety Inventory ( C - STAI ) , the Quality of Life Index for 
+World Health Organisation Quality of Life Scale ( WHOQoL ) . Results 
+WHOQoL score ( 
+quality of life and decrease state anxiety in 
+
+
+11099086
+
+gold spans: [[90, 94], [199, 202], [202, 214], [229, 234], [270, 273], [277, 280], [284, 288], [293, 295], [295, 299], [327, 332], [347, 351], [380, 387]]
+
+efficacy and safety of 
+Stool cultures for 
+Shigella , Salmonella , Campylobacter spp . and diarrheagenic Escherichia coli were 
+Clinical response and safety were 
+Shigella ; 23 
+Salmonella ; 18 
+E. coli ; and 
+Campylobacter . 
+Overall bacteriologic eradication on 
+Clinical cure or improvement was 
+Serum ciprofloxacin values determined 
+Possible drug - related adverse events occurred 
+
+
+crf spans: [[53, 58], [327, 332], [384, 387]]
+
+acute invasive diarrhea requiring an 
+Clinical cure or improvement was 
+adverse events occurred 
+
+
+2224060
+
+gold spans: [[40, 44], [117, 119], [127, 130], [133, 135], [187, 189], [189, 191]]
+
+immunological response . A 
+remission than 
+survival . Though 
+remission was 
+survival and 
+remission especially 
+
+
+crf spans: []
+
+
+
